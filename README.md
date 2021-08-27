@@ -172,11 +172,11 @@ Created by (probably?) Andreas before August 19th, 2021. Reason: unknown. The id
 
 ## List of people involved
 
-Discord usernames in brackets.
+Discord tags in brackets.
 
-* sin-ack (@Agni)
-* Andreas Kling (@awesomekling)
-* networkException (@networkException)
-* Brian Gianforcaro (@bgianf)
-* Ali Muhammadpur (@CxByte_)
-* Sam Atkins (@AtkinsSJ)
+* sin-ack (@Agni#5047)
+* Andreas Kling (@awesomekling#1985)
+* networkException (@networkException#0001)
+* Brian Gianforcaro (@bgianf#0001)
+* Ali Muhammadpur (@CxByte_#0373)
+* Sam Atkins (@AtkinsSJ#8644)
