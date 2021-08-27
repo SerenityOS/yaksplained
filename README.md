@@ -130,6 +130,30 @@ Serenity's shrug emoji. People have mentioned that it looks kind of creepy.
 
 Created by sin-ack on July 31st, 2021. Reason: Andreas responded to [their use of a shrug emoji](https://discord.com/channels/830522505605283862/830739873119207426/870797713439072308) with the then-non-existent yakshrug, which resulted in the creation of the emoji.
 
+### Yakslice: \*surprised yak sounds\*
+
+![](yakslice.png)
+
+This yak was just split up. Used when things go wrong in general, or if the yak just got deeper.
+
+Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a harness error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851180017261346866).
+
+### Yaksplode: \*even more surprised yak sounds\*
+
+![](yaksplode.png)
+
+Yak go boom. Similar in use to yakslice, used when things go wrong. Especially for crashes and the likes.
+
+Created by sin-ack on June 6th, 2021: Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a (regular) error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851172304959307777).
+
+### Yakstack: But that's already on the stack
+
+![](yakstack.png)
+
+Refers to the stuff you want to do in Serenity, your to-do list etc. Used similar to yakoverflow, just in general when referencing all of the many things that are to be done.
+
+Created by (probably?) Andreas before June 17th, 2021. Reason: unknown.
+
 ### Yaktangle: Well... this got out of control.
 
 ![](yaktangle.png)
@@ -137,6 +161,14 @@ Created by sin-ack on July 31st, 2021. Reason: Andreas responded to [their use o
 A box of hair. Used for the most difficult/cumbersome/long-winded problems.
 
 Created by sin-ack on August 24th, 2021 together with _hairyak_.
+
+### Yakthonk: Hmmmmmmmmmmmmmmmmm
+
+![](yakthonk.png)
+
+Serenity's thonk emoji, for when something is very strange/interesting.
+
+Created by (probably?) Andreas before August 19th, 2021. Reason: unknown. The idea was previously mentioned by him on June 8th, 2021 [here](https://discord.com/channels/830522505605283862/830525235803586570/851874120148451350).
 
 ## List of people involved
 
