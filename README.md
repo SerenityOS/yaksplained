@@ -24,7 +24,7 @@ Created by sin-ack on August 24th, 2021. Reason: Andreas requested a "particular
 
 Shave incoming. Used for when you're about to solve/currently solving a problem. Or if you noticed a problem and want to solve it right now.
 
-Created by sin-ack before July 18th, 2021. Reason: unknown. Also relevant: [the associated meme](https://discord.com/channels/830522505605283862/830525235803586570/867538791962378240).
+Created by sin-ack on July 17th, 2021. Reason: [requested by Andreas](https://discord.com/channels/830522505605283862/830525235803586570/865881764111450112). Also relevant: [the associated meme](https://discord.com/channels/830522505605283862/830525235803586570/867538791962378240).
 
 ### Neoyak: Hax0r
 
@@ -56,7 +56,7 @@ Created by sin-ack on July 30th, 2021. Reason: unknown. [First version's message
 
 A yak just baiting you to be shaved. Serenity's version of the [nerd snipe](https://xkcd.com/356/).
 
-Created by sin-ack on August 8th, 2021. Reason: unknown. The similarity to the nerd snipe was first mentioned by networkException a couple of days later [(this message)](https://discord.com/channels/830522505605283862/859531354219872266/875851312686825564).
+Created by Andreas on August 7th, 2021. Reason: Andrew commented ["don't yak bait me I'm trying to work on the build system lol"](https://discord.com/channels/830522505605283862/831544568767578162/873671201262817290) (private channel). The similarity to the nerd snipe was first mentioned by networkException a couple of days later [(this message)](https://discord.com/channels/830522505605283862/859531354219872266/875851312686825564).
 
 ### Yakbrain: 5Head
 
@@ -64,7 +64,7 @@ Created by sin-ack on August 8th, 2021. Reason: unknown. The similarity to the n
 
 That's smart. Comparable use to the 5Head emoji.
 
-Created by (probably?) Andreas on August 14th, 2021. Reason: unknown.
+Created by Andreas on August 14th, 2021. Reason: unknown.
 
 ### Yakfire: \*smiles\* This is fine!
 
@@ -104,7 +104,7 @@ Created by sin-ack on June 27th, 2021. Reason: unknown [(this message)](https://
 
 A pun on Stack Overflow, obviously. When the yak stack gets too large.
 
-Created by (probably?) Andreas before June 17th, 2021. Reason: unknown.
+Created by Andreas on June 17th, 2021. Reason: Brian requested ["We need agni to make a yakoverflow icon, like the stack overflow logo :^)"](https://discord.com/channels/830522505605283862/831544568767578162/855121465112395806) (private channel).
 
 ### Yakplus: `yakstack.push(new Yak())`
 
@@ -112,7 +112,7 @@ Created by (probably?) Andreas before June 17th, 2021. Reason: unknown.
 
 You found a problem you want to work on. There's a new yak for your stack!
 
-Created by (probably?) Andreas before June 14th, 2021. Reason: unknown.
+Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying ["aaaaaaaaand our parser is too non-spec-compliant for that workaround"](https://discord.com/channels/830522505605283862/851522357734408232/853953089873510451).
 
 ### Yakshed: ~~who tf even came up with this~~
 
@@ -120,7 +120,7 @@ Created by (probably?) Andreas before June 14th, 2021. Reason: unknown.
 
 A combination of yak shaving and bikeshedding. The latter refers to [procrastination or investing time into unimportant issues](https://en.wiktionary.org/wiki/bikeshedding) (as opposed to yakshaving, where time is invested into only _seemingly_ unimportant issues). The emoji can be used when the distinction is not exactly clear.
 
-Created by Andreas (probably?) before July 21st, 2021. Reason: unknown.
+Created by Andreas on July 18th, 2021. Reason: unknown.
 
 ### Yakshrug: idk man
 
@@ -152,7 +152,7 @@ Created by sin-ack on June 6th, 2021: Reason: symbols for the bot's LibJS test26
 
 Refers to the stuff you want to do in Serenity, your to-do list etc. Used similar to yakoverflow, just in general when referencing all of the many things that are to be done.
 
-Created by (probably?) Andreas before June 17th, 2021. Reason: unknown.
+Created by Andreas on June 17th, 2021. Reason: unknown. Various people used the term "yakstack" beforehand.
 
 ### Yaktangle: Well... this got out of control.
 
@@ -168,15 +168,17 @@ Created by sin-ack on August 24th, 2021 together with _hairyak_.
 
 Serenity's thonk emoji, for when something is very strange/interesting.
 
-Created by (probably?) Andreas before August 19th, 2021. Reason: unknown. The idea was previously mentioned by him on June 8th, 2021 [here](https://discord.com/channels/830522505605283862/830525235803586570/851874120148451350).
+Created by Andreas on August 19th, 2021. Reason: unknown. The idea was previously mentioned by him on June 8th, 2021 [here](https://discord.com/channels/830522505605283862/830525235803586570/851874120148451350).
 
 ## List of people involved
 
 Discord tags in brackets.
 
 * sin-ack (@Agni#5047)
+* Sam Atkins (@AtkinsSJ#8644)
 * Andreas Kling (@awesomekling#1985)
-* networkException (@networkException#0001)
 * Brian Gianforcaro (@bgianf#0001)
 * Ali Muhammadpur (@CxByte_#0373)
-* Sam Atkins (@AtkinsSJ#8644)
+* Lubrsi (@Lubrsi#5588)
+* networkException (@networkException#0001)
+* Andrew Kaster (@Rambo#6840)
