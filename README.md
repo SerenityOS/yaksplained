@@ -106,6 +106,14 @@ Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which
 
 Created by Andreas on September 3rd, 2021. Reason: a couple of days earlier, Brian noted ["(I think we need :yakkiss:)"](https://discord.com/channels/830522505605283862/831544568767578162/880934728428056648).
 
+### Yakmagnet: TODO
+
+![yakmagnet](https://cdn.discordapp.com/emojis/885265534470459473.png)
+
+Some people just attract yaks left and right. Like a yak magnet.
+
+Created by Andreas on September 8th, 2021. Reason: unknown. Probably someone attracting yet another yak.
+
 ### Yakminus: `yakstack.pop()`
 
 ![yakminus](https://cdn.discordapp.com/emojis/858638240864927744.png)
