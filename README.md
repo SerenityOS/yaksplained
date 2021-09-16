@@ -190,7 +190,9 @@ Created by Andreas on June 17th, 2021. Reason: unknown. Various people used the 
 
 ![yaksteps](https://cdn.discordapp.com/emojis/886305554736238654.png)
 
-There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.
+Baby steps, but involving yaks.
+
+Alternate meaning: There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.
 
 Created by Andreas on September 11th, 2021. Reason: Checking all `VERIFY()`s in the Kernel is not a one-man job. Little by little - [:yaksteps:](https://discord.com/channels/830522505605283862/830739873119207426/886303238503170048)!
 
