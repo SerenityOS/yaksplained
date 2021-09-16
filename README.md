@@ -72,7 +72,7 @@ Created by Andreas on August 14th, 2021. Reason: unknown.
 
 There's a yak, that leads to another yak, that leads to another yak, ... and so on.
 
-Creation unknown.
+Created by Mustafa. Reason: A discussion about blockchain and microkernels (don't ask).
 
 ### Yakfire: \*smiles\* This is fine!
 
@@ -102,9 +102,9 @@ Created by Sam Atkins on August 18th, 2021. Reason: [the aforementioned purpose]
 
 ![yakkiss](https://cdn.discordapp.com/emojis/883457694789406732.png?v=1)
 
-Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which also exists on the server), in particular when relating to yaks.
+Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which also exists on the server), in particular when relating to code.
 
-Creation unknown.
+Created by Andreas on September 3rd, 2021. Reason: a couple of days earlier, Brian noted ["(I think we need :yakkiss:)"](https://discord.com/channels/830522505605283862/831544568767578162/880934728428056648).
 
 ### Yakminus: `yakstack.pop()`
 
@@ -136,7 +136,7 @@ Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying ["aa
 
 Yak angry. General angry emoji.
 
-Creation unknown.
+Created by Andreas on September 11th, 2021. Reason: unknown.
 
 ### Yakshed: ~~who tf even came up with this~~
 
@@ -184,7 +184,7 @@ Created by Andreas on June 17th, 2021. Reason: unknown. Various people used the 
 
 There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.
 
-Creation unknown.
+Created by Andreas on September 11th, 2021. Reason: Checking all `VERIFY()`s in the Kernel is not a one-man job. Little by little - [:yaksteps:](https://discord.com/channels/830522505605283862/830739873119207426/886303238503170048)!
 
 ### Yaktangle: Well... this got out of control.
 
@@ -206,7 +206,7 @@ Created by Andreas on August 19th, 2021. Reason: unknown. The idea was previousl
 
 ![yaktoberfest](https://cdn.discordapp.com/emojis/885576692687597638.png)
 
-Purpose and creation unknown.
+Created by Andreas on September 9th, 2021. Reason: It's that time of the year again - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is back (very soon)!
 
 ## List of people involved
 
