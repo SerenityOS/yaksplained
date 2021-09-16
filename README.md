@@ -144,7 +144,7 @@ Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying ["aa
 
 Yak angry. General angry emoji.
 
-Created by Andreas on September 11th, 2021. Reason: unknown.
+Created by Andreas on September 11th, 2021. Reason: Ali raging about JS stuff (reeeeeeeeee).
 
 ### Yakshed: ~~who tf even came up with this~~
 
