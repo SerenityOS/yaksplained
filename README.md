@@ -66,6 +66,14 @@ That's smart. Comparable use to the 5Head emoji.
 
 Created by Andreas on August 14th, 2021. Reason: unknown.
 
+### Yakchain: \*stampede approaching\*
+
+![yakchain](yakchain.png)
+
+There's a yak, that leads to another yak, that leads to another yak, ... and so on.
+
+Creation unknown.
+
 ### Yakfire: \*smiles\* This is fine!
 
 ![yakfire](yakfire.png)
@@ -90,6 +98,14 @@ A musical yak. "For when you're chasing a yak around all day and getting nowhere
 
 Created by Sam Atkins on August 18th, 2021. Reason: [the aforementioned purpose](https://discord.com/channels/830522505605283862/831144706079195176/877495085191794699).
 
+### Yakkiss: /ʘ/
+
+![yakkiss](yakkiss.png)
+
+Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which also exists on the server), in particular when relating to yaks.
+
+Creation unknown.
+
 ### Yakminus: `yakstack.pop()`
 
 ![yakminus](yakminus.png)
@@ -113,6 +129,14 @@ Created by Andreas on June 17th, 2021. Reason: Brian requested ["We need agni to
 You found a problem you want to work on. There's a new yak for your stack!
 
 Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying ["aaaaaaaaand our parser is too non-spec-compliant for that workaround"](https://discord.com/channels/830522505605283862/851522357734408232/853953089873510451).
+
+### Yakrage: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+![yakrage](yakrage.gif)
+
+Yak angry. General angry emoji.
+
+Creation unknown.
 
 ### Yakshed: ~~who tf even came up with this~~
 
@@ -154,6 +178,14 @@ Refers to the stuff you want to do in Serenity, your to-do list etc. Used simila
 
 Created by Andreas on June 17th, 2021. Reason: unknown. Various people used the term "yakstack" beforehand.
 
+### Yaksteps: I can almost spot the yak in the distance.
+
+![yaksteps](yaksteps.png)
+
+There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.
+
+Creation unknown.
+
 ### Yaktangle: Well... this got out of control.
 
 ![yaktangle](yaktangle.png)
@@ -169,6 +201,12 @@ Created by sin-ack on August 24th, 2021 together with _hairyak_.
 Serenity's thonk emoji, for when something is very strange/interesting.
 
 Created by Andreas on August 19th, 2021. Reason: unknown. The idea was previously mentioned by him on June 8th, 2021 [here](https://discord.com/channels/830522505605283862/830525235803586570/851874120148451350).
+
+### Yaktoberfest: \*bavarian music intensifies\*
+
+![yaktoberfest](yaktoberfest.png)
+
+Purpose and creation unknown.
 
 ## List of people involved
 
