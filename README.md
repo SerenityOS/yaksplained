@@ -12,7 +12,7 @@ Note that most of this is based on my personal observations, and while I can rem
 
 ### Hairyak: How did this grow so fast?
 
-![hairyak](hairyak.png)
+![hairyak](https://cdn.discordapp.com/emojis/879749569964015646.png)
 
 This one's a hairy yak to shave. Used for particularly difficult/cumbersome/long-winded problems.
 
@@ -20,7 +20,7 @@ Created by sin-ack on August 24th, 2021. Reason: Andreas requested a "particular
 
 ### Imminentyakshave: This yak's about to be shaved.
 
-![imminentyakshave](imminentyakshave.png)
+![imminentyakshave](https://cdn.discordapp.com/emojis/866030445388365884.png)
 
 Shave incoming. Used for when you're about to solve/currently solving a problem. Or if you noticed a problem and want to solve it right now.
 
@@ -28,7 +28,7 @@ Created by sin-ack on July 17th, 2021. Reason: [requested by Andreas](https://di
 
 ### Neoyak: Hax0r
 
-![neoyak](neoyak.png)
+![neoyak](https://cdn.discordapp.com/emojis/851188922512048199.png)
 
 Hacker terminal or coding-themed yak, for all your hacker needs. Used in conjunction with Terminal or pop culture hacker-related things. Also used as a ninja yak when something ninja-related comes up.
 
@@ -36,7 +36,7 @@ Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test26
 
 ### Skeleyak: That's an old one.
 
-![skeleyak](skeleyak.png)
+![skeleyak](https://cdn.discordapp.com/emojis/851188921290457150.png)
 
 When one of your yaks is really old or just has been sitting around for a long time.
 
@@ -44,7 +44,7 @@ Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test26
 
 ### Sleepyak: Zzzzz...
 
-![sleepyak](sleepyak.png)
+![sleepyak](https://cdn.discordapp.com/emojis/870598400016535554.png)
 
 Don't wake the yak. A general sleep emoji.
 
@@ -52,7 +52,7 @@ Created by sin-ack on July 30th, 2021. Reason: unknown. [First version's message
 
 ### Yakbait: Nerd Snipe.
 
-![yakbait](yakbait.png)
+![yakbait](https://cdn.discordapp.com/emojis/873672505309679758.png)
 
 A yak just baiting you to be shaved. Serenity's version of the [nerd snipe](https://xkcd.com/356/).
 
@@ -60,7 +60,7 @@ Created by Andreas on August 7th, 2021. Reason: Andrew commented ["don't yak bai
 
 ### Yakbrain: 5Head
 
-![yakbrain](yakbrain.png)
+![yakbrain](https://cdn.discordapp.com/emojis/853957472607273001.png)
 
 That's smart. Comparable use to the 5Head emoji.
 
@@ -68,7 +68,7 @@ Created by Andreas on August 14th, 2021. Reason: unknown.
 
 ### Yakchain: \*stampede approaching\*
 
-![yakchain](yakchain.png)
+![yakchain](https://cdn.discordapp.com/emojis/887111540967366677.png)
 
 There's a yak, that leads to another yak, that leads to another yak, ... and so on.
 
@@ -76,7 +76,7 @@ Creation unknown.
 
 ### Yakfire: \*smiles\* This is fine!
 
-![yakfire](yakfire.png)
+![yakfire](https://cdn.discordapp.com/emojis/860262878984536065.png)
 
 Something just blew up/went wrong, or you found a fun bug. Can also be used as a "This is fine!" analog.
 
@@ -84,7 +84,7 @@ Created by Andreas on July 1st, 2021. Reason: Brian requested a ["Yak/Buggie wra
 
 ### Yakfused: Yak is confusion.
 
-![yakfused](yakfused.png)
+![yakfused](https://cdn.discordapp.com/emojis/851873832003960833.png?v=1)
 
 Generic confusion emoji.
 
@@ -92,7 +92,7 @@ Created by sin-ack on June 8th, 2021. Reason: In response to an admittedly [weir
 
 ### Yakketysax: \*jazz noises\*
 
-![yakketysax](yakketysax.png)
+![yakketysax](https://cdn.discordapp.com/emojis/877495327635157053.png)
 
 A musical yak. "For when you're chasing a yak around all day and getting nowhere."
 
@@ -100,7 +100,7 @@ Created by Sam Atkins on August 18th, 2021. Reason: [the aforementioned purpose]
 
 ### Yakkiss: /ʘ/
 
-![yakkiss](yakkiss.png)
+![yakkiss](https://cdn.discordapp.com/emojis/883457694789406732.png?v=1)
 
 Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which also exists on the server), in particular when relating to yaks.
 
@@ -108,7 +108,7 @@ Creation unknown.
 
 ### Yakminus: `yakstack.pop()`
 
-![yakminus](yakminus.png)
+![yakminus](https://cdn.discordapp.com/emojis/858638240864927744.png)
 
 You just managed to finish work on something. One yak is off the stack!
 
@@ -116,7 +116,7 @@ Created by sin-ack on June 27th, 2021. Reason: unknown [(this message)](https://
 
 ### Yakoverflow: The programmer's favorite website.
 
-![yakoverflow](yakoverflow.png)
+![yakoverflow](https://cdn.discordapp.com/emojis/855122942097489970.png)
 
 A pun on Stack Overflow, obviously. When the yak stack gets too large.
 
@@ -124,7 +124,7 @@ Created by Andreas on June 17th, 2021. Reason: Brian requested ["We need agni to
 
 ### Yakplus: `yakstack.push(new Yak())`
 
-![yakplus](yakplus.png)
+![yakplus](https://cdn.discordapp.com/emojis/858658840371265566.png)
 
 You found a problem you want to work on. There's a new yak for your stack!
 
@@ -132,7 +132,7 @@ Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying ["aa
 
 ### Yakrage: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-![yakrage](yakrage.gif)
+![yakrage](https://cdn.discordapp.com/emojis/886216551131406356.gif)
 
 Yak angry. General angry emoji.
 
@@ -140,7 +140,7 @@ Creation unknown.
 
 ### Yakshed: ~~who tf even came up with this~~
 
-![yakshed](yakshed.png)
+![yakshed](https://cdn.discordapp.com/emojis/866370560493223977.png)
 
 A combination of yak shaving and bikeshedding. The latter refers to [procrastination or investing time into unimportant issues](https://en.wiktionary.org/wiki/bikeshedding) (as opposed to yakshaving, where time is invested into only _seemingly_ unimportant issues). The emoji can be used when the distinction is not exactly clear.
 
@@ -148,7 +148,7 @@ Created by Andreas on July 18th, 2021. Reason: unknown.
 
 ### Yakshrug: idk man
 
-![yakshrug](yakshrug.png)
+![yakshrug](https://cdn.discordapp.com/emojis/870805412847443978.png)
 
 Serenity's shrug emoji. People have mentioned that it looks kind of creepy.
 
@@ -156,7 +156,7 @@ Created by sin-ack on July 31st, 2021. Reason: Andreas responded to [their use o
 
 ### Yakslice: \*surprised yak sounds\*
 
-![yakslice](yakslice.png)
+![yakslice](https://cdn.discordapp.com/emojis/851188921881854012.png)
 
 This yak was just split up. Used when things go wrong in general, or if the yak just got deeper.
 
@@ -164,7 +164,7 @@ Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test26
 
 ### Yaksplode: \*even more surprised yak sounds\*
 
-![yaksplode](yaksplode.png)
+![yaksplode](https://cdn.discordapp.com/emojis/851173158526517318.png)
 
 Yak go boom. Similar in use to yakslice, used when things go wrong. Especially for crashes and the likes.
 
@@ -172,7 +172,7 @@ Created by sin-ack on June 6th, 2021: Reason: symbols for the bot's LibJS test26
 
 ### Yakstack: But that's already on the stack
 
-![yakstack](yakstack.png)
+![yakstack](https://cdn.discordapp.com/emojis/855017260779438091.png)
 
 Refers to the stuff you want to do in Serenity, your to-do list etc. Used similar to yakoverflow, just in general when referencing all of the many things that are to be done.
 
@@ -180,7 +180,7 @@ Created by Andreas on June 17th, 2021. Reason: unknown. Various people used the 
 
 ### Yaksteps: I can almost spot the yak in the distance.
 
-![yaksteps](yaksteps.png)
+![yaksteps](https://cdn.discordapp.com/emojis/886305554736238654.png)
 
 There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.
 
@@ -188,7 +188,7 @@ Creation unknown.
 
 ### Yaktangle: Well... this got out of control.
 
-![yaktangle](yaktangle.png)
+![yaktangle](https://cdn.discordapp.com/emojis/879749676167991316.png)
 
 A box of hair. Used for the most difficult/cumbersome/long-winded problems.
 
@@ -196,7 +196,7 @@ Created by sin-ack on August 24th, 2021 together with _hairyak_.
 
 ### Yakthonk: Hmmmmmmmmmmmmmmmmm
 
-![yakthonk](yakthonk.png)
+![yakthonk](https://cdn.discordapp.com/emojis/877928647300898856.png)
 
 Serenity's thonk emoji, for when something is very strange/interesting.
 
@@ -204,7 +204,7 @@ Created by Andreas on August 19th, 2021. Reason: unknown. The idea was previousl
 
 ### Yaktoberfest: \*bavarian music intensifies\*
 
-![yaktoberfest](yaktoberfest.png)
+![yaktoberfest](https://cdn.discordapp.com/emojis/885576692687597638.png)
 
 Purpose and creation unknown.
 
