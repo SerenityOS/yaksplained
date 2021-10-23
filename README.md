@@ -122,7 +122,7 @@ Generic confusion emoji.
 
 Created by sin-ack on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), sin-ack used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by sin-ack.
 
-## Yakid2: CSS is my passion
+### Yakid2: CSS is my passion
 
 ![yakid2](https://cdn.discordapp.com/emojis/888189245594931202.png)
 
