@@ -34,6 +34,14 @@ Hacker terminal or coding-themed yak, for all your hacker needs. Used in conjunc
 
 Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status. Here, it is used for all the tests that caused a runner exception. Starting with [this message](https://discord.com/channels/830522505605283862/830525235803586570/851168937131638784), and with encouragement by networkException a conversation commenced that led to the creation of custom emojis for all the test runner results. _These emojis will be referred to here as the neoyak group._
 
+### Partyak: Congratulations!
+
+![partyak](https://cdn.discordapp.com/emojis/901168038248874045.png)
+
+This yak is having a party, compare to the default (i.e. Unicode) 🥳 emoji.
+
+Created by Linus on October 21st, 2021. Reason: [celebration of the :yakking: emoji](https://discord.com/channels/830522505605283862/830522505605283866/900713226810064967) (see below).
+
 ### Skeleyak: That's an old one.
 
 ![skeleyak](https://cdn.discordapp.com/emojis/851188921290457150.png)
@@ -74,6 +82,14 @@ There's a yak, that leads to another yak, that leads to another yak, ... and so 
 
 Created by Mustafa on September 13th, 2021. Reason: A discussion about blockchain and microkernels (don't ask).
 
+### Yakea: Everyone's favorite Swedish furniture.
+
+![yakea](https://cdn.discordapp.com/emojis/888202246301569064.png)
+
+A yak in the style of [IKEA](https://www.ikea.com/), the infamous Swedish furniture company that has come to kind of (ironically and unironically) represent Sweden internationally. A reference to the fact that Andreas is Swedish.
+
+Created by Linus on September 17th, 2021. Reason: In the discussion that ensued from the announcement of :yakid2: (see below), Sam mentioned that the emoji looked like ["Björn, the yak from Ikea"](https://discord.com/channels/830522505605283862/830525235803586570/888193041091928074), to which Andreas responded "Yakea\*" and during a chain of Yak-Ikea-related jokes, Linus created the emoji.
+
 ### Yakfire: \*smiles\* This is fine!
 
 ![yakfire](https://cdn.discordapp.com/emojis/860262878984536065.png)
@@ -89,6 +105,18 @@ Created by Andreas on July 1st, 2021. Reason: Brian requested a ["Yak/Buggie wra
 Generic confusion emoji.
 
 Created by sin-ack on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), sin-ack used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by sin-ack.
+
+## Yakid2: CSS is my passion
+
+![yakid2](https://cdn.discordapp.com/emojis/888189245594931202.png)
+
+~~oh god where do I start~~ [ACID2](https://www.webstandards.org/files/acid2/test.html) is a popular test page that tests the compliance of a web browser, mainly CSS. The test is set up in such a way that only when the browser is (almost) compliant, a perfect smiley face will appear; otherwise, elements of the face are shifted, wrongly sized etc. For some time now, an ACID2 emoji :acid2:has existed on the server, demonstrating Browser's current compliance level. As to be expected, it still looks pretty bad:
+
+![acid2](https://cdn.discordapp.com/emojis/889834235681210409.png)
+
+Yakid2 is then just a yak emoji in the vein of the ACID2 emoji.
+
+Created by Andreas before September 17th, 2021. Reason: Unknown. First mentioned publicly by Linus [here](https://discord.com/channels/830522505605283862/830525235803586570/888190475956281374).
 
 ### Yakketysax: \*jazz noises\*
 
@@ -236,3 +264,4 @@ Discord tags in brackets.
 * Lubrsi (@Lubrsi#5588)
 * networkException (@networkException#0001)
 * Andrew Kaster (@Rambo#6840)
+* Linus Groh (@linusg#0001)
