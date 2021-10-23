@@ -10,6 +10,14 @@ Yakshaving refers to doing work that seems pointless but is necessary to achieve
 
 Note that most of this is based on my personal observations, and while I can remember about half of these being created, I'll most certainly be wrong in how they are used in one place or another. Order is alphabetical.
 
+### Goldenyak: shineh shineh trophey
+
+![goldenyak](https://cdn.discordapp.com/emojis/894236717421318144.png)
+
+A trophy-like shiny yak, for giving out awards when someone shaved a difficult yak.
+
+Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some bug fix description, he wrote "if it works, that's a golden yak for you". Apparently it did work, because shortly after that, he posted the newly-created :goldenyak:. The details here are a bit fuzzy, see [this message](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824)
+
 ### Hairyak: How did this grow so fast?
 
 ![hairyak](https://cdn.discordapp.com/emojis/879749569964015646.png)
@@ -41,6 +49,14 @@ Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test26
 This yak is having a party, compare to the default (i.e. Unicode) 🥳 emoji.
 
 Created by Linus on October 21st, 2021. Reason: [celebration of the :yakking: emoji](https://discord.com/channels/830522505605283862/830522505605283866/900713226810064967) (see below).
+
+### Reyakted: This yak is named \[REDACTED\], it was born on ■■■■■■■.
+
+![reyakted](https://cdn.discordapp.com/emojis/896486220106956810.png)
+
+(Note to the RFC editor: Insert an SCP joke here.)
+
+Created by Linus on October 9th, 2021. Reason: After discussing the :goldenyak: origins (see above) with [Linus' blacked-out screenshot](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824), Sam asked [":reyakted: emote wen?"](https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490) and Linus promptly created it. 
 
 ### Skeleyak: That's an old one.
 
@@ -163,6 +179,14 @@ Created by sin-ack on June 27th, 2021. Reason: unknown [(this message)](https://
 A pun on Stack Overflow, obviously. When the yak stack gets too large.
 
 Created by Andreas on June 17th, 2021. Reason: Brian requested ["We need agni to make a yakoverflow icon, like the stack overflow logo :^)"](https://discord.com/channels/830522505605283862/831544568767578162/855121465112395806) (private channel).
+
+### Yakping: *\*Ping\* You have mail!*
+
+![yakping](https://cdn.discordapp.com/emojis/893078703800745994.png)
+
+This yak was @mentioned. Used for when you get pinged by people.
+
+Created by Linus on September 30th, 2021. Reason: ["inspired by none other than yourself \[sin-ack\]"](https://discord.com/channels/830522505605283862/830525235803586570/893093905514504222).
 
 ### Yakplus: `yakstack.push(new Yak())`
 
