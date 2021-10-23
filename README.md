@@ -126,6 +126,12 @@ A musical yak. "For when you're chasing a yak around all day and getting nowhere
 
 Created by Sam Atkins on August 18th, 2021. Reason: [the aforementioned purpose](https://discord.com/channels/830522505605283862/831144706079195176/877495085191794699).
 
+### Yakking: The king of yaks
+
+![yakking](https://cdn.discordapp.com/emojis/900686373844025364.png)
+
+Created by networkException on October 21th, 2021. Reason: sin-ack welcomed Andreas back with "welcome back king". Andreas responded with "right back at you yak king" which sin-ack responded to with "🦬 👑".
+
 ### Yakkiss: /ʘ/
 
 ![yakkiss](https://cdn.discordapp.com/emojis/883457694789406732.png?v=1)
@@ -245,12 +251,6 @@ Created by Andreas on August 19th, 2021. Reason: unknown. The idea was previousl
 ![yaktoberfest](https://cdn.discordapp.com/emojis/885576692687597638.png)
 
 Created by Andreas on September 9th, 2021. Reason: It's that time of the year again - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is back (very soon)!
-
-### Yakking: The king of yaks
-
-![yakking](https://cdn.discordapp.com/emojis/900686373844025364.png)
-
-Created by networkException on October 21th, 2021. Reason: sin-ack welcomed Andreas back with "welcome back king". Andreas responded with "right back at you yak king" which sin-ack responded to with ":bison: :crown:".
 
 ## List of people involved
 
