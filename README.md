@@ -10,13 +10,13 @@ Yakshaving refers to doing work that seems pointless but is necessary to achieve
 
 Note that most of this is based on my personal observations, and while I can remember about half of these being created, I'll most certainly be wrong in how they are used in one place or another. Order is alphabetical.
 
-### Goldenyak: shineh shineh trophey
+### Goldyak: shineh shineh trophey
 
-![goldenyak](https://cdn.discordapp.com/emojis/894236717421318144.png)
+![goldyak](https://cdn.discordapp.com/emojis/894236717421318144.png)
 
 A trophy-like shiny yak, for giving out awards when someone shaved a difficult yak.
 
-Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some bug fix description, he wrote "if it works, that's a golden yak for you". Apparently it did work, because shortly after that, he posted the newly-created :goldenyak:. The details here are a bit fuzzy, see [this message](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824)
+Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some bug fix description, he wrote "if it works, that's a golden yak for you". Apparently it did work, because shortly after that, he posted the newly-created :goldyak:. The details here are a bit fuzzy, see [this message](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824)
 
 ### Hairyak: How did this grow so fast?
 
@@ -56,7 +56,7 @@ Created by Linus on October 21st, 2021. Reason: [celebration of the :yakking: em
 
 (Note to the RFC editor: Insert an SCP joke here.)
 
-Created by Linus on October 9th, 2021. Reason: After discussing the :goldenyak: origins (see above) with [Linus' blacked-out screenshot](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824), Sam asked [":reyakted: emote wen?"](https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490) and Linus promptly created it. 
+Created by Linus on October 9th, 2021. Reason: After discussing the :goldyak: origins (see above) with [Linus' blacked-out screenshot](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824), Sam asked [":reyakted: emote wen?"](https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490) and Linus promptly created it. 
 
 ### Skeleyak: That's an old one.
 
