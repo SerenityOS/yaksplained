@@ -48,7 +48,7 @@ Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test26
 
 This yak is having a party, compare to the default (i.e. Unicode) 🥳 emoji.
 
-Created by Linus on October 21st, 2021. Reason: [celebration of the :yakking: emoji](https://discord.com/channels/830522505605283862/830522505605283866/900713226810064967) (see below).
+Created by Andreas on October 21st, 2021. Reason: [celebration of the :yakking: emoji](https://discord.com/channels/830522505605283862/830522505605283866/900713226810064967) (see below).
 
 ### Reyakted: This yak is named \[REDACTED\], it was born on ■■■■■■■.
 
