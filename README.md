@@ -16,7 +16,7 @@ Note that most of this is based on my personal observations, and while I can rem
 
 A trophy-like shiny yak, for giving out awards when someone shaved a difficult yak.
 
-Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some bug fix description, he wrote "if it works, that's a golden yak for you". Apparently it did work, because shortly after that, he posted the newly-created :goldyak:. The details here are a bit fuzzy, see [this message](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824)
+Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some bug fix description, he wrote ["if it works, that's a golden yak for you"](https://discord.com/channels/830522505605283862/886211697843531866/894235121933254696). Apparently it did work, because shortly after that, he posted the newly-created :goldyak:. The details here are a bit fuzzy, see [this message](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824).
 
 ### Hairyak: How did this grow so fast?
 
