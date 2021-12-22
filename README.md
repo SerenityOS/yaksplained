@@ -242,7 +242,7 @@ Created by Andreas on September 11th, 2021. Reason: Ali raging about JS stuff (r
 
 A sad yak emoji similar to the Unicode 😢.
 
-Creator unknown; created before December 14th 2021. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/920376494449102858).
+Created by sin-ack on December 14th, 2021. Reason: [Requested by Linus, originally under the name of `:sadyak:`](https://discord.com/channels/830522505605283862/831544568767578162/920323814917832705) (private channel). It was changed to `:yaksad:` to [make it consistent with the name of the other yak emotes and thus make it easier to autocomplete](https://discord.com/channels/830522505605283862/831544568767578162/920327908428492880) (private channel).
 
 ### Yakshed: ~~who tf even came up with this~~
 
