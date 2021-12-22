@@ -58,6 +58,14 @@ Created by Andreas on October 21st, 2021. Reason: [celebration of the :yakking: 
 
 Created by Linus on October 9th, 2021. Reason: After discussing the :goldyak: origins (see above) with [Linus' blacked-out screenshot](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824), Sam asked [":reyakted: emote wen?"](https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490) and Linus promptly created it. 
 
+### Shavedyak: \*shivers\*
+
+![shavedyak](https://cdn.discordapp.com/emojis/919968342368993301.png)
+
+A completely shaved or even naked yak. The ultimate endpoint in the yakshaving sequence.
+
+Created by sin-ack on December 13th, 2021. Reason: While he was working on yakmail (see below), he apparently deleted the entire hair, [creating shavedyak accidentally](https://discord.com/channels/830522505605283862/830525235803586570/919965580365287455). Linus was quick to point out that ["This is cursed, I'd be happy to add it as :shavedyak:"](https://discord.com/channels/830522505605283862/830525235803586570/919966596460589096).
+
 ### Skeleyak: That's an old one.
 
 ![skeleyak](https://cdn.discordapp.com/emojis/851188921290457150.png)
@@ -74,6 +82,14 @@ Don't wake the yak. A general sleep emoji.
 
 Created by sin-ack on July 30th, 2021. Reason: unknown. [First version's message](https://discord.com/channels/830522505605283862/830525235803586570/870589889320742932).
 
+### Xmasyak: Yakky Holidays!
+
+![xmasyak](https://cdn.discordapp.com/emojis/915529868219940944.png)
+
+A christmas-themed yak, partially inspired by the fact that many people add a santa hat to their avatar in December.
+
+Created by Andreas before December 1st, 2021. Reason: probably the above, or the question for a "SerenityOS Winter Holiday Theme". [This message](https://discord.com/channels/830522505605283862/830522505605283866/915406501760348170) is the first to include xmasyak as a reaction.
+
 ### Yakbait: Nerd Snipe.
 
 ![yakbait](https://cdn.discordapp.com/emojis/873672505309679758.png)
@@ -81,6 +97,14 @@ Created by sin-ack on July 30th, 2021. Reason: unknown. [First version's message
 A yak just baiting you to be shaved. Serenity's version of the [nerd snipe](https://xkcd.com/356/).
 
 Created by Andreas on August 7th, 2021. Reason: Andrew commented ["don't yak bait me I'm trying to work on the build system lol"](https://discord.com/channels/830522505605283862/831544568767578162/873671201262817290) (private channel). The similarity to the nerd snipe was first mentioned by networkException a couple of days later [(this message)](https://discord.com/channels/830522505605283862/859531354219872266/875851312686825564).
+
+### Yakblush: \*turns red and starts to stutter\*
+
+![yakblush](https://cdn.discordapp.com/emojis/921153579266498590.png)
+
+A blushing yak emote like the Unicode 😊.
+
+Creator and creation date unknown; [this](https://discord.com/channels/830522505605283862/830718394768162837/921724736009011251) is the first message containing it.
 
 ### Yakbrain: 5Head
 
@@ -156,6 +180,14 @@ Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which
 
 Created by Andreas on September 3rd, 2021. Reason: a couple of days earlier, Brian noted ["(I think we need :yakkiss:)"](https://discord.com/channels/830522505605283862/831544568767578162/880934728428056648).
 
+### Yakmail: *\*Ping\* You have mail!*
+
+![yakmail](https://cdn.discordapp.com/emojis/919968307212333116.png)
+
+Since Serenity has an e-mail client, it's only logical that there's a mail-themed yak.
+
+Created by sin-ack on December 13th 2021. Reason: After a lengthy unrelated discussion, Andreas pointed out that ["that sounds like the building blocks of blackmail"](https://discord.com/channels/830522505605283862/830522505605283866/919916646326476861), to which GMTA responded ":yakmail:" and sin-ack created the emoji.
+
 ### Yakmagnet: TODO
 
 ![yakmagnet](https://cdn.discordapp.com/emojis/885265534470459473.png)
@@ -180,7 +212,7 @@ A pun on Stack Overflow, obviously. When the yak stack gets too large.
 
 Created by Andreas on June 17th, 2021. Reason: Brian requested ["We need agni to make a yakoverflow icon, like the stack overflow logo :^)"](https://discord.com/channels/830522505605283862/831544568767578162/855121465112395806) (private channel).
 
-### Yakping: *\*Ping\* You have mail!*
+### Yakping: *\*Discord ping\* You have mail!*
 
 ![yakping](https://cdn.discordapp.com/emojis/893078703800745994.png)
 
@@ -203,6 +235,14 @@ Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying ["aa
 Yak angry. General angry emoji.
 
 Created by Andreas on September 11th, 2021. Reason: Ali raging about JS stuff (reeeeeeeeee).
+
+### Yaksad: \*sheds a tear\*
+
+![yaksad](https://cdn.discordapp.com/emojis/920328207276867634.png)
+
+A sad yak emoji similar to the Unicode 😢.
+
+Creator unknown; created before December 14th 2021. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/920376494449102858).
 
 ### Yakshed: ~~who tf even came up with this~~
 
@@ -289,3 +329,4 @@ Discord tags in brackets.
 * networkException (@networkException#0001)
 * Andrew Kaster (@Rambo#6840)
 * Linus Groh (@linusg#0001)
+* GMTA (@GMTA#9448)
