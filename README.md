@@ -236,6 +236,14 @@ Yak angry. General angry emoji.
 
 Created by Andreas on September 11th, 2021. Reason: Ali raging about JS stuff (reeeeeeeeee).
 
+### Yakring: *One Ring to rule them all, / One Ring to find them,*
+
+![yakring](https://cdn.discordapp.com/emojis/924399473780736010.png)
+
+*One Ring to bring them all / and in the darkness bind them* ~~(Sorry)~~. When some yak chain closes back in on itself, or just a reference to circular buffers.
+
+Created by Andreas on December 25th, 2021. Reason: In a discussion about CI flakiness, Daniel commented [":yakcircularbuffer:"](https://discord.com/channels/830522505605283862/830739873119207426/924387598116478976), referencing the fact that circular buffers in the Kernel might be the culprit for many of these fails and crashes. In response Andreas created :yakring: and [Agni first](https://discord.com/channels/830522505605283862/830739873119207426/924401950643093544) made the [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) reference replicated above.
+
 ### Yaksad: \*sheds a tear\*
 
 ![yaksad](https://cdn.discordapp.com/emojis/920328207276867634.png)
