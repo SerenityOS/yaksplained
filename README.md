@@ -24,7 +24,7 @@ Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some 
 
 This one's a hairy yak to shave. Used for particularly difficult/cumbersome/long-winded problems.
 
-Created by sin-ack on August 24th, 2021. Reason: Andreas requested a "particularly hairy yak" [(first message in the chain)](https://discord.com/channels/830522505605283862/830525235803586570/879746499108556881).
+Created by Agni on August 24th, 2021. Reason: Andreas requested a "particularly hairy yak" [(first message in the chain)](https://discord.com/channels/830522505605283862/830525235803586570/879746499108556881).
 
 ### Imminentyakshave: This yak's about to be shaved.
 
@@ -32,7 +32,7 @@ Created by sin-ack on August 24th, 2021. Reason: Andreas requested a "particular
 
 Shave incoming. Used for when you're about to solve/currently solving a problem. Or if you noticed a problem and want to solve it right now.
 
-Created by sin-ack on July 17th, 2021. Reason: [requested by Andreas](https://discord.com/channels/830522505605283862/830525235803586570/865881764111450112). Also relevant: [the associated meme](https://discord.com/channels/830522505605283862/830525235803586570/867538791962378240).
+Created by Agni on July 17th, 2021. Reason: [requested by Andreas](https://discord.com/channels/830522505605283862/830525235803586570/865881764111450112). Also relevant: [the associated meme](https://discord.com/channels/830522505605283862/830525235803586570/867538791962378240).
 
 ### Neoyak: Hax0r
 
@@ -40,7 +40,7 @@ Created by sin-ack on July 17th, 2021. Reason: [requested by Andreas](https://di
 
 Hacker terminal or coding-themed yak, for all your hacker needs. Used in conjunction with Terminal or pop culture hacker-related things. Also used as a ninja yak when something ninja-related comes up.
 
-Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status. Here, it is used for all the tests that caused a runner exception. Starting with [this message](https://discord.com/channels/830522505605283862/830525235803586570/851168937131638784), and with encouragement by networkException a conversation commenced that led to the creation of custom emojis for all the test runner results. _These emojis will be referred to here as the neoyak group._
+Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status. Here, it is used for all the tests that caused a runner exception. Starting with [this message](https://discord.com/channels/830522505605283862/830525235803586570/851168937131638784), and with encouragement by networkException a conversation commenced that led to the creation of custom emojis for all the test runner results. _These emojis will be referred to here as the neoyak group._
 
 ### Partyak: Congratulations!
 
@@ -64,7 +64,7 @@ Created by Linus on October 9th, 2021. Reason: After discussing the :goldyak: or
 
 A completely shaved or even naked yak. The ultimate endpoint in the yakshaving sequence.
 
-Created by sin-ack on December 13th, 2021. Reason: While he was working on yakmail (see below), he apparently deleted the entire hair, [creating shavedyak accidentally](https://discord.com/channels/830522505605283862/830525235803586570/919965580365287455). Linus was quick to point out that ["This is cursed, I'd be happy to add it as :shavedyak:"](https://discord.com/channels/830522505605283862/830525235803586570/919966596460589096).
+Created by Agni on December 13th, 2021. Reason: While he was working on yakmail (see below), he apparently deleted the entire hair, [creating shavedyak accidentally](https://discord.com/channels/830522505605283862/830525235803586570/919965580365287455). Linus was quick to point out that ["This is cursed, I'd be happy to add it as :shavedyak:"](https://discord.com/channels/830522505605283862/830525235803586570/919966596460589096).
 
 ### Skeleyak: That's an old one.
 
@@ -72,7 +72,7 @@ Created by sin-ack on December 13th, 2021. Reason: While he was working on yakma
 
 When one of your yaks is really old or just has been sitting around for a long time.
 
-Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that timed out. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851176393000747089).
+Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that timed out. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851176393000747089).
 
 ### Sleepyak: Zzzzz...
 
@@ -80,7 +80,7 @@ Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test26
 
 Don't wake the yak. A general sleep emoji.
 
-Created by sin-ack on July 30th, 2021. Reason: unknown. [First version's message](https://discord.com/channels/830522505605283862/830525235803586570/870589889320742932).
+Created by Agni on July 30th, 2021. Reason: unknown. [First version's message](https://discord.com/channels/830522505605283862/830525235803586570/870589889320742932).
 
 ### Xmasyak: Yakky Holidays!
 
@@ -104,7 +104,7 @@ Created by Andreas on August 7th, 2021. Reason: Andrew commented ["don't yak bai
 
 A blushing yak emote like the Unicode 😊.
 
-Created by sin-ack on December 16th, 2021. Reason: after discussing the ages of contributors, Brian remarked that ["Damn, serenity has a lot of Wunderkinds"](https://discord.com/channels/830522505605283862/831544568767578162/921149719747625040) (private channel), to which Daniel responded with ":yakblush:". sin-ack quickly joined in with the newly created Yakblush emoji. [This](https://discord.com/channels/830522505605283862/830718394768162837/921724736009011251) is the first public message containing it.
+Created by Agni on December 16th, 2021. Reason: after discussing the ages of contributors, Brian remarked that ["Damn, serenity has a lot of Wunderkinds"](https://discord.com/channels/830522505605283862/831544568767578162/921149719747625040) (private channel), to which Daniel responded with ":yakblush:". Agni quickly joined in with the newly created Yakblush emoji. [This](https://discord.com/channels/830522505605283862/830718394768162837/921724736009011251) is the first public message containing it.
 
 ### Yakbrain: 5Head
 
@@ -144,7 +144,7 @@ Created by Andreas on July 1st, 2021. Reason: Brian requested a ["Yak/Buggie wra
 
 Generic confusion emoji.
 
-Created by sin-ack on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), sin-ack used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by sin-ack.
+Created by Agni on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), Agni used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by Agni.
 
 ### Yakid2: CSS is my passion
 
@@ -170,7 +170,7 @@ Created by Sam Atkins on August 18th, 2021. Reason: [the aforementioned purpose]
 
 ![yakking](https://cdn.discordapp.com/emojis/900686373844025364.png)
 
-Created by networkException on October 21th, 2021. Reason: sin-ack welcomed Andreas back with "welcome back king". Andreas responded with "right back at you yak king" which sin-ack responded to with "🦬 👑".
+Created by networkException on October 21th, 2021. Reason: Agni welcomed Andreas back with "welcome back king". Andreas responded with "right back at you yak king" which Agni responded to with "🦬 👑".
 
 ### Yakkiss: /ʘ/
 
@@ -186,7 +186,7 @@ Created by Andreas on September 3rd, 2021. Reason: a couple of days earlier, Bri
 
 Since Serenity has an e-mail client, it's only logical that there's a mail-themed yak.
 
-Created by sin-ack on December 13th 2021. Reason: After a lengthy unrelated discussion, Andreas pointed out that ["that sounds like the building blocks of blackmail"](https://discord.com/channels/830522505605283862/830522505605283866/919916646326476861), to which GMTA responded ":yakmail:" and sin-ack created the emoji.
+Created by Agni on December 13th 2021. Reason: After a lengthy unrelated discussion, Andreas pointed out that ["that sounds like the building blocks of blackmail"](https://discord.com/channels/830522505605283862/830522505605283866/919916646326476861), to which GMTA responded ":yakmail:" and Agni created the emoji.
 
 ### Yakmagnet: TODO
 
@@ -202,7 +202,7 @@ Created by Andreas on September 8th, 2021. Reason: unknown. Probably someone att
 
 You just managed to finish work on something. One yak is off the stack!
 
-Created by sin-ack on June 27th, 2021. Reason: unknown [(this message)](https://discord.com/channels/830522505605283862/830525235803586570/858635750970359808). They first mentioned the idea on June 14th [here](https://discord.com/channels/830522505605283862/830525235803586570/854076622365655060).
+Created by Agni on June 27th, 2021. Reason: unknown [(this message)](https://discord.com/channels/830522505605283862/830525235803586570/858635750970359808). They first mentioned the idea on June 14th [here](https://discord.com/channels/830522505605283862/830525235803586570/854076622365655060).
 
 ### Yakoverflow: The programmer's favorite website.
 
@@ -218,7 +218,7 @@ Created by Andreas on June 17th, 2021. Reason: Brian requested ["We need agni to
 
 This yak was @mentioned. Used for when you get pinged by people.
 
-Created by Linus on September 30th, 2021. Reason: ["inspired by none other than yourself \[sin-ack\]"](https://discord.com/channels/830522505605283862/830525235803586570/893093905514504222).
+Created by Linus on September 30th, 2021. Reason: ["inspired by none other than yourself \[Agni\]"](https://discord.com/channels/830522505605283862/830525235803586570/893093905514504222).
 
 ### Yakplus: `yakstack.push(new Yak())`
 
@@ -242,7 +242,7 @@ Created by Andreas on September 11th, 2021. Reason: Ali raging about JS stuff (r
 
 A sad yak emoji similar to the Unicode 😢.
 
-Created by sin-ack on December 14th, 2021. Reason: [Requested by Linus, originally under the name of `:sadyak:`](https://discord.com/channels/830522505605283862/831544568767578162/920323814917832705) (private channel). It was changed to `:yaksad:` to [make it consistent with the name of the other yak emotes and thus make it easier to autocomplete](https://discord.com/channels/830522505605283862/831544568767578162/920327908428492880) (private channel).
+Created by Agni on December 14th, 2021. Reason: [Requested by Linus, originally under the name of `:sadyak:`](https://discord.com/channels/830522505605283862/831544568767578162/920323814917832705) (private channel). It was changed to `:yaksad:` to [make it consistent with the name of the other yak emotes and thus make it easier to autocomplete](https://discord.com/channels/830522505605283862/831544568767578162/920327908428492880) (private channel).
 
 ### Yakshed: ~~who tf even came up with this~~
 
@@ -258,7 +258,7 @@ Created by Andreas on July 18th, 2021. Reason: unknown.
 
 Serenity's shrug emoji. People have mentioned that it looks kind of creepy.
 
-Created by sin-ack on July 31st, 2021. Reason: Andreas responded to [their use of a shrug emoji](https://discord.com/channels/830522505605283862/830739873119207426/870797713439072308) with the then-non-existent yakshrug, which resulted in the creation of the emoji.
+Created by Agni on July 31st, 2021. Reason: Andreas responded to [their use of a shrug emoji](https://discord.com/channels/830522505605283862/830739873119207426/870797713439072308) with the then-non-existent yakshrug, which resulted in the creation of the emoji.
 
 ### Yakslice: \*surprised yak sounds\*
 
@@ -266,7 +266,7 @@ Created by sin-ack on July 31st, 2021. Reason: Andreas responded to [their use o
 
 This yak was just split up. Used when things go wrong in general, or if the yak just got deeper.
 
-Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a harness error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851180017261346866).
+Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a harness error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851180017261346866).
 
 ### Yaksplode: \*even more surprised yak sounds\*
 
@@ -274,7 +274,7 @@ Created by sin-ack on June 6th, 2021. Reason: symbols for the bot's LibJS test26
 
 Yak go boom. Similar in use to yakslice, used when things go wrong. Especially for crashes and the likes.
 
-Created by sin-ack on June 6th, 2021: Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a (regular) error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851172304959307777).
+Created by Agni on June 6th, 2021: Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a (regular) error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851172304959307777).
 
 ### Yakstack: But that's already on the stack
 
@@ -300,7 +300,7 @@ Created by Andreas on September 11th, 2021. Reason: Checking all `VERIFY()`s in 
 
 A box of hair. Used for the most difficult/cumbersome/long-winded problems.
 
-Created by sin-ack on August 24th, 2021 together with _hairyak_.
+Created by Agni on August 24th, 2021 together with _hairyak_.
 
 ### Yakthonk: Hmmmmmmmmmmmmmmmmm
 
@@ -320,7 +320,7 @@ Created by Andreas on September 9th, 2021. Reason: It's that time of the year ag
 
 Discord tags in brackets.
 
-* sin-ack (@Agni#5047)
+* Agni (@Agni#5047)
 * Sam Atkins (@AtkinsSJ#8644)
 * Andreas Kling (@awesomekling#1985)
 * Brian Gianforcaro (@bgianf#0001)
