@@ -152,7 +152,7 @@ Created by Agni on June 8th, 2021. Reason: In response to an admittedly [weird c
 
 ~~oh god where do I start~~ [ACID2](https://www.webstandards.org/files/acid2/test.html) is a popular test page that tests the compliance of a web browser, mainly CSS. The test is set up in such a way that only when the browser is (almost) compliant, a perfect smiley face will appear; otherwise, elements of the face are shifted, wrongly sized etc. For some time now, an ACID2 emoji :acid2:has existed on the server, demonstrating Browser's current compliance level. As to be expected, it still looks pretty bad:
 
-![acid2](https://cdn.discordapp.com/emojis/889834235681210409.png)
+![acid2](https://cdn.discordapp.com/emojis/908128059687837776.png)
 
 Yakid2 is then just a yak emoji in the vein of the ACID2 emoji.
 
