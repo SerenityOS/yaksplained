@@ -10,6 +10,22 @@ Yakshaving refers to doing work that seems pointless but is necessary to achieve
 
 Note that most of this is based on my personal observations, and while I can remember about half of these being created, I'll most certainly be wrong in how they are used in one place or another. Order is alphabetical.
 
+### 8bityak: \*chiptune starts playing\*
+
+![8bityak](https://cdn.discordapp.com/emojis/928632967545368616.png)
+
+A retro yak for all your nostalgia needs.
+
+Created by Sam on or before February 28th, 2013, added as an emoji by Andreas on January 6th, 2022. The yak was created by Sam for his [yak game](https://github.com/AtkinsSJ/yak) ([play online if you have flash](http://samatkins.co.uk/games/yak/)) [as part of a game jam in 2013](https://discord.com/channels/830522505605283862/830525235803586570/928700382551625818), and Andreas uncovered it on the date he created the emoji ([this message](https://discord.com/channels/830522505605283862/831544568767578162/928630761626664971) (private channel)).
+
+### Babyak: it's so cuuute
+
+![babyak](https://cdn.discordapp.com/emojis/929500826240696350.png)
+
+A baby-faced yak that represents very young people (or yaks, for that matter).
+
+Created by Andreas on January 8th, 2022. Reason: in a discussion, he noticed that someone was [less than 15 years old](https://discord.com/channels/830522505605283862/831544568767578162/929499581123805184) (private channel), to which Daniel responded with ":babyak:" and Andreas created the emoji.
+
 ### Goldyak: shineh shineh trophey
 
 ![goldyak](https://cdn.discordapp.com/emojis/894236717421318144.png)
