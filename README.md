@@ -98,6 +98,14 @@ Don't wake the yak. A general sleep emoji.
 
 Created by Agni on July 30th, 2021. Reason: unknown. [First version's message](https://discord.com/channels/830522505605283862/830525235803586570/870589889320742932).
 
+### Thousandyakstare: Oh god, it's looking at me
+
+![thousandyakstare](https://cdn.discordapp.com/emojis/931283776850505759.png)
+
+The stare of a thousand yaks. Are they in anger or rage, or are they just annoyed or tired? I don't know.
+
+Created by Andreas on January 13th, 2022. Reason: After discussing the transfer of this very repository to the SerenityOS organization, kleines Filmröllchen said ["I'll just scream at you when something's amiss, sound good?"](https://discord.com/channels/830522505605283862/831544568767578162/931286643346927627) (private channel) and Andreas responded with the newly created emoji as "you \[kleines\] provided the perfect opportunity to try it out!". The idea for the emoji must be a bit older, because on January 5th Andreas responded to Tobias' [posting of a very complex CSS spec image](https://discord.com/channels/830522505605283862/830525031720943627/928398680443224104) with the then-nonexistent :thousandyakstare:.
+
 ### Xmasyak: Yakky Holidays!
 
 ![xmasyak](https://cdn.discordapp.com/emojis/915529868219940944.png)
@@ -355,3 +363,4 @@ Discord tags in brackets.
 * Linus Groh (@linusg#0001)
 * GMTA (@GMTA#9448)
 * Daniel Bertalan (@BertalanD#7826)
+* kleines Filmröllchen (@kleines Filmröllchen#0427)
