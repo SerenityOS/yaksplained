@@ -467,7 +467,7 @@ Use in SerenityOS: `U+10CDD0`
 
 You want more yak? There you go, an IRL yak sticker.
 
-Created by Agni on January 19th, 2022. Reason: Lubrsi was excited to get stickers with his :yaktoberfest: shirt and wrote [":yaksticker:" in his message](https://discord.com/channels/830522505605283862/830525235803586570/933369566237720596). Agni [created the emoji shortly afterwards](https://discord.com/channels/830522505605283862/830525235803586570/933371840737443911). Xexxa then [wanted to have the yak on a shirt in the SerenityOS shop](https://discord.com/channels/830522505605283862/830525235803586570/933390974623813665), and Andreas [made it a thing](https://store.serenityos.org/listing/yak-sticker?product=794) later the same day.
+Created by Agni on January 19th, 2022. Reason: Lubrsi was excited to get stickers with his :yaktoberfest: shirt and wrote [":yaksticker:" in his message](https://discord.com/channels/830522505605283862/830525235803586570/933369566237720596). Agni [created the emoji shortly afterwards](https://discord.com/channels/830522505605283862/830525235803586570/933371840737443911). Xexxa then [wanted to have the yak sticker in the SerenityOS shop](https://discord.com/channels/830522505605283862/830525235803586570/933390974623813665), and Andreas [made it a thing](https://store.serenityos.org/listing/yak-sticker?product=794) later the same day.
 
 ### Yaktangle: Well... this got out of control.
 
