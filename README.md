@@ -32,6 +32,7 @@ Note that most of this is based on my personal observations, and while I can rem
 * [yakfused](#yakfused-yak-is-confusion)
 * [yakid2](#yakid2-css-is-my-passion)
 * [yakketysax](#yakketysax-jazz-noises)
+* [yakkie](#yakkie-poggies)
 * [yakking](#yakking-the-king-of-yaks)
 * [yakkiss](#yakkiss-ʘ)
 * [yakmail](#yakmail-ping-you-have-mail)
@@ -49,6 +50,7 @@ Note that most of this is based on my personal observations, and while I can rem
 * [yaksplode](#yaksplode-even-more-surprised-yak-sounds)
 * [yakstack](#yakstack-but-thats-already-on-the-stack)
 * [yaksteps](#yaksteps-i-can-almost-spot-the-yak-in-the-distance)
+* [yaksticker](#yaksticker-yak-in-real-life)
 * [yaktangle](#yaktangle-well-this-got-out-of-control)
 * [yakthonk](#yakthonk-hmmmmmmmmmmmmmmmmm)
 * [yaktoberfest](#yaktoberfest-bavarian-music-intensifies)
@@ -281,6 +283,14 @@ Created by Sam Atkins on August 18th, 2021. Reason: [the aforementioned purpose]
 
 Use in SerenityOS: `U+10CD68`
 
+### Yakkie: POGGIES
+
+![yakkie](https://cdn.discordapp.com/emojis/933441581258768394.png)
+
+A yak version of the POGGIES emote popular on Twitch. Used to show excitement.
+
+Created by Andreas on January 19th, 2022. Reason: After discussing the newly created yaksticker emoji, [he created yakkie](https://discord.com/channels/830522505605283862/830525235803586570/933441999846129725), probably to celebrate people's excitement about the sticker's introduction [in the shop](https://store.serenityos.org/listing/yak-sticker?product=794). The name is not yakkies, as would be expected from adopting the Twitch meme, instead the name yakkie reflects the other, much older server emote :poggie: ![poggie](https://cdn.discordapp.com/emojis/838468228279828500.png), another poggies emote that is one of the most popular emotes on the server in general.
+
 ### Yakking: The king of yaks
 
 ![yakking](https://cdn.discordapp.com/emojis/900686373844025364.png)
@@ -451,6 +461,14 @@ Created by Andreas on September 11th, 2021. Reason: Checking all `VERIFY()`s in 
 
 Use in SerenityOS: `U+10CDD0`
 
+### Yaksticker: Yak in real life.
+
+![yaksticker](https://cdn.discordapp.com/emojis/933379132736278669.png)
+
+You want more yak? There you go, an IRL yak sticker.
+
+Created by Agni on January 19th, 2022. Reason: Lubrsi was excited to get stickers with his :yaktoberfest: shirt and wrote [":yaksticker:" in his message](https://discord.com/channels/830522505605283862/830525235803586570/933369566237720596). Agni [created the emoji shortly afterwards](https://discord.com/channels/830522505605283862/830525235803586570/933371840737443911). Xexxa then [wanted to have the yak on a shirt in the SerenityOS shop](https://discord.com/channels/830522505605283862/830525235803586570/933390974623813665), and Andreas [made it a thing](https://store.serenityos.org/listing/yak-sticker?product=794) later the same day.
+
 ### Yaktangle: Well... this got out of control.
 
 ![yaktangle](https://cdn.discordapp.com/emojis/879749676167991316.png)
@@ -495,3 +513,4 @@ Discord tags in brackets.
 * GMTA (@GMTA#9448)
 * Daniel Bertalan (@BertalanD#7826)
 * kleines Filmröllchen (@kleines Filmröllchen#0427)
+* Xexxa (@Xexxa#7670)
