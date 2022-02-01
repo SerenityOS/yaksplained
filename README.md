@@ -286,7 +286,7 @@ Use in SerenityOS: `U+10CD12`
 
 For when your yak has strangely (or on purpose) disappeared.
 
-Created by Agni on January 26th, 2022. Reason: After posting just a razor emoji (which is part of :imminentyakshave:), stefanos asked: ["where's the yak you are shaving?](https://discord.com/channels/830522505605283862/830525235803586570/935918380463030272) and Agni responded with the :yakgone: design.
+Created by Agni on January 26th, 2022. Reason: After posting just a razor emoji (which is part of :imminentyakshave:), stefanos asked: ["where's the yak you are shaving?"](https://discord.com/channels/830522505605283862/830525235803586570/935918380463030272) and Agni responded with the :yakgone: design.
 
 ### Yakid2: CSS is my passion
 
