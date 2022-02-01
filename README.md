@@ -11,6 +11,7 @@ Yakshaving refers to doing work that seems pointless but is necessary to achieve
 Note that most of this is based on my personal observations, and while I can remember about half of these being created, I'll most certainly be wrong in how they are used in one place or another. Order is alphabetical.
 
 * [8bityak](#8bityak-chiptune-starts-playing)
+* [angelyak](#angelyak-choir-sounds)
 * [babyak](#babyak-its-so-cuuute)
 * [goldyak](#goldyak-shineh-shineh-trophey)
 * [hairyak](#hairyak-how-did-this-grow-so-fast)
@@ -23,6 +24,7 @@ Note that most of this is based on my personal observations, and while I can rem
 * [sleepyak](#sleepyak-zzzzz)
 * [thousandyakstare](#thousandyakstare-oh-god-its-looking-at-me)
 * [xmasyak](#xmasyak-yakky-holidays)
+* [yak](#yak-this-should-be-obvious)
 * [yakbait](#yakbait-nerd-snipe)
 * [yakblush](#yakblush-turns-red-and-starts-to-stutter)
 * [yakbrain](#yakbrain-5head)
@@ -30,6 +32,7 @@ Note that most of this is based on my personal observations, and while I can rem
 * [yakea](#yakea-everyones-favorite-swedish-furniture)
 * [yakfire](#yakfire-smiles-this-is-fine)
 * [yakfused](#yakfused-yak-is-confusion)
+* [yakgone](#yakgone-404-yak-not-found)
 * [yakid2](#yakid2-css-is-my-passion)
 * [yakketysax](#yakketysax-jazz-noises)
 * [yakkie](#yakkie-poggies)
@@ -68,6 +71,14 @@ A retro yak for all your nostalgia needs.
 Created by Sam on or before February 28th, 2013, added as an emoji by Andreas on January 6th, 2022. The yak was created by Sam for his [yak game](https://github.com/AtkinsSJ/yak) ([play online if you have flash](http://samatkins.co.uk/games/yak/)) [as part of a game jam in 2013](https://discord.com/channels/830522505605283862/830525235803586570/928700382551625818), and Andreas uncovered it on the date he created the emoji ([this message](https://discord.com/channels/830522505605283862/831544568767578162/928630761626664971) (private channel)).
 
 Use in SerenityOS: `U+10CD13`
+
+### Angelyak: \*choir sounds\*
+
+![angelyak](https://cdn.discordapp.com/emojis/937662446871654450.png)
+
+A holy yak. Used when someone did something really amazing or just saved your day, similar to :goldyak:.
+
+Created by Andreas on January 31st, 2022. Reason: unknown, but [in response to the :yak: discussion](https://discord.com/channels/830522505605283862/830739873119207426/937710614283956294).
 
 ### Babyak: it's so cuuute
 
@@ -189,6 +200,16 @@ Created by Andreas before December 1st, 2021. Reason: probably the above, or the
 
 Use in SerenityOS: `U+10CDB0`
 
+### Yak: This should be obvious.
+
+![yak](https://cdn.discordapp.com/emojis/937708766844043334.png)
+
+Just the standard yak emoji, which originally is the bison emoji from the [open-source Twitter emoji set "Twemoji"](https://twemoji.twitter.com/). As Discord normally uses this emoji set, it became the template for all the other yak emojis. However, on iOS, 🦬 (bison) instead looks like this:
+
+![iOS bison](https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png)
+
+For this reason, Andreas [added the Twemoji bison as :yak:](https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109) on January 31st, 2022.
+
 ### Yakbait: Nerd Snipe.
 
 ![yakbait](https://cdn.discordapp.com/emojis/873672505309679758.png)
@@ -258,6 +279,14 @@ Generic confusion emoji.
 Created by Agni on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), Agni used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by Agni.
 
 Use in SerenityOS: `U+10CD12`
+
+### Yakgone: `404 Yak Not Found`
+
+![yakgone](https://cdn.discordapp.com/emojis/935921684307902496.png)
+
+For when your yak has strangely (or on purpose) disappeared.
+
+Created by Agni on January 26th, 2022. Reason: After posting just a razor emoji (which is part of :imminentyakshave:), stefanos asked: ["where's the yak you are shaving?](https://discord.com/channels/830522505605283862/830525235803586570/935918380463030272) and Agni responded with the :yakgone: design.
 
 ### Yakid2: CSS is my passion
 
@@ -514,3 +543,4 @@ Discord tags in brackets.
 * Daniel Bertalan (@BertalanD#7826)
 * kleines Filmröllchen (@kleines Filmröllchen#0427)
 * Xexxa (@Xexxa#7670)
+* stefanos (@stefanos82#2740)
