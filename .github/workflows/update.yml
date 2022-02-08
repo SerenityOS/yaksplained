@@ -1,0 +1,78 @@
+name: Update README and generate API endpoints
+
+on: [push, pull_request]
+
+jobs:
+  run_and_update_results:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Checkout this repo (branch main)
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config --global user.name BuggieBot
+          git config --global user.email buggiebot@serenityos.org
+
+      - name: Build README.md
+        run: |
+          set -e
+          cat templates/README-prologue.md > README.md
+          jq 'sort_by(.name)|map("- [\(.name)](#\((.name+": "+.remark)|ascii_downcase|gsub("[^\\w ]"; "")|gsub(" +"; "-")))")|join("\n")' -r data/yaksplained.json >> README.md
+          echo >> README.md
+          cat templates/README-private-channels.md >> README.md
+          echo >> README.md
+          jq 'sort_by(.name) | map("### \(.name): \(.remark)\n![\(.name)](\(.image))\n\n\(.description)\n\n\(.creation_history)\n\n\(if .use_in_serenity != null then "Use in SerenityOS: `" + .use_in_serenity + "`\n" else "" end)")|join("\n")' -r data/yaksplained.json >> README.md
+          echo >> README.md
+          cat templates/README-epilogue.md >> README.md
+
+      - name: Commit built changes into the main branch
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          set -e
+          git add README.md
+          git commit -m 'Update README.md'
+
+      - name: Push branch main back to origin
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          git push origin main
+
+      - name: Build directory structure for API
+        run: |
+          set -e
+          mkdir -p api/v1
+          for name in $(jq 'map(.name)|join(" ")' -r data/yaksplained.json); do
+              echo "Generating data for $name..."
+              jq 'map(select(.name == $expected_name))[0]' -c --arg expected_name "$name" < data/yaksplained.json > "api/v1/$name.json"
+          done
+          mv api ..
+
+      - name: Checkout this repo (branch pages)
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: pages
+
+      - name: Configure git
+        run: |
+          git config --global user.name BuggieBot
+          git config --global user.email buggiebot@serenityos.org
+
+      - name: Commit built changes into the pages branch
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          set -e
+          rm -fr api
+          mv ../api .
+          git add api
+          git commit -m 'Generate new pages'
+
+
+      - name: Push branch pages back to origin
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          git push origin pages
