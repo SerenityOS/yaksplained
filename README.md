@@ -26,6 +26,7 @@ Note that most of this is based on my personal observations, and while I can rem
 * [xmasyak](#xmasyak-yakky-holidays)
 * [yak](#yak-this-should-be-obvious)
 * [yakbait](#yakbait-nerd-snipe)
+* [yakbane](#yakbane-was-shaving-yaks-part-of-your-plan)
 * [yakblush](#yakblush-turns-red-and-starts-to-stutter)
 * [yakbrain](#yakbrain-5head)
 * [yakchain](#yakchain-stampede-approaching)
@@ -219,6 +220,14 @@ A yak just baiting you to be shaved. Serenity's version of the [nerd snipe](http
 Created by Andreas on August 7th, 2021. Reason: Andrew commented ["don't yak bait me I'm trying to work on the build system lol"](https://discord.com/channels/830522505605283862/831544568767578162/873671201262817290) (private channel). The similarity to the nerd snipe was first mentioned by networkException a couple of days later [(this message)](https://discord.com/channels/830522505605283862/859531354219872266/875851312686825564).
 
 Use in SerenityOS: `U+10CD07`
+
+### Yakbane: *Was shaving yaks part of your plan?*
+
+![yakbane](https://cdn.discordapp.com/emojis/931492399291723817.png)
+
+A [The Dark Knight Rises](https://www.imdb.com/title/tt1345836/) reference, usually accompanied by corresponding quotes.
+
+Created by Andreas on January 14th, 2022. Reason: Agni made the first Dark Knight Rises reference [here](https://discord.com/channels/830522505605283862/830522505605283866/931479489584697344) and Andreas later created the emoji [in response](https://discord.com/channels/830522505605283862/830522505605283866/931492624274169866).
 
 ### Yakblush: \*turns red and starts to stutter\*
 
