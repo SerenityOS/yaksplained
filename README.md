@@ -140,7 +140,7 @@ Use in SerenityOS: `U+10CD60`
 
 (Note to the RFC editor: Insert an SCP joke here.)
 
-Created by Linus on October 9th, 2021. Reason: After discussing the :goldyak: origins (see above) with [Linus' blacked-out screenshot](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824), Sam asked [":reyakted: emote wen?"](https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490) and Linus promptly created it. 
+Created by Linus on October 9th, 2021. Reason: After discussing the :goldyak: origins (see above) with [Linus' blacked-out screenshot](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824), Sam asked [":reyakted: emote wen?"](https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490) and Linus promptly created it.
 
 Use in SerenityOS: `U+10CD08`
 
@@ -155,6 +155,8 @@ Use in SerenityOS: `U+10CD02`
 
 ### Skeleyak: That's an old one.
 ![Skeleyak](https://cdn.discordapp.com/emojis/851188921290457150.png)
+
+[Image in SerenityOS/artwork](https://github.com/SerenityOS/artwork/blob/master/images/emotes/skeleyak.png)
 
 When one of your yaks is really old or just has been sitting around for a long time.
 
@@ -264,6 +266,8 @@ Use in SerenityOS: `U+10CD0F`
 ### Yakfused: Yak is confusion.
 ![Yakfused](https://cdn.discordapp.com/emojis/851873832003960833.png?v=1)
 
+[Image in SerenityOS/artwork](https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakfused.png)
+
 Generic confusion emoji.
 
 Created by Agni on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), Agni used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by Agni.
@@ -308,7 +312,10 @@ Created by Andreas on January 19th, 2022. Reason: After discussing the newly cre
 ### Yakking: The king of yaks
 ![Yakking](https://cdn.discordapp.com/emojis/900686373844025364.png)
 
-FIXME
+[Image in SerenityOS/artwork](https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakking.png)
+
+When someone is the king at accumulating or shaving yaks
+Alternate meaning: A particularly precious yak
 
 Created by networkException on October 21th, 2021. Reason: Agni welcomed Andreas back with "welcome back king". Andreas responded with "right back at you yak king" which Agni responded to with "🦬 👑".
 
@@ -344,6 +351,8 @@ Use in SerenityOS: `U+10CD0D`
 ### Yakminus: `yakstack.pop()`
 ![Yakminus](https://cdn.discordapp.com/emojis/858638240864927744.png)
 
+[Image in SerenityOS/artwork](https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakminus.png)
+
 You just managed to finish work on something. One yak is off the stack!
 
 Created by Agni on June 27th, 2021. Reason: unknown [(this message)](https://discord.com/channels/830522505605283862/830525235803586570/858635750970359808). They first mentioned the idea on June 14th [here](https://discord.com/channels/830522505605283862/830525235803586570/854076622365655060).
@@ -370,6 +379,8 @@ Use in SerenityOS: `U+10CD04`
 
 ### Yakplus: `yakstack.push(new Yak())`
 ![Yakplus](https://cdn.discordapp.com/emojis/858658840371265566.png)
+
+[Image in SerenityOS/artwork](https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakplus.png)
 
 You found a problem you want to work on. There's a new yak for your stack!
 
@@ -433,6 +444,8 @@ Use in SerenityOS: `U+10CD18`
 
 ### Yaksplode: \*even more surprised yak sounds\*
 ![Yaksplode](https://cdn.discordapp.com/emojis/851173158526517318.png)
+
+[Image in SerenityOS/artwork](https://github.com/SerenityOS/artwork/blob/master/images/emotes/yaksplode.png)
 
 Yak go boom. Similar in use to yakslice, used when things go wrong. Especially for crashes and the likes.
 
