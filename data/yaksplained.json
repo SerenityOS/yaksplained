@@ -83,6 +83,7 @@
     "creation_history": "Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that timed out. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851176393000747089).",
     "description": "When one of your yaks is really old or just has been sitting around for a long time.",
     "image": "https://cdn.discordapp.com/emojis/851188921290457150.png",
+    "artwork_image": "https://github.com/SerenityOS/artwork/blob/master/images/emotes/skeleyak.png",
     "remark": "That's an old one.",
     "name": "Skeleyak"
   },
@@ -177,6 +178,7 @@
     "creation_history": "Created by Agni on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), Agni used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by Agni.",
     "description": "Generic confusion emoji.",
     "image": "https://cdn.discordapp.com/emojis/851873832003960833.png?v=1",
+    "artwork_image": "https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakfused.png",
     "remark": "Yak is confusion.",
     "name": "Yakfused"
   },
@@ -214,6 +216,7 @@
     "creation_history": "Created by networkException on October 21th, 2021. Reason: Agni welcomed Andreas back with \"welcome back king\". Andreas responded with \"right back at you yak king\" which Agni responded to with \"🦬 👑\".",
     "description": "When someone is the king at accumulating or shaving yaks\nAlternate meaning: A particularly precious yak",
     "image": "https://cdn.discordapp.com/emojis/900686373844025364.png",
+    "artwork_image": "https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakking.png",
     "remark": "The king of yaks",
     "name": "Yakking"
   },
@@ -246,6 +249,7 @@
     "creation_history": "Created by Agni on June 27th, 2021. Reason: unknown [(this message)](https://discord.com/channels/830522505605283862/830525235803586570/858635750970359808). They first mentioned the idea on June 14th [here](https://discord.com/channels/830522505605283862/830525235803586570/854076622365655060).",
     "description": "You just managed to finish work on something. One yak is off the stack!",
     "image": "https://cdn.discordapp.com/emojis/858638240864927744.png",
+    "artwork_image": "https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakminus.png",
     "remark": "`yakstack.pop()`",
     "name": "Yakminus"
   },
@@ -270,6 +274,7 @@
     "creation_history": "Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying [\"aaaaaaaaand our parser is too non-spec-compliant for that workaround\"](https://discord.com/channels/830522505605283862/851522357734408232/853953089873510451).",
     "description": "You found a problem you want to work on. There's a new yak for your stack!",
     "image": "https://cdn.discordapp.com/emojis/858658840371265566.png",
+    "artwork_image": "https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakplus.png",
     "remark": "`yakstack.push(new Yak())`",
     "name": "Yakplus"
   },
@@ -326,6 +331,7 @@
     "creation_history": "Created by Agni on June 6th, 2021: Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a (regular) error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851172304959307777).",
     "description": "Yak go boom. Similar in use to yakslice, used when things go wrong. Especially for crashes and the likes.",
     "image": "https://cdn.discordapp.com/emojis/851173158526517318.png",
+    "artwork_image": "https://github.com/SerenityOS/artwork/blob/master/images/emotes/yaksplode.png",
     "remark": "\\*even more surprised yak sounds\\*",
     "name": "Yaksplode"
   },
