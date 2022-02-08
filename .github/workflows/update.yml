@@ -25,7 +25,7 @@ jobs:
           echo >> README.md
           cat templates/README-private-channels.md >> README.md
           echo >> README.md
-          jq 'sort_by(.name) | map("### \(.name): \(.remark)\n![\(.name)](\(.image))\n\n\(.description)\n\n\(.creation_history)\n\n\(if .use_in_serenity != null then "Use in SerenityOS: `" + .use_in_serenity + "`\n" else "" end)")|join("\n")' -r data/yaksplained.json >> README.md
+          jq 'sort_by(.name) | map("### \(.name): \(.remark)\n![\(.name)](\(.image))\(if .artwork_image != null then "\n\n[Image in SerenityOS/artwork](" + .artwork_image + ")" else "" end)\n\n\(.description)\n\n\(.creation_history)\n\n\(if .use_in_serenity != null then "Use in SerenityOS: `" + .use_in_serenity + "`\n" else "" end)")|join("\n")' -r data/yaksplained.json >> README.md
           echo >> README.md
           cat templates/README-epilogue.md >> README.md
 
