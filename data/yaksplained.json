@@ -1,0 +1,378 @@
+[
+  {
+    "use_in_serenity": "U+10CD13",
+    "creation_history": "Created by Sam on or before February 28th, 2013, added as an emoji by Andreas on January 6th, 2022. The yak was created by Sam for his [yak game](https://github.com/AtkinsSJ/yak) ([play online if you have flash](http://samatkins.co.uk/games/yak/)) [as part of a game jam in 2013](https://discord.com/channels/830522505605283862/830525235803586570/928700382551625818), and Andreas uncovered it on the date he created the emoji ([this message](https://discord.com/channels/830522505605283862/831544568767578162/928630761626664971) (private channel)).",
+    "description": "A retro yak for all your nostalgia needs.",
+    "image": "https://cdn.discordapp.com/emojis/928632967545368616.png",
+    "remark": "\\*chiptune starts playing\\*",
+    "name": "8bityak"
+  },
+  {
+    "creation_history": "Created by Andreas on January 31st, 2022. Reason: unknown, but [in response to the :yak: discussion](https://discord.com/channels/830522505605283862/830739873119207426/937710614283956294).",
+    "description": "A holy yak. Used when someone did something really amazing or just saved your day, similar to :goldyak:.",
+    "image": "https://cdn.discordapp.com/emojis/937662446871654450.png",
+    "remark": "\\*choir sounds\\*",
+    "name": "Angelyak"
+  },
+  {
+    "use_in_serenity": "U+10CD67",
+    "creation_history": "Created by Andreas on January 8th, 2022. Reason: in a discussion, he noticed that someone was [less than 15 years old](https://discord.com/channels/830522505605283862/831544568767578162/929499581123805184) (private channel), to which Daniel responded with \":babyak:\" and Andreas created the emoji.",
+    "description": "A baby-faced yak that represents very young people (or yaks, for that matter).",
+    "image": "https://cdn.discordapp.com/emojis/929500826240696350.png",
+    "remark": "it's so cuuute",
+    "name": "Babyak"
+  },
+  {
+    "use_in_serenity": "U+10CD0B",
+    "creation_history": "Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some bug fix description, he wrote [\"if it works, that's a golden yak for you\"](https://discord.com/channels/830522505605283862/886211697843531866/894235121933254696). Apparently it did work, because shortly after that, he posted the newly-created :goldyak:. The details here are a bit fuzzy, see [this message](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824).",
+    "description": "A trophy-like shiny yak, for giving out awards when someone shaved a difficult yak.",
+    "image": "https://cdn.discordapp.com/emojis/894236717421318144.png",
+    "remark": "shineh shineh trophey",
+    "name": "Goldyak"
+  },
+  {
+    "use_in_serenity": "U+10CD00",
+    "creation_history": "Created by Agni on August 24th, 2021. Reason: Andreas requested a \"particularly hairy yak\" [(first message in the chain)](https://discord.com/channels/830522505605283862/830525235803586570/879746499108556881).",
+    "description": "This one's a hairy yak to shave. Used for particularly difficult/cumbersome/long-winded problems.",
+    "image": "https://cdn.discordapp.com/emojis/879749569964015646.png",
+    "remark": "How did this grow so fast?",
+    "name": "Hairyak"
+  },
+  {
+    "use_in_serenity": "U+10CD01",
+    "creation_history": "Created by Agni on July 17th, 2021. Reason: [requested by Andreas](https://discord.com/channels/830522505605283862/830525235803586570/865881764111450112). Also relevant: [the associated meme](https://discord.com/channels/830522505605283862/830525235803586570/867538791962378240).",
+    "description": "Shave incoming. Used for when you're about to solve/currently solving a problem. Or if you noticed a problem and want to solve it right now.",
+    "image": "https://cdn.discordapp.com/emojis/866030445388365884.png",
+    "remark": "This yak's about to be shaved.",
+    "name": "Imminentyakshave"
+  },
+  {
+    "use_in_serenity": "U+10CD15",
+    "creation_history": "Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status. Here, it is used for all the tests that caused a runner exception. Starting with [this message](https://discord.com/channels/830522505605283862/830525235803586570/851168937131638784), and with encouragement by networkException a conversation commenced that led to the creation of custom emojis for all the test runner results. _These emojis will be referred to here as the neoyak group._",
+    "description": "Hacker terminal or coding-themed yak, for all your hacker needs. Used in conjunction with Terminal or pop culture hacker-related things. Also used as a ninja yak when something ninja-related comes up.",
+    "image": "https://cdn.discordapp.com/emojis/851188922512048199.png",
+    "remark": "Hax0r",
+    "name": "Neoyak"
+  },
+  {
+    "use_in_serenity": "U+10CD60",
+    "creation_history": "Created by Andreas on October 21st, 2021. Reason: [celebration of the :yakking: emoji](https://discord.com/channels/830522505605283862/830522505605283866/900713226810064967) (see below).",
+    "description": "This yak is having a party, compare to the default (i.e. Unicode) 🥳 emoji.",
+    "image": "https://cdn.discordapp.com/emojis/901168038248874045.png",
+    "remark": "Congratulations!",
+    "name": "Partyak"
+  },
+  {
+    "use_in_serenity": "U+10CD08",
+    "creation_history": "Created by Linus on October 9th, 2021. Reason: After discussing the :goldyak: origins (see above) with [Linus' blacked-out screenshot](https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824), Sam asked [\":reyakted: emote wen?\"](https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490) and Linus promptly created it. ",
+    "description": "(Note to the RFC editor: Insert an SCP joke here.)",
+    "image": "https://cdn.discordapp.com/emojis/896486220106956810.png",
+    "remark": "This yak is named \\[REDACTED\\], it was born on ■■■■■■■.",
+    "name": "Reyakted"
+  },
+  {
+    "use_in_serenity": "U+10CD02",
+    "creation_history": "Created by Agni on December 13th, 2021. Reason: While he was working on yakmail (see below), he apparently deleted the entire hair, [creating shavedyak accidentally](https://discord.com/channels/830522505605283862/830525235803586570/919965580365287455). Linus was quick to point out that [\"This is cursed, I'd be happy to add it as :shavedyak:\"](https://discord.com/channels/830522505605283862/830525235803586570/919966596460589096).",
+    "description": "A completely shaved or even naked yak. The ultimate endpoint in the yakshaving sequence.",
+    "image": "https://cdn.discordapp.com/emojis/919968342368993301.png",
+    "remark": "\\*shivers\\*",
+    "name": "Shavedyak"
+  },
+  {
+    "use_in_serenity": "U+10CD14",
+    "creation_history": "Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that timed out. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851176393000747089).",
+    "description": "When one of your yaks is really old or just has been sitting around for a long time.",
+    "image": "https://cdn.discordapp.com/emojis/851188921290457150.png",
+    "remark": "That's an old one.",
+    "name": "Skeleyak"
+  },
+  {
+    "use_in_serenity": "U+10CD09",
+    "creation_history": "Created by Agni on July 30th, 2021. Reason: unknown. [First version's message](https://discord.com/channels/830522505605283862/830525235803586570/870589889320742932).",
+    "description": "Don't wake the yak. A general sleep emoji.",
+    "image": "https://cdn.discordapp.com/emojis/870598400016535554.png",
+    "remark": "Zzzzz...",
+    "name": "Sleepyak"
+  },
+  {
+    "use_in_serenity": "U+10CD62",
+    "creation_history": "Created by Andreas on January 13th, 2022. Reason: After discussing the transfer of this very repository to the SerenityOS organization, kleines Filmröllchen said [\"I'll just scream at you when something's amiss, sound good?\"](https://discord.com/channels/830522505605283862/831544568767578162/931286643346927627) (private channel) and Andreas responded with the newly created emoji as \"you \\[kleines\\] provided the perfect opportunity to try it out!\". The idea for the emoji must be a bit older, because on January 5th Andreas responded to Tobias' [posting of a very complex CSS spec image](https://discord.com/channels/830522505605283862/830525031720943627/928398680443224104) with the then-nonexistent :thousandyakstare:.",
+    "description": "The stare of a thousand yaks. Are they in anger or rage, or are they just annoyed or tired? I don't know.",
+    "image": "https://cdn.discordapp.com/emojis/931283776850505759.png",
+    "remark": "Oh god, it's looking at me",
+    "name": "Thousandyakstare"
+  },
+  {
+    "use_in_serenity": "U+10CDB0",
+    "creation_history": "Created by Andreas before December 1st, 2021. Reason: probably the above, or the question for a \"SerenityOS Winter Holiday Theme\". [This message](https://discord.com/channels/830522505605283862/830522505605283866/915406501760348170) is the first to include xmasyak as a reaction.",
+    "description": "A christmas-themed yak, partially inspired by the fact that many people add a santa hat to their avatar in December.",
+    "image": "https://cdn.discordapp.com/emojis/915529868219940944.png",
+    "remark": "Yakky Holidays!",
+    "name": "Xmasyak"
+  },
+  {
+    "creation_history": "As Discord normally uses this emoji set, it became the template for all the other yak emojis. However, on iOS, 🦬 (bison) instead looks like this:\n![iOS bison](https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png)\nFor this reason, Andreas [added the Twemoji bison as :yak:](https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109) on January 31st, 2022.",
+    "description": "Just the standard yak emoji, which originally is the bison emoji from the [open-source Twitter emoji set \"Twemoji\"](https://twemoji.twitter.com/)",
+    "image": "https://cdn.discordapp.com/emojis/937708766844043334.png",
+    "remark": "This should be obvious.",
+    "name": "Yak"
+  },
+  {
+    "use_in_serenity": "U+10CD07",
+    "creation_history": "Created by Andreas on August 7th, 2021. Reason: Andrew commented [\"don't yak bait me I'm trying to work on the build system lol\"](https://discord.com/channels/830522505605283862/831544568767578162/873671201262817290) (private channel). The similarity to the nerd snipe was first mentioned by networkException a couple of days later [(this message)](https://discord.com/channels/830522505605283862/859531354219872266/875851312686825564).",
+    "description": "A yak just baiting you to be shaved. Serenity's version of the [nerd snipe](https://xkcd.com/356/).",
+    "image": "https://cdn.discordapp.com/emojis/873672505309679758.png",
+    "remark": "Nerd Snipe.",
+    "name": "Yakbait"
+  },
+  {
+    "creation_history": "Created by Andreas on January 14th, 2022. Reason: Agni made the first Dark Knight Rises reference [here](https://discord.com/channels/830522505605283862/830522505605283866/931479489584697344) and Andreas later created the emoji [in response](https://discord.com/channels/830522505605283862/830522505605283866/931492624274169866).",
+    "description": "A [The Dark Knight Rises](https://www.imdb.com/title/tt1345836/) reference, usually accompanied by corresponding quotes.",
+    "image": "https://cdn.discordapp.com/emojis/931492399291723817.png",
+    "remark": "*Was shaving yaks part of your plan?*",
+    "name": "Yakbane"
+  },
+  {
+    "use_in_serenity": "U+10CD63",
+    "creation_history": "Created by Agni on December 16th, 2021. Reason: after discussing the ages of contributors, Brian remarked that [\"Damn, serenity has a lot of Wunderkinds\"](https://discord.com/channels/830522505605283862/831544568767578162/921149719747625040) (private channel), to which Daniel responded with \":yakblush:\". Agni quickly joined in with the newly created Yakblush emoji. [This](https://discord.com/channels/830522505605283862/830718394768162837/921724736009011251) is the first public message containing it.",
+    "description": "A blushing yak emote like the Unicode 😊.",
+    "image": "https://cdn.discordapp.com/emojis/921153579266498590.png",
+    "remark": "\\*turns red and starts to stutter\\*",
+    "name": "Yakblush"
+  },
+  {
+    "use_in_serenity": "U+10CD0A",
+    "creation_history": "Created by Andreas on August 14th, 2021. Reason: unknown.",
+    "description": "That's smart. Comparable use to the 5Head emoji.",
+    "image": "https://cdn.discordapp.com/emojis/853957472607273001.png",
+    "remark": "5Head",
+    "name": "Yakbrain"
+  },
+  {
+    "use_in_serenity": "U+10CD91",
+    "creation_history": "Created by Mustafa on September 13th, 2021. Reason: A discussion about blockchain and microkernels (don't ask).",
+    "description": "There's a yak, that leads to another yak, that leads to another yak, ... and so on.",
+    "image": "https://cdn.discordapp.com/emojis/887111540967366677.png",
+    "remark": "\\*stampede approaching\\*",
+    "name": "Yakchain"
+  },
+  {
+    "use_in_serenity": "U+10CD16",
+    "creation_history": "Created by Linus on September 17th, 2021. Reason: In the discussion that ensued from the announcement of :yakid2: (see below), Sam mentioned that the emoji looked like [\"Björn, the yak from Ikea\"](https://discord.com/channels/830522505605283862/830525235803586570/888193041091928074), to which Andreas responded \"Yakea\\*\" and during a chain of Yak-Ikea-related jokes, Linus created the emoji.",
+    "description": "A yak in the style of [IKEA](https://www.ikea.com/), the infamous Swedish furniture company that has come to kind of (ironically and unironically) represent Sweden internationally. A reference to the fact that Andreas is Swedish.",
+    "image": "https://cdn.discordapp.com/emojis/888202246301569064.png",
+    "remark": "Everyone's favorite Swedish furniture.",
+    "name": "Yakea"
+  },
+  {
+    "use_in_serenity": "U+10CD0F",
+    "creation_history": "Created by Andreas on July 1st, 2021. Reason: Brian requested a [\"Yak/Buggie wrapped in a warm blanket sipping Earl Grey in front of a fire emoji\"](https://discord.com/channels/830522505605283862/851522357734408232/860261769577234452) and Andreas made yakfire instead because it wouldn't be as complicated. \"Interpretation left to the viewer\".",
+    "description": "Something just blew up/went wrong, or you found a fun bug. Can also be used as a \"This is fine!\" analog.",
+    "image": "https://cdn.discordapp.com/emojis/860262878984536065.png",
+    "remark": "\\*smiles\\* This is fine!",
+    "name": "Yakfire"
+  },
+  {
+    "use_in_serenity": "U+10CD12",
+    "creation_history": "Created by Agni on June 8th, 2021. Reason: In response to an admittedly [weird comment by Ali](https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546), Agni used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by Agni.",
+    "description": "Generic confusion emoji.",
+    "image": "https://cdn.discordapp.com/emojis/851873832003960833.png?v=1",
+    "remark": "Yak is confusion.",
+    "name": "Yakfused"
+  },
+  {
+    "creation_history": "Created by Agni on January 26th, 2022. Reason: After posting just a razor emoji (which is part of :imminentyakshave:), stefanos asked: [\"where's the yak you are shaving?\"](https://discord.com/channels/830522505605283862/830525235803586570/935918380463030272) and Agni responded with the :yakgone: design.",
+    "description": "For when your yak has strangely (or on purpose) disappeared.",
+    "image": "https://cdn.discordapp.com/emojis/935921684307902496.png",
+    "remark": "`404 Yak Not Found`",
+    "name": "Yakgone"
+  },
+  {
+    "description": "~~oh god where do I start~~ [ACID2](https://www.webstandards.org/files/acid2/test.html) is a popular test page that tests the compliance of a web browser, mainly CSS. The test is set up in such a way that only when the browser is (almost) compliant, a perfect smiley face will appear; otherwise, elements of the face are shifted, wrongly sized etc. For some time now, an ACID2 emoji :acid2:has existed on the server, demonstrating Browser's current compliance level. As to be expected, it still looks pretty bad:\n![acid2](https://cdn.discordapp.com/emojis/908128059687837776.png)\nYakid2 is then just a yak emoji in the vein of the ACID2 emoji.",
+    "creation_history": "FIXME",
+    "image": "https://cdn.discordapp.com/emojis/888189245594931202.png",
+    "remark": "CSS is my passion",
+    "name": "Yakid2"
+  },
+  {
+    "use_in_serenity": "U+10CD68",
+    "creation_history": "Created by Sam Atkins on August 18th, 2021. Reason: [the aforementioned purpose](https://discord.com/channels/830522505605283862/831144706079195176/877495085191794699).",
+    "description": "A musical yak. \"For when you're chasing a yak around all day and getting nowhere.\"",
+    "image": "https://cdn.discordapp.com/emojis/877495327635157053.png",
+    "remark": "\\*jazz noises\\*",
+    "name": "Yakketysax"
+  },
+  {
+    "creation_history": "Created by Andreas on January 19th, 2022. Reason: After discussing the newly created yaksticker emoji, [he created yakkie](https://discord.com/channels/830522505605283862/830525235803586570/933441999846129725), probably to celebrate people's excitement about the sticker's introduction [in the shop](https://store.serenityos.org/listing/yak-sticker?product=794). The name is not yakkies, as would be expected from adopting the Twitch meme, instead the name yakkie reflects the other, much older server emote :poggie: ![poggie](https://cdn.discordapp.com/emojis/838468228279828500.png), another poggies emote that is one of the most popular emotes on the server in general.",
+    "description": "A yak version of the POGGIES emote popular on Twitch. Used to show excitement.",
+    "image": "https://cdn.discordapp.com/emojis/933441581258768394.png",
+    "remark": "POGGIES",
+    "name": "Yakkie"
+  },
+  {
+    "use_in_serenity": "U+10CD0C",
+    "creation_history": "Created by networkException on October 21th, 2021. Reason: Agni welcomed Andreas back with \"welcome back king\". Andreas responded with \"right back at you yak king\" which Agni responded to with \"🦬 👑\".",
+    "description": "FIXME",
+    "image": "https://cdn.discordapp.com/emojis/900686373844025364.png",
+    "remark": "The king of yaks",
+    "name": "Yakking"
+  },
+  {
+    "use_in_serenity": "U+10CD61",
+    "creation_history": "Created by Andreas on September 3rd, 2021. Reason: a couple of days earlier, Brian noted [\"(I think we need :yakkiss:)\"](https://discord.com/channels/830522505605283862/831544568767578162/880934728428056648).",
+    "description": "Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which also exists on the server), in particular when relating to code.",
+    "image": "https://cdn.discordapp.com/emojis/883457694789406732.png?v=1",
+    "remark": "/ʘ/",
+    "name": "Yakkiss"
+  },
+  {
+    "use_in_serenity": "U+10CD0D",
+    "creation_history": "Created by Agni on December 13th 2021. Reason: After a lengthy unrelated discussion, Andreas pointed out that [\"that sounds like the building blocks of blackmail\"](https://discord.com/channels/830522505605283862/830522505605283866/919916646326476861), to which GMTA responded \":yakmail:\" and Agni created the emoji.",
+    "description": "Since Serenity has an e-mail client, it's only logical that there's a mail-themed yak.",
+    "image": "https://cdn.discordapp.com/emojis/919968307212333116.png",
+    "remark": "*\\*Ping\\* You have mail!*",
+    "name": "Yakmail"
+  },
+  {
+    "use_in_serenity": "U+10CD0E",
+    "creation_history": "Created by Andreas on September 8th, 2021. Reason: unknown. Probably someone attracting yet another yak.",
+    "description": "Some people just attract yaks left and right. Like a yak magnet.",
+    "image": "https://cdn.discordapp.com/emojis/885265534470459473.png",
+    "remark": "TODO",
+    "name": "Yakmagnet"
+  },
+  {
+    "use_in_serenity": "U+10CD05",
+    "creation_history": "Created by Agni on June 27th, 2021. Reason: unknown [(this message)](https://discord.com/channels/830522505605283862/830525235803586570/858635750970359808). They first mentioned the idea on June 14th [here](https://discord.com/channels/830522505605283862/830525235803586570/854076622365655060).",
+    "description": "You just managed to finish work on something. One yak is off the stack!",
+    "image": "https://cdn.discordapp.com/emojis/858638240864927744.png",
+    "remark": "`yakstack.pop()`",
+    "name": "Yakminus"
+  },
+  {
+    "use_in_serenity": "U+10CD93",
+    "creation_history": "Created by Andreas on June 17th, 2021. Reason: Brian requested [\"We need agni to make a yakoverflow icon, like the stack overflow logo :^)\"](https://discord.com/channels/830522505605283862/831544568767578162/855121465112395806) (private channel).",
+    "description": "A pun on Stack Overflow, obviously. When the yak stack gets too large.",
+    "image": "https://cdn.discordapp.com/emojis/855122942097489970.png",
+    "remark": "The programmer's favorite website.",
+    "name": "Yakoverflow"
+  },
+  {
+    "use_in_serenity": "U+10CD04",
+    "creation_history": "Created by Linus on September 30th, 2021. Reason: [\"inspired by none other than yourself \\[Agni\\]\"](https://discord.com/channels/830522505605283862/830525235803586570/893093905514504222).",
+    "description": "This yak was @mentioned. Used for when you get pinged by people.",
+    "image": "https://cdn.discordapp.com/emojis/893078703800745994.png",
+    "remark": "*\\*Discord ping\\* You have mail!*",
+    "name": "Yakping"
+  },
+  {
+    "use_in_serenity": "U+10CD03",
+    "creation_history": "Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying [\"aaaaaaaaand our parser is too non-spec-compliant for that workaround\"](https://discord.com/channels/830522505605283862/851522357734408232/853953089873510451).",
+    "description": "You found a problem you want to work on. There's a new yak for your stack!",
+    "image": "https://cdn.discordapp.com/emojis/858658840371265566.png",
+    "remark": "`yakstack.push(new Yak())`",
+    "name": "Yakplus"
+  },
+  {
+    "use_in_serenity": "U+10CDE0-U+10CDE5",
+    "creation_history": "Created by Andreas on September 11th, 2021. Reason: Ali raging about JS stuff (reeeeeeeeee).",
+    "description": "Yak angry. General angry emoji.",
+    "image": "https://cdn.discordapp.com/emojis/886216551131406356.gif",
+    "remark": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "name": "Yakrage"
+  },
+  {
+    "use_in_serenity": "U+10CD92",
+    "creation_history": "Created by Andreas on December 25th, 2021. Reason: In a discussion about CI flakiness, Daniel commented [\":yakcircularbuffer:\"](https://discord.com/channels/830522505605283862/830739873119207426/924387598116478976), referencing the fact that circular buffers in the Kernel might be the culprit for many of these fails and crashes. In response Andreas created :yakring: and [Agni first](https://discord.com/channels/830522505605283862/830739873119207426/924401950643093544) made the [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) reference replicated above.",
+    "description": "*One Ring to bring them all / and in the darkness bind them* ~~(Sorry)~~. When some yak chain closes back in on itself, or just a reference to circular buffers.",
+    "image": "https://cdn.discordapp.com/emojis/924399473780736010.png",
+    "remark": "*One Ring to rule them all, / One Ring to find them,*",
+    "name": "Yakring"
+  },
+  {
+    "use_in_serenity": "U+10CD66",
+    "creation_history": "Created by Agni on December 14th, 2021. Reason: [Requested by Linus, originally under the name of `:sadyak:`](https://discord.com/channels/830522505605283862/831544568767578162/920323814917832705) (private channel). It was changed to `:yaksad:` to [make it consistent with the name of the other yak emotes and thus make it easier to autocomplete](https://discord.com/channels/830522505605283862/831544568767578162/920327908428492880) (private channel).",
+    "description": "A sad yak emoji similar to the Unicode 😢.",
+    "image": "https://cdn.discordapp.com/emojis/920328207276867634.png",
+    "remark": "\\*sheds a tear\\*",
+    "name": "Yaksad"
+  },
+  {
+    "use_in_serenity": "U+10CD11",
+    "creation_history": "Created by Andreas on July 18th, 2021. Reason: unknown.",
+    "description": "A combination of yak shaving and bikeshedding. The latter refers to [procrastination or investing time into unimportant issues](https://en.wiktionary.org/wiki/bikeshedding) (as opposed to yakshaving, where time is invested into only _seemingly_ unimportant issues). The emoji can be used when the distinction is not exactly clear.",
+    "image": "https://cdn.discordapp.com/emojis/866370560493223977.png",
+    "remark": "~~who tf even came up with this~~",
+    "name": "Yakshed"
+  },
+  {
+    "use_in_serenity": "U+10CD64",
+    "creation_history": "Created by Agni on July 31st, 2021. Reason: Andreas responded to [their use of a shrug emoji](https://discord.com/channels/830522505605283862/830739873119207426/870797713439072308) with the then-non-existent yakshrug, which resulted in the creation of the emoji.",
+    "description": "Serenity's shrug emoji. People have mentioned that it looks kind of creepy.",
+    "image": "https://cdn.discordapp.com/emojis/870805412847443978.png",
+    "remark": "idk man",
+    "name": "Yakshrug"
+  },
+  {
+    "use_in_serenity": "U+10CD18",
+    "creation_history": "Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a harness error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851180017261346866).",
+    "description": "This yak was just split up. Used when things go wrong in general, or if the yak just got deeper.",
+    "image": "https://cdn.discordapp.com/emojis/851188921881854012.png",
+    "remark": "\\*surprised yak sounds\\*",
+    "name": "Yakslice"
+  },
+  {
+    "use_in_serenity": "U+10CD10",
+    "creation_history": "Created by Agni on June 6th, 2021: Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a (regular) error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851172304959307777).",
+    "description": "Yak go boom. Similar in use to yakslice, used when things go wrong. Especially for crashes and the likes.",
+    "image": "https://cdn.discordapp.com/emojis/851173158526517318.png",
+    "remark": "\\*even more surprised yak sounds\\*",
+    "name": "Yaksplode"
+  },
+  {
+    "use_in_serenity": "U+10CD90",
+    "creation_history": "Created by Andreas on June 17th, 2021. Reason: unknown. Various people used the term \"yakstack\" beforehand.",
+    "description": "Refers to the stuff you want to do in Serenity, your to-do list etc. Used similar to yakoverflow, just in general when referencing all of the many things that are to be done.",
+    "image": "https://cdn.discordapp.com/emojis/855017260779438091.png",
+    "remark": "But that's already on the stack",
+    "name": "Yakstack"
+  },
+  {
+    "creation_history": "Created by Andreas on September 11th, 2021. Reason: Checking all `VERIFY()`s in the Kernel is not a one-man job. Little by little - [:yaksteps:](https://discord.com/channels/830522505605283862/830739873119207426/886303238503170048)!\nAlternate meaning: There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.",
+    "description": "Baby steps, but involving yaks.",
+    "image": "https://cdn.discordapp.com/emojis/886305554736238654.png",
+    "remark": "I can almost spot the yak in the distance.",
+    "name": "Yaksteps"
+  },
+  {
+    "creation_history": "Created by Agni on January 19th, 2022. Reason: Lubrsi was excited to get stickers with his :yaktoberfest: shirt and wrote [\":yaksticker:\" in his message](https://discord.com/channels/830522505605283862/830525235803586570/933369566237720596). Agni [created the emoji shortly afterwards](https://discord.com/channels/830522505605283862/830525235803586570/933371840737443911). Xexxa then [wanted to have the yak sticker in the SerenityOS shop](https://discord.com/channels/830522505605283862/830525235803586570/933390974623813665), and Andreas [made it a thing](https://store.serenityos.org/listing/yak-sticker?product=794) later the same day.",
+    "description": "You want more yak? There you go, an IRL yak sticker.",
+    "image": "https://cdn.discordapp.com/emojis/933379132736278669.png",
+    "remark": "Yak in real life.",
+    "name": "Yaksticker"
+  },
+  {
+    "use_in_serenity": "U+10CD06",
+    "creation_history": "Created by Agni on August 24th, 2021 together with _hairyak_.",
+    "description": "A box of hair. Used for the most difficult/cumbersome/long-winded problems.",
+    "image": "https://cdn.discordapp.com/emojis/879749676167991316.png",
+    "remark": "Well... this got out of control.",
+    "name": "Yaktangle"
+  },
+  {
+    "use_in_serenity": "U+10CD65",
+    "creation_history": "Created by Andreas on August 19th, 2021. Reason: unknown. The idea was previously mentioned by him on June 8th, 2021 [here](https://discord.com/channels/830522505605283862/830525235803586570/851874120148451350).",
+    "description": "Serenity's thonk emoji, for when something is very strange/interesting.",
+    "image": "https://cdn.discordapp.com/emojis/877928647300898856.png",
+    "remark": "Hmmmmmmmmmmmmmmmmm",
+    "name": "Yakthonk"
+  },
+  {
+    "use_in_serenity": "U+10CDB1",
+    "creation_history": "Created by Andreas on September 9th, 2021. Reason: It's that time of the year again - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is back (very soon)!",
+    "description": "FIXME",
+    "image": "https://cdn.discordapp.com/emojis/885576692687597638.png",
+    "remark": "\\*bavarian music intensifies\\*",
+    "name": "Yaktoberfest"
+  }
+]
