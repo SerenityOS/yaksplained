@@ -80,6 +80,7 @@ A holy yak. Used when someone did something really amazing or just saved your da
 
 Created by Andreas on January 31st, 2022. Reason: unknown, but [in response to the :yak: discussion](https://discord.com/channels/830522505605283862/830739873119207426/937710614283956294).
 
+Use in SerenityOS: `U+10CD1B`
 
 ### Babyak: it's so cuuute
 ![Babyak](https://cdn.discordapp.com/emojis/929500826240696350.png)
@@ -200,6 +201,7 @@ As Discord normally uses this emoji set, it became the template for all the othe
 ![iOS bison](https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png)
 For this reason, Andreas [added the Twemoji bison as :yak:](https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109) on January 31st, 2022.
 
+Use in SerenityOS: `U+10CD1C`
 
 ### Yakbait: Nerd Snipe.
 ![Yakbait](https://cdn.discordapp.com/emojis/873672505309679758.png)
@@ -217,6 +219,7 @@ A [The Dark Knight Rises](https://www.imdb.com/title/tt1345836/) reference, usua
 
 Created by Andreas on January 14th, 2022. Reason: Agni made the first Dark Knight Rises reference [here](https://discord.com/channels/830522505605283862/830522505605283866/931479489584697344) and Andreas later created the emoji [in response](https://discord.com/channels/830522505605283862/830522505605283866/931492624274169866).
 
+Use in SerenityOS: `U+10CD69`
 
 ### Yakblush: \*turns red and starts to stutter\*
 ![Yakblush](https://cdn.discordapp.com/emojis/921153579266498590.png)
@@ -281,6 +284,7 @@ For when your yak has strangely (or on purpose) disappeared.
 
 Created by Agni on January 26th, 2022. Reason: After posting just a razor emoji (which is part of :imminentyakshave:), stefanos asked: ["where's the yak you are shaving?"](https://discord.com/channels/830522505605283862/830525235803586570/935918380463030272) and Agni responded with the :yakgone: design.
 
+Use in SerenityOS: `U+10CD1D`
 
 ### Yakid2: CSS is my passion
 ![Yakid2](https://cdn.discordapp.com/emojis/888189245594931202.png)
@@ -291,6 +295,7 @@ Yakid2 is then just a yak emoji in the vein of the ACID2 emoji.
 
 FIXME
 
+Use in SerenityOS: `U+10CD17`
 
 ### Yakketysax: \*jazz noises\*
 ![Yakketysax](https://cdn.discordapp.com/emojis/877495327635157053.png)
@@ -308,6 +313,7 @@ A yak version of the POGGIES emote popular on Twitch. Used to show excitement.
 
 Created by Andreas on January 19th, 2022. Reason: After discussing the newly created yaksticker emoji, [he created yakkie](https://discord.com/channels/830522505605283862/830525235803586570/933441999846129725), probably to celebrate people's excitement about the sticker's introduction [in the shop](https://store.serenityos.org/listing/yak-sticker?product=794). The name is not yakkies, as would be expected from adopting the Twitch meme, instead the name yakkie reflects the other, much older server emote :poggie: ![poggie](https://cdn.discordapp.com/emojis/838468228279828500.png), another poggies emote that is one of the most popular emotes on the server in general.
 
+Use in SerenityOS: `U+10CD1A`
 
 ### Yakking: The king of yaks
 ![Yakking](https://cdn.discordapp.com/emojis/900686373844025364.png)
@@ -470,6 +476,7 @@ Baby steps, but involving yaks.
 Created by Andreas on September 11th, 2021. Reason: Checking all `VERIFY()`s in the Kernel is not a one-man job. Little by little - [:yaksteps:](https://discord.com/channels/830522505605283862/830739873119207426/886303238503170048)!
 Alternate meaning: There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.
 
+Use in SerenityOS: `U+10CDD0`
 
 ### Yaksticker: Yak in real life.
 ![Yaksticker](https://cdn.discordapp.com/emojis/933379132736278669.png)
@@ -478,6 +485,7 @@ You want more yak? There you go, an IRL yak sticker.
 
 Created by Agni on January 19th, 2022. Reason: Lubrsi was excited to get stickers with his :yaktoberfest: shirt and wrote [":yaksticker:" in his message](https://discord.com/channels/830522505605283862/830525235803586570/933369566237720596). Agni [created the emoji shortly afterwards](https://discord.com/channels/830522505605283862/830525235803586570/933371840737443911). Xexxa then [wanted to have the yak sticker in the SerenityOS shop](https://discord.com/channels/830522505605283862/830525235803586570/933390974623813665), and Andreas [made it a thing](https://store.serenityos.org/listing/yak-sticker?product=794) later the same day.
 
+Use in SerenityOS: `U+10CD19`
 
 ### Yaktangle: Well... this got out of control.
 ![Yaktangle](https://cdn.discordapp.com/emojis/879749676167991316.png)
