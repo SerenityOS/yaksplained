@@ -8,6 +8,7 @@
     "name": "8bityak"
   },
   {
+    "use_in_serenity": "U+10CD1B",
     "creation_history": "Created by Andreas on January 31st, 2022. Reason: unknown, but [in response to the :yak: discussion](https://discord.com/channels/830522505605283862/830739873119207426/937710614283956294).",
     "description": "A holy yak. Used when someone did something really amazing or just saved your day, similar to :goldyak:.",
     "image": "https://cdn.discordapp.com/emojis/937662446871654450.png",
@@ -112,6 +113,7 @@
     "name": "Xmasyak"
   },
   {
+    "use_in_serenity": "U+10CD1C",
     "creation_history": "As Discord normally uses this emoji set, it became the template for all the other yak emojis. However, on iOS, 🦬 (bison) instead looks like this:\n![iOS bison](https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png)\nFor this reason, Andreas [added the Twemoji bison as :yak:](https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109) on January 31st, 2022.",
     "description": "Just the standard yak emoji, which originally is the bison emoji from the [open-source Twitter emoji set \"Twemoji\"](https://twemoji.twitter.com/)",
     "image": "https://cdn.discordapp.com/emojis/937708766844043334.png",
@@ -127,6 +129,7 @@
     "name": "Yakbait"
   },
   {
+    "use_in_serenity": "U+10CD69",
     "creation_history": "Created by Andreas on January 14th, 2022. Reason: Agni made the first Dark Knight Rises reference [here](https://discord.com/channels/830522505605283862/830522505605283866/931479489584697344) and Andreas later created the emoji [in response](https://discord.com/channels/830522505605283862/830522505605283866/931492624274169866).",
     "description": "A [The Dark Knight Rises](https://www.imdb.com/title/tt1345836/) reference, usually accompanied by corresponding quotes.",
     "image": "https://cdn.discordapp.com/emojis/931492399291723817.png",
@@ -183,6 +186,7 @@
     "name": "Yakfused"
   },
   {
+    "use_in_serenity": "U+10CD1D",
     "creation_history": "Created by Agni on January 26th, 2022. Reason: After posting just a razor emoji (which is part of :imminentyakshave:), stefanos asked: [\"where's the yak you are shaving?\"](https://discord.com/channels/830522505605283862/830525235803586570/935918380463030272) and Agni responded with the :yakgone: design.",
     "description": "For when your yak has strangely (or on purpose) disappeared.",
     "image": "https://cdn.discordapp.com/emojis/935921684307902496.png",
@@ -190,6 +194,7 @@
     "name": "Yakgone"
   },
   {
+    "use_in_serenity": "U+10CD17",
     "description": "~~oh god where do I start~~ [ACID2](https://www.webstandards.org/files/acid2/test.html) is a popular test page that tests the compliance of a web browser, mainly CSS. The test is set up in such a way that only when the browser is (almost) compliant, a perfect smiley face will appear; otherwise, elements of the face are shifted, wrongly sized etc. For some time now, an ACID2 emoji :acid2:has existed on the server, demonstrating Browser's current compliance level. As to be expected, it still looks pretty bad:\n![acid2](https://cdn.discordapp.com/emojis/908128059687837776.png)\nYakid2 is then just a yak emoji in the vein of the ACID2 emoji.",
     "creation_history": "FIXME",
     "image": "https://cdn.discordapp.com/emojis/888189245594931202.png",
@@ -205,6 +210,7 @@
     "name": "Yakketysax"
   },
   {
+    "use_in_serenity": "U+10CD1A",
     "creation_history": "Created by Andreas on January 19th, 2022. Reason: After discussing the newly created yaksticker emoji, [he created yakkie](https://discord.com/channels/830522505605283862/830525235803586570/933441999846129725), probably to celebrate people's excitement about the sticker's introduction [in the shop](https://store.serenityos.org/listing/yak-sticker?product=794). The name is not yakkies, as would be expected from adopting the Twitch meme, instead the name yakkie reflects the other, much older server emote :poggie: ![poggie](https://cdn.discordapp.com/emojis/838468228279828500.png), another poggies emote that is one of the most popular emotes on the server in general.",
     "description": "A yak version of the POGGIES emote popular on Twitch. Used to show excitement.",
     "image": "https://cdn.discordapp.com/emojis/933441581258768394.png",
@@ -344,6 +350,7 @@
     "name": "Yakstack"
   },
   {
+    "use_in_serenity": "U+10CDD0",
     "creation_history": "Created by Andreas on September 11th, 2021. Reason: Checking all `VERIFY()`s in the Kernel is not a one-man job. Little by little - [:yaksteps:](https://discord.com/channels/830522505605283862/830739873119207426/886303238503170048)!\nAlternate meaning: There's a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.",
     "description": "Baby steps, but involving yaks.",
     "image": "https://cdn.discordapp.com/emojis/886305554736238654.png",
@@ -351,6 +358,7 @@
     "name": "Yaksteps"
   },
   {
+    "use_in_serenity": "U+10CD19",
     "creation_history": "Created by Agni on January 19th, 2022. Reason: Lubrsi was excited to get stickers with his :yaktoberfest: shirt and wrote [\":yaksticker:\" in his message](https://discord.com/channels/830522505605283862/830525235803586570/933369566237720596). Agni [created the emoji shortly afterwards](https://discord.com/channels/830522505605283862/830525235803586570/933371840737443911). Xexxa then [wanted to have the yak sticker in the SerenityOS shop](https://discord.com/channels/830522505605283862/830525235803586570/933390974623813665), and Andreas [made it a thing](https://store.serenityos.org/listing/yak-sticker?product=794) later the same day.",
     "description": "You want more yak? There you go, an IRL yak sticker.",
     "image": "https://cdn.discordapp.com/emojis/933379132736278669.png",
