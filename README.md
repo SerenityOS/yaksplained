@@ -30,6 +30,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yakblush](#yakblush-turns-red-and-starts-to-stutter)
 - [Yakbrain](#yakbrain-5head)
 - [Yakchain](#yakchain-stampede-approaching)
+- [Yakcowboy](#yakcowboy-yeeeeeehaw)
 - [Yakea](#yakea-everyones-favorite-swedish-furniture)
 - [Yakfire](#yakfire-smiles-this-is-fine)
 - [Yakfused](#yakfused-yak-is-confusion)
@@ -41,6 +42,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yakkiss](#yakkiss-ʘ)
 - [Yakmagnet](#yakmagnet-todo)
 - [Yakmail](#yakmail-ping-you-have-mail)
+- [Yakmando](#yakmando-this-is-the-way-of-the-yak)
 - [Yakminus](#yakminus-yakstackpop)
 - [Yakoverflow](#yakoverflow-the-programmers-favorite-website)
 - [Yakping](#yakping-discord-ping-you-have-mail)
@@ -51,6 +53,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yakshed](#yakshed-who-tf-even-came-up-with-this)
 - [Yakshrug](#yakshrug-idk-man)
 - [Yakslice](#yakslice-surprised-yak-sounds)
+- [Yakspeed](#yakspeed-i-am-3-yaks-ahead-of-you)
 - [Yaksplode](#yaksplode-even-more-surprised-yak-sounds)
 - [Yakstack](#yakstack-but-thats-already-on-the-stack)
 - [Yaksteps](#yaksteps-i-can-almost-spot-the-yak-in-the-distance)
@@ -248,6 +251,14 @@ Created by Mustafa on September 13th, 2021. Reason: A discussion about blockchai
 
 Use in SerenityOS: `U+10CD91`
 
+### Yakcowboy: Yeeeeee-haw!
+![Yakcowboy](https://cdn.discordapp.com/emojis/941117006462197840.png)
+
+A yak from the wild west. Also used for just hat-related things.
+
+Created by Andreas on February 10th, 2022. Reason: In Linus' recent JS hacking video, functions came up that [had no spec comments](https://youtu.be/FS9ny-bV8Cw?t=517). Andreas referred to the time when strict spec compliance was not a thing in LibJS as ["the wild west days of LibJS"](https://discord.com/channels/830522505605283862/830718394768162837/941116260803022928) and then created :yakcowboy:.
+
+
 ### Yakea: Everyone's favorite Swedish furniture.
 ![Yakea](https://cdn.discordapp.com/emojis/888202246301569064.png)
 
@@ -354,6 +365,14 @@ Created by Agni on December 13th 2021. Reason: After a lengthy unrelated discuss
 
 Use in SerenityOS: `U+10CD0D`
 
+### Yakmando: This is the way of the yak.
+![Yakmando](https://cdn.discordapp.com/emojis/942744796085227580.png)
+
+A yak referencing the Disney/Lucasfilm show [The Mandalorian](https://www.imdb.com/title/tt8111088/) or [Star Wars'](https://en.wikipedia.org/wiki/Star_Wars) [Mandalorians](https://starwars.fandom.com/wiki/Mandalorian) in general.
+
+Created by Linus on February 3rd, 2022. Reason: unknown, [first public appearance](https://discord.com/channels/830522505605283862/830525235803586570/938838815538302977).
+
+
 ### Yakminus: `yakstack.pop()`
 ![Yakminus](https://cdn.discordapp.com/emojis/858638240864927744.png)
 
@@ -447,6 +466,14 @@ This yak was just split up. Used when things go wrong in general, or if the yak 
 Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a harness error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851180017261346866).
 
 Use in SerenityOS: `U+10CD18`
+
+### Yakspeed: I am 3 yaks ahead of you
+![Yakspeed](https://cdn.discordapp.com/emojis/940288012720431216.png)
+
+A really fast yak, for when yaks get shaved or created at insane speeds.
+
+Created by Andreas on February 9th, 2022. Reason: In a long discussion about an elusive multi-threading event loop bug, he came in and with his first message [mentioned the cause in a single sentence](https://discord.com/channels/830522505605283862/830526926569209917/940746575632793640). Kleines Filmröllchen responded with ["kling sweeping in here to save the day :^)"](https://discord.com/channels/830522505605283862/830526926569209917/940746671904653392) to which Andreas reacted with the newly-created :yakspeed:.
+
 
 ### Yaksplode: \*even more surprised yak sounds\*
 ![Yaksplode](https://cdn.discordapp.com/emojis/851173158526517318.png)
