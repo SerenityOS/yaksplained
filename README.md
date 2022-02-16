@@ -30,7 +30,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yakblush](#yakblush-turns-red-and-starts-to-stutter)
 - [Yakbrain](#yakbrain-5head)
 - [Yakchain](#yakchain-stampede-approaching)
-- [Yakcowboy](#yakcowboy-yeeeeeehaw)
+- [Yakcowboy](#yakcowboy-yeeeeee-haw)
 - [Yakea](#yakea-everyones-favorite-swedish-furniture)
 - [Yakfire](#yakfire-smiles-this-is-fine)
 - [Yakfused](#yakfused-yak-is-confusion)
