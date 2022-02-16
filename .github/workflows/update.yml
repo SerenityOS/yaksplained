@@ -21,7 +21,7 @@ jobs:
         run: |
           set -e
           cat templates/README-prologue.md > README.md
-          jq 'sort_by(.name)|map("- [\(.name)](#\((.name+": "+.remark)|ascii_downcase|gsub("[^\\w ]"; "")|gsub(" +"; "-")))")|join("\n")' -r data/yaksplained.json >> README.md
+          jq 'sort_by(.name)|map("- [\(.name)](#\((.name+": "+.remark)|ascii_downcase|gsub("[^\\w -]"; "")|gsub(" +"; "-")))")|join("\n")' -r data/yaksplained.json >> README.md
           echo >> README.md
           cat templates/README-private-channels.md >> README.md
           echo >> README.md
