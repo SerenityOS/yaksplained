@@ -36,7 +36,7 @@ jobs:
         run: |
           set -e
           git add README.md
-          git commit -m 'Update README.md'
+          git commit -m 'Update README.md' || true
 
       - name: Push branch main back to origin
         if: ${{ github.event_name == 'push' }}
@@ -73,7 +73,7 @@ jobs:
           mv ../api .
           echo "yaksplained.org" > CNAME
           git add api CNAME
-          git commit -m 'Generate new pages'
+          git commit -m 'Generate new pages' || true
 
 
       - name: Push branch pages back to origin
