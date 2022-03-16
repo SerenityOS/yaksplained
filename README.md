@@ -72,7 +72,7 @@ Some complaints have come up about the links to private channels which explain t
 
 All yaks in this list can be queried alongside their metadata using a JSON api:
 
-https://serenityos.github.io/yaksplained/api/v1/$name.json
+https://yaksplained.org/api/v1/$name.json
 
 ### 8bityak: \*chiptune starts playing\*
 ![8bityak](https://cdn.discordapp.com/emojis/928632967545368616.png)
