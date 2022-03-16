@@ -39,7 +39,7 @@ jobs:
           git commit -m 'Update README.md' || true
 
       - name: Push branch main back to origin
-        if: ${{ github.event_name == 'push' }}
+        if: ${{ github.event_name == 'push' && github.ref_name == 'main' }}
         run: |
           git push origin main
 
@@ -77,6 +77,6 @@ jobs:
 
 
       - name: Push branch pages back to origin
-        if: ${{ github.event_name == 'push' }}
+        if: ${{ github.event_name == 'push' && github.ref_name == 'main' }}
         run: |
           git push origin pages
