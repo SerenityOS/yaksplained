@@ -48,6 +48,7 @@ jobs:
           for name in $(jq 'map(.name)|join(" ")' -r data/yaksplained.json); do
               echo "Generating data for $name..."
               jq 'map(select(.name == $expected_name))[0]' -c --arg expected_name "$name" < data/yaksplained.json > "api/v1/$name.json"
+              cp -n "api/v1/$name.json" "api/v1/${name,,}.json"
           done
           mv api ..
 
