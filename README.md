@@ -17,6 +17,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Hairyak](#hairyak-how-did-this-grow-so-fast)
 - [Imminentyakshave](#imminentyakshave-this-yaks-about-to-be-shaved)
 - [Neoyak](#neoyak-hax0r)
+- [Ninjyak](#ninjyak-it-hides-in-the-shadows-and-its-always-faster-than-you)
 - [Partyak](#partyak-congratulations)
 - [Reyakted](#reyakted-this-yak-is-named-redacted-it-was-born-on-)
 - [Shavedyak](#shavedyak-shivers)
@@ -129,6 +130,14 @@ Hacker terminal or coding-themed yak, for all your hacker needs. Used in conjunc
 Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status. Here, it is used for all the tests that caused a runner exception. Starting with [this message](https://discord.com/channels/830522505605283862/830525235803586570/851168937131638784), and with encouragement by networkException a conversation commenced that led to the creation of custom emojis for all the test runner results. _These emojis will be referred to here as the neoyak group._
 
 Use in SerenityOS: `U+10CD15`
+
+### Ninjyak: It hides in the shadows... and it's always faster than you.
+![Ninjyak](https://cdn.discordapp.com/emojis/953755103591022602.png)
+
+A ninja yak. The standard ninja emoji (:ninja:) has been in use for some time, also with the :ninjamerge: custom emoji, to express when somebody else was faster at something than you; you were "ninja'd". :ninjamerge: in particular is used when your PR was merged unexpectedly / unexpectedly fast.
+
+Created by kleines Filmröllchen on March 16th, 2022. Reason: After Sam [ninja'd everyone on explaining WHF to a newcomer](https://discord.com/channels/830522505605283862/830522505605283866/953749358690594907), people reacted to his message with :ninja: as usual. Kleines then responded with "we need :ninjak:" and it was promptly created by him and added shortly afterwards.
+
 
 ### Partyak: Congratulations!
 ![Partyak](https://cdn.discordapp.com/emojis/901168038248874045.png)
