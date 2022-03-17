@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>README</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="yaksplained-all-the-serenityos-yaks-explained">Yaksplained – All the SerenityOS Yaks, explained!</h1>
+<p>This heavily relates to <a href="http://www.serenityos.org">SerenityOS</a>.</p>
+<h2 id="on-yakshaving-and-serenitys-love-of-yaks">On Yakshaving and Serenity’s Love of Yaks</h2>
+<p>Yakshaving refers to doing work that seems pointless but is necessary to achieve a goal later down the line. In the SerenityOS developer community on <a href="https://discord.gg/serenity">Discord</a>, yakshaving is pretty prevalent (after all, building a new operating system requires a bunch of seemingly pointless gruntwork). Yak kind of became synonymous with just “the thing that I’m working on” or “the Serenity-intenal project I have”. Therefore, the entire yak thing got out of hand and quite quickly, the Unicode bison emoji (the closest thing to a yak) wasn’t enough anymore. So people created more yak emojis. And more yak emojis. And more yak emojis…</p>
+<h2 id="all-the-yaks-explained">All the Yaks Explained</h2>
+<p>Note that most of this is based on my personal observations, and while I can remember about half of these being created, I’ll most certainly be wrong in how they are used in one place or another. Order is alphabetical.</p>
+<ul>
+<li><a href="#8bityak-chiptune-starts-playing">8bityak</a></li>
+<li><a href="#angelyak-choir-sounds">Angelyak</a></li>
+<li><a href="#babyak-its-so-cuuute">Babyak</a></li>
+<li><a href="#goldyak-shineh-shineh-trophey">Goldyak</a></li>
+<li><a href="#hairyak-how-did-this-grow-so-fast">Hairyak</a></li>
+<li><a href="#imminentyakshave-this-yaks-about-to-be-shaved">Imminentyakshave</a></li>
+<li><a href="#neoyak-hax0r">Neoyak</a></li>
+<li><a href="#ninjyak-it-hides-in-the-shadows-and-its-always-faster-than-you">Ninjyak</a></li>
+<li><a href="#partyak-congratulations">Partyak</a></li>
+<li><a href="#reyakted-this-yak-is-named-redacted-it-was-born-on-">Reyakted</a></li>
+<li><a href="#shavedyak-shivers">Shavedyak</a></li>
+<li><a href="#skeleyak-thats-an-old-one">Skeleyak</a></li>
+<li><a href="#sleepyak-zzzzz">Sleepyak</a></li>
+<li><a href="#thousandyakstare-oh-god-its-looking-at-me">Thousandyakstare</a></li>
+<li><a href="#xmasyak-yakky-holidays">Xmasyak</a></li>
+<li><a href="#yak-this-should-be-obvious">Yak</a></li>
+<li><a href="#yakbait-nerd-snipe">Yakbait</a></li>
+<li><a href="#yakbane-was-shaving-yaks-part-of-your-plan">Yakbane</a></li>
+<li><a href="#yakblush-turns-red-and-starts-to-stutter">Yakblush</a></li>
+<li><a href="#yakbrain-5head">Yakbrain</a></li>
+<li><a href="#yakchain-stampede-approaching">Yakchain</a></li>
+<li><a href="#yakcowboy-yeeeeee-haw">Yakcowboy</a></li>
+<li><a href="#yakea-everyones-favorite-swedish-furniture">Yakea</a></li>
+<li><a href="#yakfire-smiles-this-is-fine">Yakfire</a></li>
+<li><a href="#yakfused-yak-is-confusion">Yakfused</a></li>
+<li><a href="#yakgone-404-yak-not-found">Yakgone</a></li>
+<li><a href="#yakid2-css-is-my-passion">Yakid2</a></li>
+<li><a href="#yakketysax-jazz-noises">Yakketysax</a></li>
+<li><a href="#yakkie-poggies">Yakkie</a></li>
+<li><a href="#yakking-the-king-of-yaks">Yakking</a></li>
+<li><a href="#yakkiss-ʘ">Yakkiss</a></li>
+<li><a href="#yakmagnet-todo">Yakmagnet</a></li>
+<li><a href="#yakmail-ping-you-have-mail">Yakmail</a></li>
+<li><a href="#yakmando-this-is-the-way-of-the-yak">Yakmando</a></li>
+<li><a href="#yakminus-yakstackpop">Yakminus</a></li>
+<li><a href="#yakoverflow-the-programmers-favorite-website">Yakoverflow</a></li>
+<li><a href="#yakping-discord-ping-you-have-mail">Yakping</a></li>
+<li><a href="#yakplus-yakstackpushnew-yak">Yakplus</a></li>
+<li><a href="#yakrage-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">Yakrage</a></li>
+<li><a href="#yakring-one-ring-to-rule-them-all-one-ring-to-find-them">Yakring</a></li>
+<li><a href="#yaksad-sheds-a-tear">Yaksad</a></li>
+<li><a href="#yakshed-who-tf-even-came-up-with-this">Yakshed</a></li>
+<li><a href="#yakshrug-idk-man">Yakshrug</a></li>
+<li><a href="#yakslice-surprised-yak-sounds">Yakslice</a></li>
+<li><a href="#yakspeed-i-am-3-yaks-ahead-of-you">Yakspeed</a></li>
+<li><a href="#yaksplode-even-more-surprised-yak-sounds">Yaksplode</a></li>
+<li><a href="#yakstack-but-thats-already-on-the-stack">Yakstack</a></li>
+<li><a href="#yaksteps-i-can-almost-spot-the-yak-in-the-distance">Yaksteps</a></li>
+<li><a href="#yaksticker-yak-in-real-life">Yaksticker</a></li>
+<li><a href="#yaktangle-well-this-got-out-of-control">Yaktangle</a></li>
+<li><a href="#yakthonk-hmmmmmmmmmmmmmmmmm">Yakthonk</a></li>
+<li><a href="#yaktoberfest-bavarian-music-intensifies">Yaktoberfest</a></li>
+</ul>
+<h4 id="regarding-private-channel-links">Regarding private channel links</h4>
+<p>Some complaints have come up about the links to private channels which explain the origins of various emojis. We have decided that providing any evidence here is better than providing no evidence, even if the only evidence is not publicly available. If you have a good reason, we (in particular kleines Filmröllchen) can provide you possibly censored screenshots of mentioned conversations.</p>
+<h3 id="api">Api</h3>
+<p>All yaks in this list can be queried alongside their metadata using a JSON api:</p>
+<p>https://yaksplained.org/api/v1/$name.json</p>
+<h3 id="bityak-chiptune-starts-playing">8bityak: *chiptune starts playing*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/928632967545368616.png" alt="8bityak" /><figcaption aria-hidden="true">8bityak</figcaption>
+</figure>
+<p>A retro yak for all your nostalgia needs.</p>
+<p>Created by Sam on or before February 28th, 2013, added as an emoji by Andreas on January 6th, 2022. The yak was created by Sam for his <a href="https://github.com/AtkinsSJ/yak">yak game</a> (<a href="http://samatkins.co.uk/games/yak/">play online if you have flash</a>) <a href="https://discord.com/channels/830522505605283862/830525235803586570/928700382551625818">as part of a game jam in 2013</a>, and Andreas uncovered it on the date he created the emoji (<a href="https://discord.com/channels/830522505605283862/831544568767578162/928630761626664971">this message</a> (private channel)).</p>
+<p>Use in SerenityOS: <code>U+10CD13</code></p>
+<h3 id="angelyak-choir-sounds">Angelyak: *choir sounds*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/937662446871654450.png" alt="Angelyak" /><figcaption aria-hidden="true">Angelyak</figcaption>
+</figure>
+<p>A holy yak. Used when someone did something really amazing or just saved your day, similar to :goldyak:.</p>
+<p>Created by Andreas on January 31st, 2022. Reason: unknown, but <a href="https://discord.com/channels/830522505605283862/830739873119207426/937710614283956294">in response to the :yak: discussion</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD1B</code></p>
+<h3 id="babyak-its-so-cuuute">Babyak: it’s so cuuute</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/929500826240696350.png" alt="Babyak" /><figcaption aria-hidden="true">Babyak</figcaption>
+</figure>
+<p>A baby-faced yak that represents very young people (or yaks, for that matter).</p>
+<p>Created by Andreas on January 8th, 2022. Reason: in a discussion, he noticed that someone was <a href="https://discord.com/channels/830522505605283862/831544568767578162/929499581123805184">less than 15 years old</a> (private channel), to which Daniel responded with “:babyak:” and Andreas created the emoji.</p>
+<p>Use in SerenityOS: <code>U+10CD67</code></p>
+<h3 id="goldyak-shineh-shineh-trophey">Goldyak: shineh shineh trophey</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/894236717421318144.png" alt="Goldyak" /><figcaption aria-hidden="true">Goldyak</figcaption>
+</figure>
+<p>A trophy-like shiny yak, for giving out awards when someone shaved a difficult yak.</p>
+<p>Created by Andreas on October 3rd, 2021. Reason: In response to (probably) some bug fix description, he wrote <a href="https://discord.com/channels/830522505605283862/886211697843531866/894235121933254696">“if it works, that’s a golden yak for you”</a>. Apparently it did work, because shortly after that, he posted the newly-created :goldyak:. The details here are a bit fuzzy, see <a href="https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824">this message</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD0B</code></p>
+<h3 id="hairyak-how-did-this-grow-so-fast">Hairyak: How did this grow so fast?</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/879749569964015646.png" alt="Hairyak" /><figcaption aria-hidden="true">Hairyak</figcaption>
+</figure>
+<p>This one’s a hairy yak to shave. Used for particularly difficult/cumbersome/long-winded problems.</p>
+<p>Created by Agni on August 24th, 2021. Reason: Andreas requested a “particularly hairy yak” <a href="https://discord.com/channels/830522505605283862/830525235803586570/879746499108556881">(first message in the chain)</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD00</code></p>
+<h3 id="imminentyakshave-this-yaks-about-to-be-shaved.">Imminentyakshave: This yak’s about to be shaved.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/866030445388365884.png" alt="Imminentyakshave" /><figcaption aria-hidden="true">Imminentyakshave</figcaption>
+</figure>
+<p>Shave incoming. Used for when you’re about to solve/currently solving a problem. Or if you noticed a problem and want to solve it right now.</p>
+<p>Created by Agni on July 17th, 2021. Reason: <a href="https://discord.com/channels/830522505605283862/830525235803586570/865881764111450112">requested by Andreas</a>. Also relevant: <a href="https://discord.com/channels/830522505605283862/830525235803586570/867538791962378240">the associated meme</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD01</code></p>
+<h3 id="neoyak-hax0r">Neoyak: Hax0r</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/851188922512048199.png" alt="Neoyak" /><figcaption aria-hidden="true">Neoyak</figcaption>
+</figure>
+<p>Hacker terminal or coding-themed yak, for all your hacker needs. Used in conjunction with Terminal or pop culture hacker-related things. Also used as a ninja yak when something ninja-related comes up.</p>
+<p>Created by Agni on June 6th, 2021. Reason: symbols for the bot’s LibJS test262 runner status. Here, it is used for all the tests that caused a runner exception. Starting with <a href="https://discord.com/channels/830522505605283862/830525235803586570/851168937131638784">this message</a>, and with encouragement by networkException a conversation commenced that led to the creation of custom emojis for all the test runner results. <em>These emojis will be referred to here as the neoyak group.</em></p>
+<p>Use in SerenityOS: <code>U+10CD15</code></p>
+<h3 id="ninjyak-it-hides-in-the-shadows-and-its-always-faster-than-you.">Ninjyak: It hides in the shadows… and it’s always faster than you.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/953755103591022602.png" alt="Ninjyak" /><figcaption aria-hidden="true">Ninjyak</figcaption>
+</figure>
+<p>A ninja yak. The standard ninja emoji (:ninja:) has been in use for some time, also with the :ninjamerge: custom emoji, to express when somebody else was faster at something than you; you were “ninja’d”. :ninjamerge: in particular is used when your PR was merged unexpectedly / unexpectedly fast.</p>
+<p>Created by kleines Filmröllchen on March 16th, 2022. Reason: After Sam <a href="https://discord.com/channels/830522505605283862/830522505605283866/953749358690594907">ninja’d everyone on explaining WHF to a newcomer</a>, people reacted to his message with :ninja: as usual. Kleines then responded with “we need :ninjak:” and it was promptly created by him and added shortly afterwards.</p>
+<h3 id="partyak-congratulations">Partyak: Congratulations!</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/901168038248874045.png" alt="Partyak" /><figcaption aria-hidden="true">Partyak</figcaption>
+</figure>
+<p>This yak is having a party, compare to the default (i.e. Unicode) 🥳 emoji.</p>
+<p>Created by Andreas on October 21st, 2021. Reason: <a href="https://discord.com/channels/830522505605283862/830522505605283866/900713226810064967">celebration of the :yakking: emoji</a> (see below).</p>
+<p>Use in SerenityOS: <code>U+10CD60</code></p>
+<h3 id="reyakted-this-yak-is-named-redacted-it-was-born-on-.">Reyakted: This yak is named [REDACTED], it was born on ■■■■■■■.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/896486220106956810.png" alt="Reyakted" /><figcaption aria-hidden="true">Reyakted</figcaption>
+</figure>
+<p>(Note to the RFC editor: Insert an SCP joke here.)</p>
+<p>Created by Linus on October 9th, 2021. Reason: After discussing the :goldyak: origins (see above) with <a href="https://discord.com/channels/830522505605283862/830525235803586570/896476288167071824">Linus’ blacked-out screenshot</a>, Sam asked <a href="https://discord.com/channels/830522505605283862/830525235803586570/896484164059156490">“:reyakted: emote wen?”</a> and Linus promptly created it.</p>
+<p>Use in SerenityOS: <code>U+10CD08</code></p>
+<h3 id="shavedyak-shivers">Shavedyak: *shivers*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/919968342368993301.png" alt="Shavedyak" /><figcaption aria-hidden="true">Shavedyak</figcaption>
+</figure>
+<p>A completely shaved or even naked yak. The ultimate endpoint in the yakshaving sequence.</p>
+<p>Created by Agni on December 13th, 2021. Reason: While he was working on yakmail (see below), he apparently deleted the entire hair, <a href="https://discord.com/channels/830522505605283862/830525235803586570/919965580365287455">creating shavedyak accidentally</a>. Linus was quick to point out that <a href="https://discord.com/channels/830522505605283862/830525235803586570/919966596460589096">“This is cursed, I’d be happy to add it as :shavedyak:”</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD02</code></p>
+<h3 id="skeleyak-thats-an-old-one.">Skeleyak: That’s an old one.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/851188921290457150.png" alt="Skeleyak" /><figcaption aria-hidden="true">Skeleyak</figcaption>
+</figure>
+<p><a href="https://github.com/SerenityOS/artwork/blob/master/images/emotes/skeleyak.png">Image in SerenityOS/artwork</a></p>
+<p>When one of your yaks is really old or just has been sitting around for a long time.</p>
+<p>Created by Agni on June 6th, 2021. Reason: symbols for the bot’s LibJS test262 runner status, part of the <em>neoyak</em> group. Here, it is used for all the tests that timed out. See <a href="https://discord.com/channels/830522505605283862/830525235803586570/851176393000747089">this message</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD14</code></p>
+<h3 id="sleepyak-zzzzz">Sleepyak: Zzzzz…</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/870598400016535554.png" alt="Sleepyak" /><figcaption aria-hidden="true">Sleepyak</figcaption>
+</figure>
+<p>Don’t wake the yak. A general sleep emoji.</p>
+<p>Created by Agni on July 30th, 2021. Reason: unknown. <a href="https://discord.com/channels/830522505605283862/830525235803586570/870589889320742932">First version’s message</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD09</code></p>
+<h3 id="thousandyakstare-oh-god-its-looking-at-me">Thousandyakstare: Oh god, it’s looking at me</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/931283776850505759.png" alt="Thousandyakstare" /><figcaption aria-hidden="true">Thousandyakstare</figcaption>
+</figure>
+<p>The stare of a thousand yaks. Are they in anger or rage, or are they just annoyed or tired? I don’t know.</p>
+<p>Created by Andreas on January 13th, 2022. Reason: After discussing the transfer of this very repository to the SerenityOS organization, kleines Filmröllchen said <a href="https://discord.com/channels/830522505605283862/831544568767578162/931286643346927627">“I’ll just scream at you when something’s amiss, sound good?”</a> (private channel) and Andreas responded with the newly created emoji as “you [kleines] provided the perfect opportunity to try it out!”. The idea for the emoji must be a bit older, because on January 5th Andreas responded to Tobias’ <a href="https://discord.com/channels/830522505605283862/830525031720943627/928398680443224104">posting of a very complex CSS spec image</a> with the then-nonexistent :thousandyakstare:.</p>
+<p>Use in SerenityOS: <code>U+10CD62</code></p>
+<h3 id="xmasyak-yakky-holidays">Xmasyak: Yakky Holidays!</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/915529868219940944.png" alt="Xmasyak" /><figcaption aria-hidden="true">Xmasyak</figcaption>
+</figure>
+<p>A christmas-themed yak, partially inspired by the fact that many people add a santa hat to their avatar in December.</p>
+<p>Created by Andreas before December 1st, 2021. Reason: probably the above, or the question for a “SerenityOS Winter Holiday Theme”. <a href="https://discord.com/channels/830522505605283862/830522505605283866/915406501760348170">This message</a> is the first to include xmasyak as a reaction.</p>
+<p>Use in SerenityOS: <code>U+10CDB0</code></p>
+<h3 id="yak-this-should-be-obvious.">Yak: This should be obvious.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/937708766844043334.png" alt="Yak" /><figcaption aria-hidden="true">Yak</figcaption>
+</figure>
+<p>Just the standard yak emoji, which originally is the bison emoji from the <a href="https://twemoji.twitter.com/">open-source Twitter emoji set “Twemoji”</a></p>
+<p>As Discord normally uses this emoji set, it became the template for all the other yak emojis. However, on iOS, 🦬 (bison) instead looks like this: <img src="https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png" alt="iOS bison" /> For this reason, Andreas <a href="https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109">added the Twemoji bison as :yak:</a> on January 31st, 2022.</p>
+<p>Use in SerenityOS: <code>U+10CD1C</code></p>
+<h3 id="yakbait-nerd-snipe.">Yakbait: Nerd Snipe.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/873672505309679758.png" alt="Yakbait" /><figcaption aria-hidden="true">Yakbait</figcaption>
+</figure>
+<p>A yak just baiting you to be shaved. Serenity’s version of the <a href="https://xkcd.com/356/">nerd snipe</a>.</p>
+<p>Created by Andreas on August 7th, 2021. Reason: Andrew commented <a href="https://discord.com/channels/830522505605283862/831544568767578162/873671201262817290">“don’t yak bait me I’m trying to work on the build system lol”</a> (private channel). The similarity to the nerd snipe was first mentioned by networkException a couple of days later <a href="https://discord.com/channels/830522505605283862/859531354219872266/875851312686825564">(this message)</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD07</code></p>
+<h3 id="yakbane-was-shaving-yaks-part-of-your-plan">Yakbane: <em>Was shaving yaks part of your plan?</em></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/931492399291723817.png" alt="Yakbane" /><figcaption aria-hidden="true">Yakbane</figcaption>
+</figure>
+<p>A <a href="https://www.imdb.com/title/tt1345836/">The Dark Knight Rises</a> reference, usually accompanied by corresponding quotes.</p>
+<p>Created by Andreas on January 14th, 2022. Reason: Agni made the first Dark Knight Rises reference <a href="https://discord.com/channels/830522505605283862/830522505605283866/931479489584697344">here</a> and Andreas later created the emoji <a href="https://discord.com/channels/830522505605283862/830522505605283866/931492624274169866">in response</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD69</code></p>
+<h3 id="yakblush-turns-red-and-starts-to-stutter">Yakblush: *turns red and starts to stutter*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/921153579266498590.png" alt="Yakblush" /><figcaption aria-hidden="true">Yakblush</figcaption>
+</figure>
+<p>A blushing yak emote like the Unicode 😊.</p>
+<p>Created by Agni on December 16th, 2021. Reason: after discussing the ages of contributors, Brian remarked that <a href="https://discord.com/channels/830522505605283862/831544568767578162/921149719747625040">“Damn, serenity has a lot of Wunderkinds”</a> (private channel), to which Daniel responded with “:yakblush:”. Agni quickly joined in with the newly created Yakblush emoji. <a href="https://discord.com/channels/830522505605283862/830718394768162837/921724736009011251">This</a> is the first public message containing it.</p>
+<p>Use in SerenityOS: <code>U+10CD63</code></p>
+<h3 id="yakbrain-5head">Yakbrain: 5Head</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/853957472607273001.png" alt="Yakbrain" /><figcaption aria-hidden="true">Yakbrain</figcaption>
+</figure>
+<p>That’s smart. Comparable use to the 5Head emoji.</p>
+<p>Created by Andreas on August 14th, 2021. Reason: unknown.</p>
+<p>Use in SerenityOS: <code>U+10CD0A</code></p>
+<h3 id="yakchain-stampede-approaching">Yakchain: *stampede approaching*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/887111540967366677.png" alt="Yakchain" /><figcaption aria-hidden="true">Yakchain</figcaption>
+</figure>
+<p>There’s a yak, that leads to another yak, that leads to another yak, … and so on.</p>
+<p>Created by Mustafa on September 13th, 2021. Reason: A discussion about blockchain and microkernels (don’t ask).</p>
+<p>Use in SerenityOS: <code>U+10CD91</code></p>
+<h3 id="yakcowboy-yeeeeee-haw">Yakcowboy: Yeeeeee-haw!</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/941117006462197840.png" alt="Yakcowboy" /><figcaption aria-hidden="true">Yakcowboy</figcaption>
+</figure>
+<p>A yak from the wild west. Also used for just hat-related things.</p>
+<p>Created by Andreas on February 10th, 2022. Reason: In Linus’ recent JS hacking video, functions came up that <a href="https://youtu.be/FS9ny-bV8Cw?t=517">had no spec comments</a>. Andreas referred to the time when strict spec compliance was not a thing in LibJS as <a href="https://discord.com/channels/830522505605283862/830718394768162837/941116260803022928">“the wild west days of LibJS”</a> and then created :yakcowboy:.</p>
+<h3 id="yakea-everyones-favorite-swedish-furniture.">Yakea: Everyone’s favorite Swedish furniture.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/888202246301569064.png" alt="Yakea" /><figcaption aria-hidden="true">Yakea</figcaption>
+</figure>
+<p>A yak in the style of <a href="https://www.ikea.com/">IKEA</a>, the infamous Swedish furniture company that has come to kind of (ironically and unironically) represent Sweden internationally. A reference to the fact that Andreas is Swedish.</p>
+<p>Created by Linus on September 17th, 2021. Reason: In the discussion that ensued from the announcement of :yakid2: (see below), Sam mentioned that the emoji looked like <a href="https://discord.com/channels/830522505605283862/830525235803586570/888193041091928074">“Björn, the yak from Ikea”</a>, to which Andreas responded “Yakea*” and during a chain of Yak-Ikea-related jokes, Linus created the emoji.</p>
+<p>Use in SerenityOS: <code>U+10CD16</code></p>
+<h3 id="yakfire-smiles-this-is-fine">Yakfire: *smiles* This is fine!</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/860262878984536065.png" alt="Yakfire" /><figcaption aria-hidden="true">Yakfire</figcaption>
+</figure>
+<p>Something just blew up/went wrong, or you found a fun bug. Can also be used as a “This is fine!” analog.</p>
+<p>Created by Andreas on July 1st, 2021. Reason: Brian requested a <a href="https://discord.com/channels/830522505605283862/851522357734408232/860261769577234452">“Yak/Buggie wrapped in a warm blanket sipping Earl Grey in front of a fire emoji”</a> and Andreas made yakfire instead because it wouldn’t be as complicated. “Interpretation left to the viewer”.</p>
+<p>Use in SerenityOS: <code>U+10CD0F</code></p>
+<h3 id="yakfused-yak-is-confusion.">Yakfused: Yak is confusion.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/851873832003960833.png?v=1" alt="Yakfused" /><figcaption aria-hidden="true">Yakfused</figcaption>
+</figure>
+<p><a href="https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakfused.png">Image in SerenityOS/artwork</a></p>
+<p>Generic confusion emoji.</p>
+<p>Created by Agni on June 8th, 2021. Reason: In response to an admittedly <a href="https://discord.com/channels/830522505605283862/851522357734408232/851871356051521546">weird comment by Ali</a>, Agni used the non-existing catdogconfused, to which Andreas responded with the then-non-existing yakfused. This was promptly created by Agni.</p>
+<p>Use in SerenityOS: <code>U+10CD12</code></p>
+<h3 id="yakgone-404-yak-not-found">Yakgone: <code>404 Yak Not Found</code></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/935921684307902496.png" alt="Yakgone" /><figcaption aria-hidden="true">Yakgone</figcaption>
+</figure>
+<p>For when your yak has strangely (or on purpose) disappeared.</p>
+<p>Created by Agni on January 26th, 2022. Reason: After posting just a razor emoji (which is part of :imminentyakshave:), stefanos asked: <a href="https://discord.com/channels/830522505605283862/830525235803586570/935918380463030272">“where’s the yak you are shaving?”</a> and Agni responded with the :yakgone: design.</p>
+<p>Use in SerenityOS: <code>U+10CD1D</code></p>
+<h3 id="yakid2-css-is-my-passion">Yakid2: CSS is my passion</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/888189245594931202.png" alt="Yakid2" /><figcaption aria-hidden="true">Yakid2</figcaption>
+</figure>
+<p><del>oh god where do I start</del> <a href="https://www.webstandards.org/files/acid2/test.html">ACID2</a> is a popular test page that tests the compliance of a web browser, mainly CSS. The test is set up in such a way that only when the browser is (almost) compliant, a perfect smiley face will appear; otherwise, elements of the face are shifted, wrongly sized etc. For some time now, an ACID2 emoji :acid2:has existed on the server, demonstrating Browser’s current compliance level. As to be expected, it still looks pretty bad: <img src="https://cdn.discordapp.com/emojis/908128059687837776.png" alt="acid2" /> Yakid2 is then just a yak emoji in the vein of the ACID2 emoji.</p>
+<p>FIXME</p>
+<p>Use in SerenityOS: <code>U+10CD17</code></p>
+<h3 id="yakketysax-jazz-noises">Yakketysax: *jazz noises*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/877495327635157053.png" alt="Yakketysax" /><figcaption aria-hidden="true">Yakketysax</figcaption>
+</figure>
+<p>A musical yak. “For when you’re chasing a yak around all day and getting nowhere.”</p>
+<p>Created by Sam Atkins on August 18th, 2021. Reason: <a href="https://discord.com/channels/830522505605283862/831144706079195176/877495085191794699">the aforementioned purpose</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD68</code></p>
+<h3 id="yakkie-poggies">Yakkie: POGGIES</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/933441581258768394.png" alt="Yakkie" /><figcaption aria-hidden="true">Yakkie</figcaption>
+</figure>
+<p>A yak version of the POGGIES emote popular on Twitch. Used to show excitement.</p>
+<p>Created by Andreas on January 19th, 2022. Reason: After discussing the newly created yaksticker emoji, <a href="https://discord.com/channels/830522505605283862/830525235803586570/933441999846129725">he created yakkie</a>, probably to celebrate people’s excitement about the sticker’s introduction <a href="https://store.serenityos.org/listing/yak-sticker?product=794">in the shop</a>. The name is not yakkies, as would be expected from adopting the Twitch meme, instead the name yakkie reflects the other, much older server emote :poggie: <img src="https://cdn.discordapp.com/emojis/838468228279828500.png" alt="poggie" />, another poggies emote that is one of the most popular emotes on the server in general.</p>
+<p>Use in SerenityOS: <code>U+10CD1A</code></p>
+<h3 id="yakking-the-king-of-yaks">Yakking: The king of yaks</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/900686373844025364.png" alt="Yakking" /><figcaption aria-hidden="true">Yakking</figcaption>
+</figure>
+<p><a href="https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakking.png">Image in SerenityOS/artwork</a></p>
+<p>When someone is the king at accumulating or shaving yaks Alternate meaning: A particularly precious yak</p>
+<p>Created by networkException on October 21th, 2021. Reason: Agni welcomed Andreas back with “welcome back king”. Andreas responded with “right back at you yak king” which Agni responded to with “🦬 👑”.</p>
+<p>Use in SerenityOS: <code>U+10CD0C</code></p>
+<h3 id="yakkiss-ʘ">Yakkiss: /ʘ/</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/883457694789406732.png?v=1" alt="Yakkiss" /><figcaption aria-hidden="true">Yakkiss</figcaption>
+</figure>
+<p>Delicious, approved by yak. Used as a replacement for the chef kiss emoji (which also exists on the server), in particular when relating to code.</p>
+<p>Created by Andreas on September 3rd, 2021. Reason: a couple of days earlier, Brian noted <a href="https://discord.com/channels/830522505605283862/831544568767578162/880934728428056648">“(I think we need :yakkiss:)”</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD61</code></p>
+<h3 id="yakmagnet-todo">Yakmagnet: TODO</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/885265534470459473.png" alt="Yakmagnet" /><figcaption aria-hidden="true">Yakmagnet</figcaption>
+</figure>
+<p>Some people just attract yaks left and right. Like a yak magnet.</p>
+<p>Created by Andreas on September 8th, 2021. Reason: unknown. Probably someone attracting yet another yak.</p>
+<p>Use in SerenityOS: <code>U+10CD0E</code></p>
+<h3 id="yakmail-ping-you-have-mail">Yakmail: <em>*Ping* You have mail!</em></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/919968307212333116.png" alt="Yakmail" /><figcaption aria-hidden="true">Yakmail</figcaption>
+</figure>
+<p>Since Serenity has an e-mail client, it’s only logical that there’s a mail-themed yak.</p>
+<p>Created by Agni on December 13th 2021. Reason: After a lengthy unrelated discussion, Andreas pointed out that <a href="https://discord.com/channels/830522505605283862/830522505605283866/919916646326476861">“that sounds like the building blocks of blackmail”</a>, to which GMTA responded “:yakmail:” and Agni created the emoji.</p>
+<p>Use in SerenityOS: <code>U+10CD0D</code></p>
+<h3 id="yakmando-this-is-the-way-of-the-yak.">Yakmando: This is the way of the yak.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/942744796085227580.png" alt="Yakmando" /><figcaption aria-hidden="true">Yakmando</figcaption>
+</figure>
+<p>A yak referencing the Disney/Lucasfilm show <a href="https://www.imdb.com/title/tt8111088/">The Mandalorian</a> or <a href="https://en.wikipedia.org/wiki/Star_Wars">Star Wars’</a> <a href="https://starwars.fandom.com/wiki/Mandalorian">Mandalorians</a> in general.</p>
+<p>Created by Linus on February 3rd, 2022. Reason: unknown, <a href="https://discord.com/channels/830522505605283862/830525235803586570/938838815538302977">first public appearance</a>.</p>
+<h3 id="yakminus-yakstack.pop">Yakminus: <code>yakstack.pop()</code></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/858638240864927744.png" alt="Yakminus" /><figcaption aria-hidden="true">Yakminus</figcaption>
+</figure>
+<p><a href="https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakminus.png">Image in SerenityOS/artwork</a></p>
+<p>You just managed to finish work on something. One yak is off the stack!</p>
+<p>Created by Agni on June 27th, 2021. Reason: unknown <a href="https://discord.com/channels/830522505605283862/830525235803586570/858635750970359808">(this message)</a>. They first mentioned the idea on June 14th <a href="https://discord.com/channels/830522505605283862/830525235803586570/854076622365655060">here</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD05</code></p>
+<h3 id="yakoverflow-the-programmers-favorite-website.">Yakoverflow: The programmer’s favorite website.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/855122942097489970.png" alt="Yakoverflow" /><figcaption aria-hidden="true">Yakoverflow</figcaption>
+</figure>
+<p>A pun on Stack Overflow, obviously. When the yak stack gets too large.</p>
+<p>Created by Andreas on June 17th, 2021. Reason: Brian requested <a href="https://discord.com/channels/830522505605283862/831544568767578162/855121465112395806">“We need agni to make a yakoverflow icon, like the stack overflow logo :^)”</a> (private channel).</p>
+<p>Use in SerenityOS: <code>U+10CD93</code></p>
+<h3 id="yakping-discord-ping-you-have-mail">Yakping: <em>*Discord ping* You have mail!</em></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/893078703800745994.png" alt="Yakping" /><figcaption aria-hidden="true">Yakping</figcaption>
+</figure>
+<p>This yak was <span class="citation" data-cites="mentioned">@mentioned</span>. Used for when you get pinged by people.</p>
+<p>Created by Linus on September 30th, 2021. Reason: <a href="https://discord.com/channels/830522505605283862/830525235803586570/893093905514504222">“inspired by none other than yourself [Agni]”</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD04</code></p>
+<h3 id="yakplus-yakstack.pushnew-yak">Yakplus: <code>yakstack.push(new Yak())</code></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/858658840371265566.png" alt="Yakplus" /><figcaption aria-hidden="true">Yakplus</figcaption>
+</figure>
+<p><a href="https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakplus.png">Image in SerenityOS/artwork</a></p>
+<p>You found a problem you want to work on. There’s a new yak for your stack!</p>
+<p>Created by Andreas on June 14th, 2021. Reason: in response to Lubrsi saying <a href="https://discord.com/channels/830522505605283862/851522357734408232/853953089873510451">“aaaaaaaaand our parser is too non-spec-compliant for that workaround”</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD03</code></p>
+<h3 id="yakrage-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">Yakrage: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/886216551131406356.gif" alt="Yakrage" /><figcaption aria-hidden="true">Yakrage</figcaption>
+</figure>
+<p>Yak angry. General angry emoji.</p>
+<p>Created by Andreas on September 11th, 2021. Reason: Ali raging about JS stuff (reeeeeeeeee).</p>
+<p>Use in SerenityOS: <code>U+10CDE0-U+10CDE5</code></p>
+<h3 id="yakring-one-ring-to-rule-them-all-one-ring-to-find-them">Yakring: <em>One Ring to rule them all, / One Ring to find them,</em></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/924399473780736010.png" alt="Yakring" /><figcaption aria-hidden="true">Yakring</figcaption>
+</figure>
+<p><em>One Ring to bring them all / and in the darkness bind them</em> <del>(Sorry)</del>. When some yak chain closes back in on itself, or just a reference to circular buffers.</p>
+<p>Created by Andreas on December 25th, 2021. Reason: In a discussion about CI flakiness, Daniel commented <a href="https://discord.com/channels/830522505605283862/830739873119207426/924387598116478976">“:yakcircularbuffer:”</a>, referencing the fact that circular buffers in the Kernel might be the culprit for many of these fails and crashes. In response Andreas created :yakring: and <a href="https://discord.com/channels/830522505605283862/830739873119207426/924401950643093544">Agni first</a> made the <a href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings">Lord of the Rings</a> reference replicated above.</p>
+<p>Use in SerenityOS: <code>U+10CD92</code></p>
+<h3 id="yaksad-sheds-a-tear">Yaksad: *sheds a tear*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/920328207276867634.png" alt="Yaksad" /><figcaption aria-hidden="true">Yaksad</figcaption>
+</figure>
+<p>A sad yak emoji similar to the Unicode 😢.</p>
+<p>Created by Agni on December 14th, 2021. Reason: <a href="https://discord.com/channels/830522505605283862/831544568767578162/920323814917832705">Requested by Linus, originally under the name of <code>:sadyak:</code></a> (private channel). It was changed to <code>:yaksad:</code> to <a href="https://discord.com/channels/830522505605283862/831544568767578162/920327908428492880">make it consistent with the name of the other yak emotes and thus make it easier to autocomplete</a> (private channel).</p>
+<p>Use in SerenityOS: <code>U+10CD66</code></p>
+<h3 id="yakshed-who-tf-even-came-up-with-this">Yakshed: <del>who tf even came up with this</del></h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/866370560493223977.png" alt="Yakshed" /><figcaption aria-hidden="true">Yakshed</figcaption>
+</figure>
+<p>A combination of yak shaving and bikeshedding. The latter refers to <a href="https://en.wiktionary.org/wiki/bikeshedding">procrastination or investing time into unimportant issues</a> (as opposed to yakshaving, where time is invested into only <em>seemingly</em> unimportant issues). The emoji can be used when the distinction is not exactly clear.</p>
+<p>Created by Andreas on July 18th, 2021. Reason: unknown.</p>
+<p>Use in SerenityOS: <code>U+10CD11</code></p>
+<h3 id="yakshrug-idk-man">Yakshrug: idk man</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/870805412847443978.png" alt="Yakshrug" /><figcaption aria-hidden="true">Yakshrug</figcaption>
+</figure>
+<p>Serenity’s shrug emoji. People have mentioned that it looks kind of creepy.</p>
+<p>Created by Agni on July 31st, 2021. Reason: Andreas responded to <a href="https://discord.com/channels/830522505605283862/830739873119207426/870797713439072308">their use of a shrug emoji</a> with the then-non-existent yakshrug, which resulted in the creation of the emoji.</p>
+<p>Use in SerenityOS: <code>U+10CD64</code></p>
+<h3 id="yakslice-surprised-yak-sounds">Yakslice: *surprised yak sounds*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/851188921881854012.png" alt="Yakslice" /><figcaption aria-hidden="true">Yakslice</figcaption>
+</figure>
+<p>This yak was just split up. Used when things go wrong in general, or if the yak just got deeper.</p>
+<p>Created by Agni on June 6th, 2021. Reason: symbols for the bot’s LibJS test262 runner status, part of the <em>neoyak</em> group. Here, it is used for all the tests that encounter a harness error. See <a href="https://discord.com/channels/830522505605283862/830525235803586570/851180017261346866">this message</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD18</code></p>
+<h3 id="yakspeed-i-am-3-yaks-ahead-of-you">Yakspeed: I am 3 yaks ahead of you</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/940288012720431216.png" alt="Yakspeed" /><figcaption aria-hidden="true">Yakspeed</figcaption>
+</figure>
+<p>A really fast yak, for when yaks get shaved or created at insane speeds.</p>
+<p>Created by Andreas on February 9th, 2022. Reason: In a long discussion about an elusive multi-threading event loop bug, he came in and with his first message <a href="https://discord.com/channels/830522505605283862/830526926569209917/940746575632793640">mentioned the cause in a single sentence</a>. Kleines Filmröllchen responded with <a href="https://discord.com/channels/830522505605283862/830526926569209917/940746671904653392">“kling sweeping in here to save the day :^)”</a> to which Andreas reacted with the newly-created :yakspeed:.</p>
+<h3 id="yaksplode-even-more-surprised-yak-sounds">Yaksplode: *even more surprised yak sounds*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/851173158526517318.png" alt="Yaksplode" /><figcaption aria-hidden="true">Yaksplode</figcaption>
+</figure>
+<p><a href="https://github.com/SerenityOS/artwork/blob/master/images/emotes/yaksplode.png">Image in SerenityOS/artwork</a></p>
+<p>Yak go boom. Similar in use to yakslice, used when things go wrong. Especially for crashes and the likes.</p>
+<p>Created by Agni on June 6th, 2021: Reason: symbols for the bot’s LibJS test262 runner status, part of the <em>neoyak</em> group. Here, it is used for all the tests that encounter a (regular) error. See <a href="https://discord.com/channels/830522505605283862/830525235803586570/851172304959307777">this message</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD10</code></p>
+<h3 id="yakstack-but-thats-already-on-the-stack">Yakstack: But that’s already on the stack</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/855017260779438091.png" alt="Yakstack" /><figcaption aria-hidden="true">Yakstack</figcaption>
+</figure>
+<p>Refers to the stuff you want to do in Serenity, your to-do list etc. Used similar to yakoverflow, just in general when referencing all of the many things that are to be done.</p>
+<p>Created by Andreas on June 17th, 2021. Reason: unknown. Various people used the term “yakstack” beforehand.</p>
+<p>Use in SerenityOS: <code>U+10CD90</code></p>
+<h3 id="yaksteps-i-can-almost-spot-the-yak-in-the-distance.">Yaksteps: I can almost spot the yak in the distance.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/886305554736238654.png" alt="Yaksteps" /><figcaption aria-hidden="true">Yaksteps</figcaption>
+</figure>
+<p>Baby steps, but involving yaks.</p>
+<p>Created by Andreas on September 11th, 2021. Reason: Checking all <code>VERIFY()</code>s in the Kernel is not a one-man job. Little by little - <a href="https://discord.com/channels/830522505605283862/830739873119207426/886303238503170048">:yaksteps:</a>! Alternate meaning: There’s a yak hiding here. When something seems to lead to a shaveable yak, but you currently only see its traces.</p>
+<p>Use in SerenityOS: <code>U+10CDD0</code></p>
+<h3 id="yaksticker-yak-in-real-life.">Yaksticker: Yak in real life.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/933379132736278669.png" alt="Yaksticker" /><figcaption aria-hidden="true">Yaksticker</figcaption>
+</figure>
+<p>You want more yak? There you go, an IRL yak sticker.</p>
+<p>Created by Agni on January 19th, 2022. Reason: Lubrsi was excited to get stickers with his :yaktoberfest: shirt and wrote <a href="https://discord.com/channels/830522505605283862/830525235803586570/933369566237720596">“:yaksticker:” in his message</a>. Agni <a href="https://discord.com/channels/830522505605283862/830525235803586570/933371840737443911">created the emoji shortly afterwards</a>. Xexxa then <a href="https://discord.com/channels/830522505605283862/830525235803586570/933390974623813665">wanted to have the yak sticker in the SerenityOS shop</a>, and Andreas <a href="https://store.serenityos.org/listing/yak-sticker?product=794">made it a thing</a> later the same day.</p>
+<p>Use in SerenityOS: <code>U+10CD19</code></p>
+<h3 id="yaktangle-well-this-got-out-of-control.">Yaktangle: Well… this got out of control.</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/879749676167991316.png" alt="Yaktangle" /><figcaption aria-hidden="true">Yaktangle</figcaption>
+</figure>
+<p>A box of hair. Used for the most difficult/cumbersome/long-winded problems.</p>
+<p>Created by Agni on August 24th, 2021 together with <em>hairyak</em>.</p>
+<p>Use in SerenityOS: <code>U+10CD06</code></p>
+<h3 id="yakthonk-hmmmmmmmmmmmmmmmmm">Yakthonk: Hmmmmmmmmmmmmmmmmm</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/877928647300898856.png" alt="Yakthonk" /><figcaption aria-hidden="true">Yakthonk</figcaption>
+</figure>
+<p>Serenity’s thonk emoji, for when something is very strange/interesting.</p>
+<p>Created by Andreas on August 19th, 2021. Reason: unknown. The idea was previously mentioned by him on June 8th, 2021 <a href="https://discord.com/channels/830522505605283862/830525235803586570/851874120148451350">here</a>.</p>
+<p>Use in SerenityOS: <code>U+10CD65</code></p>
+<h3 id="yaktoberfest-bavarian-music-intensifies">Yaktoberfest: *bavarian music intensifies*</h3>
+<figure>
+<img src="https://cdn.discordapp.com/emojis/885576692687597638.png" alt="Yaktoberfest" /><figcaption aria-hidden="true">Yaktoberfest</figcaption>
+</figure>
+<p>FIXME</p>
+<p>Created by Andreas on September 9th, 2021. Reason: It’s that time of the year again - <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> is back (very soon)!</p>
+<p>Use in SerenityOS: <code>U+10CDB1</code></p>
+<h2 id="list-of-people-involved">List of people involved</h2>
+<p>Discord tags in brackets.</p>
+<ul>
+<li>Agni (<span class="citation" data-cites="Agni#5047">@Agni#5047</span>)</li>
+<li>Sam Atkins (<span class="citation" data-cites="AtkinsSJ#8644">@AtkinsSJ#8644</span>)</li>
+<li>Andreas Kling (<span class="citation" data-cites="awesomekling#1985">@awesomekling#1985</span>)</li>
+<li>Brian Gianforcaro (<span class="citation" data-cites="bgianf#0001">@bgianf#0001</span>)</li>
+<li>Ali Muhammadpur (<span class="citation" data-cites="CxByte_#0373">@CxByte_#0373</span>)</li>
+<li>Lubrsi (<span class="citation" data-cites="Lubrsi#5588">@Lubrsi#5588</span>)</li>
+<li>networkException (<span class="citation" data-cites="networkException#0001">@networkException#0001</span>)</li>
+<li>Andrew Kaster (<span class="citation" data-cites="Rambo#6840">@Rambo#6840</span>)</li>
+<li>Linus Groh (<span class="citation" data-cites="linusg#0001">@linusg#0001</span>)</li>
+<li>GMTA (<span class="citation" data-cites="GMTA#9448">@GMTA#9448</span>)</li>
+<li>Daniel Bertalan (<span class="citation" data-cites="BertalanD#7826">@BertalanD#7826</span>)</li>
+<li>kleines Filmröllchen (<span class="citation" data-cites="kleines">@kleines</span> Filmröllchen#0427)</li>
+<li>Xexxa (<span class="citation" data-cites="Xexxa#7670">@Xexxa#7670</span>)</li>
+<li>stefanos (<span class="citation" data-cites="stefanos82#2740">@stefanos82#2740</span>)</li>
+</ul>
+</body>
+</html>
