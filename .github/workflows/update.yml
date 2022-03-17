@@ -54,6 +54,16 @@ jobs:
           done
           mv api ..
 
+      - name: Install pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: '2.13'
+
+      - name: Generate index.html page from README.md
+        run: |
+            pandoc -s README.md -o index.html
+            mv index.html ..
+
       - name: Checkout this repo (branch pages)
         uses: actions/checkout@v2
         with:
@@ -71,8 +81,9 @@ jobs:
           set -e
           rm -fr api
           mv ../api .
+          mv ../index.html .
           echo "yaksplained.org" > CNAME
-          git add api CNAME
+          git add api CNAME index.html
           git commit -m 'Generate new pages' || true
 
 
