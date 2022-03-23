@@ -390,6 +390,7 @@
     "name": "Yaktoberfest"
   },
   {
+    "use_in_serenity": "U+10CD20",
     "creation_history": "Created by Andreas on February 9th, 2022. Reason: In a long discussion about an elusive multi-threading event loop bug, he came in and with his first message [mentioned the cause in a single sentence](https://discord.com/channels/830522505605283862/830526926569209917/940746575632793640). Kleines Filmröllchen responded with [\"kling sweeping in here to save the day :^)\"](https://discord.com/channels/830522505605283862/830526926569209917/940746671904653392) to which Andreas reacted with the newly-created :yakspeed:.",
     "description": "A really fast yak, for when yaks get shaved or created at insane speeds.",
     "image": "https://cdn.discordapp.com/emojis/940288012720431216.png",
@@ -397,6 +398,7 @@
     "name": "Yakspeed"
   },
   {
+    "use_in_serenity": "U+10CD1F",
     "creation_history": "Created by Andreas on February 10th, 2022. Reason: In Linus' recent JS hacking video, functions came up that [had no spec comments](https://youtu.be/FS9ny-bV8Cw?t=517). Andreas referred to the time when strict spec compliance was not a thing in LibJS as [\"the wild west days of LibJS\"](https://discord.com/channels/830522505605283862/830718394768162837/941116260803022928) and then created :yakcowboy:.",
     "description": "A yak from the wild west. Also used for just hat-related things.",
     "image": "https://cdn.discordapp.com/emojis/941117006462197840.png",
@@ -404,6 +406,7 @@
     "name": "Yakcowboy"
   },
   {
+    "use_in_serenity": "U+10CD21",
     "creation_history": "Created by Linus on February 3rd, 2022. Reason: unknown, [first public appearance](https://discord.com/channels/830522505605283862/830525235803586570/938838815538302977).",
     "description": "A yak referencing the Disney/Lucasfilm show [The Mandalorian](https://www.imdb.com/title/tt8111088/) or [Star Wars'](https://en.wikipedia.org/wiki/Star_Wars) [Mandalorians](https://starwars.fandom.com/wiki/Mandalorian) in general.",
     "image": "https://cdn.discordapp.com/emojis/942744796085227580.png",
