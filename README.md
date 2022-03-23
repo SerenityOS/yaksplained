@@ -273,6 +273,7 @@ A yak from the wild west. Also used for just hat-related things.
 
 Created by Andreas on February 10th, 2022. Reason: In Linus' recent JS hacking video, functions came up that [had no spec comments](https://youtu.be/FS9ny-bV8Cw?t=517). Andreas referred to the time when strict spec compliance was not a thing in LibJS as ["the wild west days of LibJS"](https://discord.com/channels/830522505605283862/830718394768162837/941116260803022928) and then created :yakcowboy:.
 
+Use in SerenityOS: `U+10CD1F`
 
 ### Yakea: Everyone's favorite Swedish furniture.
 ![Yakea](https://cdn.discordapp.com/emojis/888202246301569064.png)
@@ -387,6 +388,7 @@ A yak referencing the Disney/Lucasfilm show [The Mandalorian](https://www.imdb.c
 
 Created by Linus on February 3rd, 2022. Reason: unknown, [first public appearance](https://discord.com/channels/830522505605283862/830525235803586570/938838815538302977).
 
+Use in SerenityOS: `U+10CD21`
 
 ### Yakminus: `yakstack.pop()`
 ![Yakminus](https://cdn.discordapp.com/emojis/858638240864927744.png)
@@ -489,6 +491,7 @@ A really fast yak, for when yaks get shaved or created at insane speeds.
 
 Created by Andreas on February 9th, 2022. Reason: In a long discussion about an elusive multi-threading event loop bug, he came in and with his first message [mentioned the cause in a single sentence](https://discord.com/channels/830522505605283862/830526926569209917/940746575632793640). Kleines Filmröllchen responded with ["kling sweeping in here to save the day :^)"](https://discord.com/channels/830522505605283862/830526926569209917/940746671904653392) to which Andreas reacted with the newly-created :yakspeed:.
 
+Use in SerenityOS: `U+10CD20`
 
 ### Yaksplode: \*even more surprised yak sounds\*
 ![Yaksplode](https://cdn.discordapp.com/emojis/851173158526517318.png)
