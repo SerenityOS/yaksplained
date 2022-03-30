@@ -144,6 +144,7 @@ A ninja yak. The standard ninja emoji (:ninja:) has been in use for some time, a
 
 Created by kleines Filmröllchen on March 16th, 2022. Reason: After Sam [ninja'd everyone on explaining WHF to a newcomer](https://discord.com/channels/830522505605283862/830522505605283866/953749358690594907), people reacted to his message with :ninja: as usual. Kleines then responded with "we need :ninjak:" and it was promptly created by him and added shortly afterwards.
 
+Use in SerenityOS: `U+10CD22`
 
 ### Partyak: Congratulations!
 ![Partyak](https://cdn.discordapp.com/emojis/901168038248874045.png)
