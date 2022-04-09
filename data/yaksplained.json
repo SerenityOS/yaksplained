@@ -115,7 +115,7 @@
   {
     "use_in_serenity": "U+10CD1C",
     "creation_history": "As Discord normally uses this emoji set, it became the template for all the other yak emojis. However, on iOS, 🦬 (bison) instead looks like this:\n![iOS bison](https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png)\nFor this reason, Andreas [added the Twemoji bison as :yak:](https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109) on January 31st, 2022.",
-    "description": "Just the standard yak emoji, which originally is the bison emoji from the [open-source Twitter emoji set \"Twemoji\"](https://twemoji.twitter.com/)",
+    "description": "Just the standard yak emoji, which originally is the bison emoji from the [open-source Twitter emoji set \"Twemoji\"](https://twemoji.twitter.com/). This references the activity of \"yak shaving\" - to quote Urban Dictionary: \"Any seemingly pointless activity which is actually necessary to solve a problem which solves a problem which, several levels of recursion later, solves the real problem you're working on.\"",
     "image": "https://cdn.discordapp.com/emojis/937708766844043334.png",
     "remark": "This should be obvious.",
     "name": "Yak"
