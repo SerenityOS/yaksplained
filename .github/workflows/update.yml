@@ -61,7 +61,7 @@ jobs:
 
       - name: Generate index.html page from README.md
         run: |
-            pandoc -s README.md -o index.html
+            pandoc -f gfm -s README.md -o index.html
             mv index.html ..
 
       - name: Checkout this repo (branch pages)
