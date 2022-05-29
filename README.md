@@ -349,7 +349,7 @@ Use in SerenityOS: `U+10CD1A`
 [Image in SerenityOS/artwork](https://github.com/SerenityOS/artwork/blob/master/images/emotes/yakking.png)
 
 When someone is the king at accumulating or shaving yaks
-Alternate meaning: A particularly precious yak
+Alternate meaning: A particularly precious yak.
 
 Created by networkException on October 21th, 2021. Reason: Agni welcomed Andreas back with "welcome back king". Andreas responded with "right back at you yak king" which Agni responded to with "🦬 👑".
 
