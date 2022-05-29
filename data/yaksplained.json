@@ -114,7 +114,7 @@
   },
   {
     "use_in_serenity": "U+10CD1C",
-    "creation_history": "As Discord normally uses this emoji set, it became the template for all the other yak emojis. However, on iOS, 🦬 (bison) instead looks like this:\n![iOS bison](https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png)\nFor this reason, Andreas [added the Twemoji bison as :yak:](https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109) on January 31st, 2022.",
+    "creation_history": "As Discord normally uses this emoji set, it became the template for all the other yak emojis. However, on iOS, 🦬 (bison) instead looks like this:\n\n![iOS bison](https://cdn.discordapp.com/attachments/830739873119207426/937709746402787398/unknown.png)\n\nFor this reason, Andreas [added the Twemoji bison as :yak:](https://discord.com/channels/830522505605283862/830739873119207426/937708898750722109) on January 31st, 2022.",
     "description": "Just the standard yak emoji, which originally is the bison emoji from the [open-source Twitter emoji set \"Twemoji\"](https://twemoji.twitter.com/)",
     "image": "https://cdn.discordapp.com/emojis/937708766844043334.png",
     "remark": "This should be obvious.",
@@ -211,7 +211,7 @@
   },
   {
     "use_in_serenity": "U+10CD1A",
-    "creation_history": "Created by Andreas on January 19th, 2022. Reason: After discussing the newly created yaksticker emoji, [he created yakkie](https://discord.com/channels/830522505605283862/830525235803586570/933441999846129725), probably to celebrate people's excitement about the sticker's introduction [in the shop](https://store.serenityos.org/listing/yak-sticker?product=794). The name is not yakkies, as would be expected from adopting the Twitch meme, instead the name yakkie reflects the other, much older server emote :poggie: ![poggie](https://cdn.discordapp.com/emojis/838468228279828500.png), another poggies emote that is one of the most popular emotes on the server in general.",
+    "creation_history": "Created by Andreas on January 19th, 2022. Reason: After discussing the newly created yaksticker emoji, [he created yakkie](https://discord.com/channels/830522505605283862/830525235803586570/933441999846129725), probably to celebrate people's excitement about the sticker's introduction [in the shop](https://store.serenityos.org/listing/yak-sticker?product=794). The name is not yakkies, as would be expected from adopting the Twitch meme, instead the name yakkie reflects the other, much older server emote :poggie:\n\n![poggie](https://cdn.discordapp.com/emojis/838468228279828500.png)\n\n which is another poggies emote that is one of the most popular emotes on the server in general.",
     "description": "A yak version of the POGGIES emote popular on Twitch. Used to show excitement.",
     "image": "https://cdn.discordapp.com/emojis/933441581258768394.png",
     "remark": "POGGIES",
