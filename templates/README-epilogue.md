@@ -16,3 +16,4 @@ Discord tags in brackets.
 * kleines Filmröllchen (@kleines Filmröllchen#0427)
 * Xexxa (@Xexxa#7670)
 * stefanos (@stefanos82#2740)
+* MacDue (The Arsonist#0660)
