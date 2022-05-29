@@ -62,6 +62,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yaktangle](#yaktangle-well-this-got-out-of-control)
 - [Yakthonk](#yakthonk-hmmmmmmmmmmmmmmmmm)
 - [Yaktoberfest](#yaktoberfest-bavarian-music-intensifies)
+- [Yowl](#yowl-up-all-night-again)
 
 #### Regarding private channel links
 
@@ -566,6 +567,14 @@ Created by Andreas on September 9th, 2021. Reason: It's that time of the year ag
 
 Use in SerenityOS: `U+10CDB1`
 
+### Yowl: Up all night again...
+![Yowl](https://cdn.discordapp.com/emojis/974795816629833738.png)
+
+Is it a yak? Is it an owl? We may never know... Dedicated to those staying up till the wee-hours hacking on Serenity.
+
+Created by MacDue on May 13th, 2022. Reason: [Requested by Linus under the name `:yakowl:`](https://discord.com/channels/830522505605283862/830525235803586570/974749805463093288). Added as `:yowl:` after [Agni suggested the shortened name](https://discord.com/channels/830522505605283862/830525235803586570/974749834949058610).
+
+
 
 ## List of people involved
 
@@ -585,3 +594,4 @@ Discord tags in brackets.
 * kleines Filmröllchen (@kleines Filmröllchen#0427)
 * Xexxa (@Xexxa#7670)
 * stefanos (@stefanos82#2740)
+* MacDue (The Arsonist#0660)
