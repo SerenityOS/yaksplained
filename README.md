@@ -387,7 +387,7 @@ Use in SerenityOS: `U+10CD0D`
 
 A yak referencing the Disney/Lucasfilm show [The Mandalorian](https://www.imdb.com/title/tt8111088/) or [Star Wars'](https://en.wikipedia.org/wiki/Star_Wars) [Mandalorians](https://starwars.fandom.com/wiki/Mandalorian) in general.
 
-Created by Linus on February 3rd, 2022. Reason: unknown, [first public appearance](https://discord.com/channels/830522505605283862/830525235803586570/938838815538302977).
+Created by Andreas on February 3rd, 2022. Reason: unknown, [first public appearance](https://discord.com/channels/830522505605283862/830525235803586570/938838815538302977).
 
 Use in SerenityOS: `U+10CD21`
 
