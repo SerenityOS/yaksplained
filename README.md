@@ -574,6 +574,7 @@ Is it a yak? Is it an owl? We may never know... Dedicated to those staying up ti
 
 Created by MacDue on May 13th, 2022. Reason: [Requested by Linus under the name `:yakowl:`](https://discord.com/channels/830522505605283862/830525235803586570/974749805463093288). Added as `:yowl:` after [Agni suggested the shortened name](https://discord.com/channels/830522505605283862/830525235803586570/974749834949058610).
 
+Use in SerenityOS: `U+10CD23`
 
 
 ## List of people involved
