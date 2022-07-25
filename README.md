@@ -54,6 +54,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yakshed](#yakshed-who-tf-even-came-up-with-this)
 - [Yakshrug](#yakshrug-idk-man)
 - [Yakslice](#yakslice-surprised-yak-sounds)
+- [Yakslow](#yakslow-some-are-not-that-fast)
 - [Yakspeed](#yakspeed-i-am-3-yaks-ahead-of-you)
 - [Yaksplode](#yaksplode-even-more-surprised-yak-sounds)
 - [Yakstack](#yakstack-but-thats-already-on-the-stack)
@@ -491,6 +492,14 @@ This yak was just split up. Used when things go wrong in general, or if the yak 
 Created by Agni on June 6th, 2021. Reason: symbols for the bot's LibJS test262 runner status, part of the _neoyak_ group. Here, it is used for all the tests that encounter a harness error. See [this message](https://discord.com/channels/830522505605283862/830525235803586570/851180017261346866).
 
 Use in SerenityOS: `U+10CD18`
+
+### Yakslow: Some are not that fast
+![Yakslow](https://cdn.discordapp.com/emojis/1000443169776869406.png)
+
+A yak that is more of a slow turtle, for things that are rather slow.
+
+Created by Agni on July 23rd, 2022. Reason: The idea had been floating around for a while, but they [finally created it](https://discord.com/channels/830522505605283862/830525235803586570/1000424431006515280) after some more requests came in.
+
 
 ### Yakspeed: I am 3 yaks ahead of you
 ![Yakspeed](https://cdn.discordapp.com/emojis/940288012720431216.png)
