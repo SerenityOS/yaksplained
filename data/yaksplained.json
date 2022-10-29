@@ -430,10 +430,43 @@
     "name": "Yowl"
   },
   {
+    "use_in_serenity": "U+10CD24",
     "creation_history": "Created by Agni on July 23rd, 2022. Reason: The idea had been floating around for a while, but they [finally created it](https://discord.com/channels/830522505605283862/830525235803586570/1000424431006515280) after some more requests came in.",
     "description": "A yak that is more of a slow turtle, for things that are rather slow.",
     "image": "https://cdn.discordapp.com/emojis/1000443169776869406.png",
     "remark": "Some are not that fast",
     "name": "Yakslow"
+  },
+  {
+    "use_in_serenity": "U+10CD25",
+    "creation_history": "",
+    "description": "",
+    "image": "https://cdn.discordapp.com/emojis/983340685774163998.png",
+    "remark": "",
+    "name": "Buffyak"
+  },
+  {
+    "use_in_serenity": "U+10CD26",
+    "creation_history": "",
+    "description": "",
+    "image": "https://cdn.discordapp.com/emojis/1016844499797938177.png",
+    "remark": "",
+    "name": "Yaktrap"
+  },
+  {
+    "use_in_serenity": "U+10CD6A",
+    "creation_history": "",
+    "description": "",
+    "image": "https://cdn.discordapp.com/emojis/1008743632028835860.png",
+    "remark": "",
+    "name": "Yakthink"
+  },
+  {
+    "use_in_serenity": "U+10CD6B",
+    "creation_history": "",
+    "description": "",
+    "image": "https://cdn.discordapp.com/emojis/1035641580666761297.png",
+    "remark": "",
+    "name": "Hyperyakkie"
   }
 ]
