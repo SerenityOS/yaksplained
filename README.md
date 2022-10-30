@@ -13,8 +13,10 @@ Note that most of this is based on my personal observations, and while I can rem
 - [8bityak](#8bityak-chiptune-starts-playing)
 - [Angelyak](#angelyak-choir-sounds)
 - [Babyak](#babyak-its-so-cuuute)
+- [Buffyak](#buffyak-)
 - [Goldyak](#goldyak-shineh-shineh-trophey)
 - [Hairyak](#hairyak-how-did-this-grow-so-fast)
+- [Hyperyakkie](#hyperyakkie-)
 - [Imminentyakshave](#imminentyakshave-this-yaks-about-to-be-shaved)
 - [Neoyak](#neoyak-hax0r)
 - [Ninyak](#ninyak-it-hides-in-the-shadows-and-its-always-faster-than-you)
@@ -61,8 +63,10 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yaksteps](#yaksteps-i-can-almost-spot-the-yak-in-the-distance)
 - [Yaksticker](#yaksticker-yak-in-real-life)
 - [Yaktangle](#yaktangle-well-this-got-out-of-control)
+- [Yakthink](#yakthink-)
 - [Yakthonk](#yakthonk-hmmmmmmmmmmmmmmmmm)
 - [Yaktoberfest](#yaktoberfest-bavarian-music-intensifies)
+- [Yaktrap](#yaktrap-)
 - [Yowl](#yowl-up-all-night-again)
 
 #### Regarding private channel links
@@ -103,6 +107,15 @@ Created by Andreas on January 8th, 2022. Reason: in a discussion, he noticed tha
 
 Use in SerenityOS: `U+10CD67`
 
+### Buffyak: 
+![Buffyak](https://cdn.discordapp.com/emojis/983340685774163998.png)
+
+
+
+
+
+Use in SerenityOS: `U+10CD25`
+
 ### Goldyak: shineh shineh trophey
 ![Goldyak](https://cdn.discordapp.com/emojis/894236717421318144.png)
 
@@ -120,6 +133,15 @@ This one's a hairy yak to shave. Used for particularly difficult/cumbersome/long
 Created by Agni on August 24th, 2021. Reason: Andreas requested a "particularly hairy yak" [(first message in the chain)](https://discord.com/channels/830522505605283862/830525235803586570/879746499108556881).
 
 Use in SerenityOS: `U+10CD00`
+
+### Hyperyakkie: 
+![Hyperyakkie](https://cdn.discordapp.com/emojis/1035641580666761297.png)
+
+
+
+
+
+Use in SerenityOS: `U+10CD6B`
 
 ### Imminentyakshave: This yak's about to be shaved.
 ![Imminentyakshave](https://cdn.discordapp.com/emojis/866030445388365884.png)
@@ -500,6 +522,7 @@ A yak that is more of a slow turtle, for things that are rather slow.
 
 Created by Agni on July 23rd, 2022. Reason: The idea had been floating around for a while, but they [finally created it](https://discord.com/channels/830522505605283862/830525235803586570/1000424431006515280) after some more requests came in.
 
+Use in SerenityOS: `U+10CD24`
 
 ### Yakspeed: I am 3 yaks ahead of you
 ![Yakspeed](https://cdn.discordapp.com/emojis/940288012720431216.png)
@@ -558,6 +581,15 @@ Created by Agni on August 24th, 2021 together with _hairyak_.
 
 Use in SerenityOS: `U+10CD06`
 
+### Yakthink: 
+![Yakthink](https://cdn.discordapp.com/emojis/1008743632028835860.png)
+
+
+
+
+
+Use in SerenityOS: `U+10CD6A`
+
 ### Yakthonk: Hmmmmmmmmmmmmmmmmm
 ![Yakthonk](https://cdn.discordapp.com/emojis/877928647300898856.png)
 
@@ -575,6 +607,15 @@ FIXME
 Created by Andreas on September 9th, 2021. Reason: It's that time of the year again - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is back (very soon)!
 
 Use in SerenityOS: `U+10CDB1`
+
+### Yaktrap: 
+![Yaktrap](https://cdn.discordapp.com/emojis/1016844499797938177.png)
+
+
+
+
+
+Use in SerenityOS: `U+10CD26`
 
 ### Yowl: Up all night again...
 ![Yowl](https://cdn.discordapp.com/emojis/974795816629833738.png)
