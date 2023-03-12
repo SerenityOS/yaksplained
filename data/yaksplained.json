@@ -439,34 +439,34 @@
   },
   {
     "use_in_serenity": "U+10CD25",
-    "creation_history": "",
-    "description": "",
+    "creation_history": "Created by MacDue on June 6th, 2022. Reason: After a lot of discussion and proposals of possible logos for the then very new Jakt language, MacDue half-jokingly created :buffyak: with the comment [\"(Real) Jakt logo just leaked\"](https://discord.com/channels/830522505605283862/831144706079195176/983335941433356360).",
+    "description": "A yak with muscular arms, used for strong or impressive achievements as well as generally in relation to the Jakt programming language.",
     "image": "https://cdn.discordapp.com/emojis/983340685774163998.png",
-    "remark": "",
+    "remark": "\*flexes muscles\*",
     "name": "Buffyak"
   },
   {
     "use_in_serenity": "U+10CD26",
-    "creation_history": "",
-    "description": "",
+    "creation_history": "Created by Agni on September 7th, 2022. Reason: Luke noted that [\"I just saw that there\'s a 🪤 (mouse trap) emoji, now I\'m imagining the cheese being a yak\"](https://discord.com/channels/830522505605283862/1012807179075600535/1016842661736489091). After some Dall-E yak-shaped cheese was posted by nooga, Agni [created :yaktrap:](https://discord.com/channels/830522505605283862/1012807179075600535/1016844356340158465).",
+    "description": "Based on the mouse trap emoji of twemoji, except with a yak. Used when someone is \"trapped\" into shaving a yak, such as unexpectedly discovering a problem that needs fixing or working on a problem that turns out to be much more complicated than anticipated.",
     "image": "https://cdn.discordapp.com/emojis/1016844499797938177.png",
-    "remark": "",
+    "remark": "IT'S A TRAP!",
     "name": "Yaktrap"
   },
   {
     "use_in_serenity": "U+10CD6A",
-    "creation_history": "",
-    "description": "",
+    "creation_history": "Created by Andreas on August 15th, 2022. Reason: Andreas [\"tried convincing DALL-E to make :poggie:\"](https://discord.com/channels/830522505605283862/831544568767578162/1008731022579482745) and posted his humorous but not outstanding results. After some more attempts and discussions, Andreas moved on to recreating :yakthonk:, and had success with [\"yak face, thinking deeply, hand holding chin, one eyebrow raised, emoji, comic, 3d\"](https://discord.com/channels/830522505605283862/831544568767578162/1008742071689039872).",
+    "description": "A DALL-E-generated version of :yakthonk:, used similarly to that emoji.",
     "image": "https://cdn.discordapp.com/emojis/1008743632028835860.png",
-    "remark": "",
+    "remark": "Hmmmmmmmmm but AI",
     "name": "Yakthink"
   },
   {
     "use_in_serenity": "U+10CD6B",
-    "creation_history": "",
-    "description": "",
+    "creation_history": "Created before October 30th, 2022. Reason: unknown.",
+    "description": "An extreme version of :yakkie:, where the yak has gained laser eyes in the tradition of \"hyper\" emojis.",
     "image": "https://cdn.discordapp.com/emojis/1035641580666761297.png",
-    "remark": "",
+    "remark": "HYPERPOGGIES",
     "name": "Hyperyakkie"
   }
 ]
