@@ -13,10 +13,10 @@ Note that most of this is based on my personal observations, and while I can rem
 - [8bityak](#8bityak-chiptune-starts-playing)
 - [Angelyak](#angelyak-choir-sounds)
 - [Babyak](#babyak-its-so-cuuute)
-- [Buffyak](#buffyak-)
+- [Buffyak](#buffyak-flexes-muscles)
 - [Goldyak](#goldyak-shineh-shineh-trophey)
 - [Hairyak](#hairyak-how-did-this-grow-so-fast)
-- [Hyperyakkie](#hyperyakkie-)
+- [Hyperyakkie](#hyperyakkie-hyperpoggies)
 - [Imminentyakshave](#imminentyakshave-this-yaks-about-to-be-shaved)
 - [Neoyak](#neoyak-hax0r)
 - [Ninyak](#ninyak-it-hides-in-the-shadows-and-its-always-faster-than-you)
@@ -63,10 +63,10 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yaksteps](#yaksteps-i-can-almost-spot-the-yak-in-the-distance)
 - [Yaksticker](#yaksticker-yak-in-real-life)
 - [Yaktangle](#yaktangle-well-this-got-out-of-control)
-- [Yakthink](#yakthink-)
+- [Yakthink](#yakthink-hmmmmmmmmm-but-ai)
 - [Yakthonk](#yakthonk-hmmmmmmmmmmmmmmmmm)
 - [Yaktoberfest](#yaktoberfest-bavarian-music-intensifies)
-- [Yaktrap](#yaktrap-)
+- [Yaktrap](#yaktrap-its-a-trap)
 - [Yowl](#yowl-up-all-night-again)
 
 #### Regarding private channel links
@@ -107,12 +107,12 @@ Created by Andreas on January 8th, 2022. Reason: in a discussion, he noticed tha
 
 Use in SerenityOS: `U+10CD67`
 
-### Buffyak: 
+### Buffyak: \*flexes muscles\*
 ![Buffyak](https://cdn.discordapp.com/emojis/983340685774163998.png)
 
+A yak with muscular arms, used for strong or impressive achievements as well as generally in relation to the Jakt programming language.
 
-
-
+Created by MacDue on June 6th, 2022. Reason: After a lot of discussion and proposals of possible logos for the then very new Jakt language, MacDue half-jokingly created :buffyak: with the comment ["(Real) Jakt logo just leaked"](https://discord.com/channels/830522505605283862/831144706079195176/983335941433356360).
 
 Use in SerenityOS: `U+10CD25`
 
@@ -134,12 +134,12 @@ Created by Agni on August 24th, 2021. Reason: Andreas requested a "particularly 
 
 Use in SerenityOS: `U+10CD00`
 
-### Hyperyakkie: 
+### Hyperyakkie: HYPERPOGGIES
 ![Hyperyakkie](https://cdn.discordapp.com/emojis/1035641580666761297.png)
 
+An extreme version of :yakkie:, where the yak has gained laser eyes in the tradition of "hyper" emojis.
 
-
-
+Created before October 30th, 2022. Reason: unknown.
 
 Use in SerenityOS: `U+10CD6B`
 
@@ -581,12 +581,12 @@ Created by Agni on August 24th, 2021 together with _hairyak_.
 
 Use in SerenityOS: `U+10CD06`
 
-### Yakthink: 
+### Yakthink: Hmmmmmmmmm but AI
 ![Yakthink](https://cdn.discordapp.com/emojis/1008743632028835860.png)
 
+A DALL-E-generated version of :yakthonk:, used similarly to that emoji.
 
-
-
+Created by Andreas on August 15th, 2022. Reason: Andreas ["tried convincing DALL-E to make :poggie:"](https://discord.com/channels/830522505605283862/831544568767578162/1008731022579482745) and posted his humorous but not outstanding results. After some more attempts and discussions, Andreas moved on to recreating :yakthonk:, and had success with ["yak face, thinking deeply, hand holding chin, one eyebrow raised, emoji, comic, 3d"](https://discord.com/channels/830522505605283862/831544568767578162/1008742071689039872).
 
 Use in SerenityOS: `U+10CD6A`
 
@@ -608,12 +608,12 @@ Created by Andreas on September 9th, 2021. Reason: It's that time of the year ag
 
 Use in SerenityOS: `U+10CDB1`
 
-### Yaktrap: 
+### Yaktrap: IT'S A TRAP!
 ![Yaktrap](https://cdn.discordapp.com/emojis/1016844499797938177.png)
 
+Based on the mouse trap emoji of twemoji, except with a yak. Used when someone is "trapped" into shaving a yak, such as unexpectedly discovering a problem that needs fixing or working on a problem that turns out to be much more complicated than anticipated.
 
-
-
+Created by Agni on September 7th, 2022. Reason: Luke noted that ["I just saw that there's a 🪤 (mouse trap) emoji, now I'm imagining the cheese being a yak"](https://discord.com/channels/830522505605283862/1012807179075600535/1016842661736489091). After some Dall-E yak-shaped cheese was posted by nooga, Agni [created :yaktrap:](https://discord.com/channels/830522505605283862/1012807179075600535/1016844356340158465).
 
 Use in SerenityOS: `U+10CD26`
 
