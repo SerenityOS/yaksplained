@@ -139,7 +139,7 @@ Use in SerenityOS: `U+10CD00`
 
 An extreme version of :yakkie:, where the yak has gained laser eyes in the tradition of "hyper" emojis.
 
-Created before October 30th, 2022. Reason: unknown.
+Created by Andreas on October 29th, 2022. Reason: unknown, shared with Linus with the comment "oh btw I made this thing", [first public appearance](https://discord.com/channels/830522505605283862/859531354219872266/1036392186272563260).
 
 Use in SerenityOS: `U+10CD6B`
 
