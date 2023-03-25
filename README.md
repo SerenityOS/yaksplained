@@ -33,6 +33,7 @@ Note that most of this is based on my personal observations, and while I can rem
 - [Yakblush](#yakblush-turns-red-and-starts-to-stutter)
 - [Yakbrain](#yakbrain-5head)
 - [Yakchain](#yakchain-stampede-approaching)
+- [Yakchill](#yakchill-cool-down-cool-down)
 - [Yakcowboy](#yakcowboy-yeeeeee-haw)
 - [Yakea](#yakea-everyones-favorite-swedish-furniture)
 - [Yakfire](#yakfire-smiles-this-is-fine)
@@ -292,6 +293,14 @@ There's a yak, that leads to another yak, that leads to another yak, ... and so 
 Created by Mustafa on September 13th, 2021. Reason: A discussion about blockchain and microkernels (don't ask).
 
 Use in SerenityOS: `U+10CD91`
+
+### Yakchill: cool down, cool down
+![Yakchill](https://cdn.discordapp.com/emojis/1088822819183407154.png)
+
+A very chill and relaxed yak, for when you need to calm down and take things less seriously.
+
+Created by Agni on March 25th, 2023. Reason: Fabian noted that ["We need a generic :yakchill: and not only :chillkling:"](https://discord.com/channels/830522505605283862/830522505605283866/1088818837086023681) since there evidently were too many hyper emojis and not enough chill emojis. Agni said "be careful what you wish for" and then created :yakchill:, which was promptly added.
+
 
 ### Yakcowboy: Yeeeeee-haw!
 ![Yakcowboy](https://cdn.discordapp.com/emojis/941117006462197840.png)
